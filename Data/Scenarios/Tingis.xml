@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Tingis>
+  <StringTable>
+    <String id="OVERVIEW">Великі битви з Карфагеном канули в минуле. Але Рим ще належить заволодіти багатствами південного Середземномор'я. На землях Мавританії, далеко на заході, тобі доведеться звести місто Тінгіс. Потрібні робочі руки, щоб накопичити і переправити до Риму військове спорядження та місцеві товари. Колонія розташована в родючій долині, поруч із покладами заліза. Але тут води мало. Пам'ятай про місцеві племена. Вороги неорганізовані, але заздрість та жадібність штовхає їх на запеклі набіги. </String>
+    <String id="HISTORY"></String>
+    <String id="HINTS"></String>
+    <String id="AFTERMATH"></String>
+    <String id="SCENARIONAME">Тінгіс</String>
+    <String id="WIN">Перемога за перемогою! Цезар приголомшений і просто розчавлений твоєю тріумфальною ходою землями Імперії. Подейкують, він навіть має намір поріднитися з тобою!</String>
+    <String id="LOSE">На захід від Тінгіса простягся безлюдний безмежний океан. Після поразки в Танжері твоє майбутнє буде таким самим - нескінченно порожнім.</String>
+    <String id="POPULATION">10,000</String>
+    <String id="FAVOR">80</String>
+    <String id="CULTURE">50</String>
+    <String id="PROSPERITY">50</String>
+    <String id="SECURITY">40</String>
+
+    <String id="REQUEST_0_TITLE">ORD_M зброю</String>
+    <String id="REQUEST_0_HEADING">Рим вимагає надіслати зброю</String>
+    <String id="REQUEST_0_BODY">Римські війська на марші. Негайно прийшла зброя.</String>
+    <String id="REQUEST_0_FAILURE">Тобі не вдалося виконати вимоги Риму, і його вподобання знизилося.</String>
+    <String id="REQUEST_1_TITLE">ORD_M обладунки</String>
+    <String id="REQUEST_1_HEADING">Рим вимагає надіслати обладунки!</String>
+    <String id="REQUEST_1_BODY">Римські війська на марші. Негайно прийшли обладунки.</String>
+    <String id="REQUEST_1_FAILURE">Тобі не вдалося виконати вимоги Риму, і його вподобання знизилося.</String>
+    <String id="REQUEST_2_TITLE">ORD_B оливкова олія</String>
+    <String id="REQUEST_2_HEADING">Рим вимагає надіслати оливкову олію</String>
+    <String id="REQUEST_2_BODY">Населення Риму зростає, запити теж. Тобі наказано надіслати оливкову олію.</String>
+    <String id="REQUEST_2_FAILURE">Тобі не вдалося виконати вимоги Риму, і його вподобання знизилося.</String>
+    <String id="REQUEST_3_TITLE">ORD_F м'ясо</String>
+    <String id="REQUEST_3_HEADING">Рим вимагає надіслати їжу</String>
+    <String id="REQUEST_3_BODY">Рим голодує. Необхідно терміново відправити туди м'ясо.</String>
+    <String id="REQUEST_3_FAILURE">Тобі не вдалося виконати вимоги Риму, і його вподобання знизилося.</String>
+    <String id="REQUEST_4_TITLE">ORD_L вино</String>
+    <String id="REQUEST_4_HEADING">Рим вимагає надіслати вино</String>
+    <String id="REQUEST_4_BODY">Рим висуває нові вимоги. Терміново прийшла партія вина.</String>
+    <String id="REQUEST_4_FAILURE">Тобі не вдалося виконати вимоги Риму, і його вподобання знизилося.</String>
+    <String id="REQUEST_5_TITLE">REQ_F зерно</String>
+    <String id="REQUEST_5_HEADING">Запит на їжу</String>
+    <String id="REQUEST_5_BODY">У Римі незабаром відбудуться свята. Просимо надіслати зерно для бенкету. </String>
+    <String id="REQUEST_5_FAILURE">Тобі не вдалося догодити Риму і домогтися його вподобання.</String>
+    <String id="REQUEST_6_TITLE">REQ_M зброя</String>
+    <String id="REQUEST_6_HEADING">Запит на зброю</String>
+    <String id="REQUEST_6_BODY">Римські легіони потрібно озброювати. Прийшли до Риму зброя.</String>
+    <String id="REQUEST_6_FAILURE">Тобі не вдалося догодити Риму і домогтися його вподобання.</String>
+    <String id="REQUEST_7_TITLE">REQ_M обладунки</String>
+    <String id="REQUEST_7_HEADING">Запит на обладунки</String>
+    <String id="REQUEST_7_BODY">Римські легіони потрібно озброювати. Прийшли до Риму обладунки.</String>
+    <String id="REQUEST_7_FAILURE">Тобі не вдалося догодити Риму і домогтися його вподобання.</String>
+
+    <!---->
+    <!-- INVASIONS-->
+    <!---->
+    <String id="INVASION_0_TITLE">Розбійники-бедуїни</String>
+    <String id="INVASION_0_YEAR"></String>
+    <String id="INVASION_0_THREE_MONTH"></String>
+    <String id="INVASION_0_ONE_MONTH">Вороги взяли в облогу наше місто. Щодня ми чекаємо на атаки.</String>
+    <String id="INVASION_0_ARRIVAL">Настав час взятися за мечі і дати відсіч ворогам! Захистимо наше місто!</String>
+
+
+    <String id="SITE_0_LABEL">Лацій</String>
+    <String id="SITE_0_FULLNAME">Лацій</String>
+    <String id="SITE_0_SITETYPE">Римська провінція</String>
+    <String id="SITE_0_OPEN">!</String>
+    <String id="SITE_0_CLOSED">!</String>
+    <String id="SITE_0_HISTORY">!</String>
+    <String id="SITE_0_DEACTIVE">!</String>
+    <String id="SITE_1_LABEL">Сардинія</String>
+    <String id="SITE_1_FULLNAME">Сардинія</String>
+    <String id="SITE_1_SITETYPE">Римська провінція</String>
+    <String id="SITE_1_OPEN">!</String>
+    <String id="SITE_1_CLOSED">!</String>
+    <String id="SITE_1_HISTORY">!</String>
+    <String id="SITE_1_DEACTIVE">!</String>
+    <String id="SITE_2_LABEL">Єгипет</String>
+    <String id="SITE_2_FULLNAME">Єгипет</String>
+    <String id="SITE_2_SITETYPE">Римська провінція</String>
+    <String id="SITE_2_OPEN">!</String>
+    <String id="SITE_2_CLOSED">!</String>
+    <String id="SITE_2_HISTORY">!</String>
+    <String id="SITE_2_DEACTIVE">!</String>
+    <String id="SITE_3_LABEL">Африка</String>
+    <String id="SITE_3_FULLNAME">Африка</String>
+    <String id="SITE_3_SITETYPE">Римська провінція</String>
+    <String id="SITE_3_OPEN">!</String>
+    <String id="SITE_3_CLOSED">!</String>
+    <String id="SITE_3_HISTORY">!</String>
+    <String id="SITE_3_DEACTIVE">!</String>
+    <String id="SITE_4_LABEL">Нумідія</String>
+    <String id="SITE_4_FULLNAME">Нумідія</String>
+    <String id="SITE_4_SITETYPE">Римська провінція</String>
+    <String id="SITE_4_OPEN">!</String>
+    <String id="SITE_4_CLOSED">!</String>
+    <String id="SITE_4_HISTORY">!</String>
+    <String id="SITE_4_DEACTIVE">!</String>
+    <String id="SITE_5_LABEL">Ахея</String>
+    <String id="SITE_5_FULLNAME">Ахея</String>
+    <String id="SITE_5_SITETYPE">Римська провінція</String>
+    <String id="SITE_5_OPEN">!</String>
+    <String id="SITE_5_CLOSED">!</String>
+    <String id="SITE_5_HISTORY">!</String>
+    <String id="SITE_5_DEACTIVE">!</String>
+    <String id="SITE_6_LABEL">Тінгіс</String>
+    <String id="SITE_6_FULLNAME">Тінгіс</String>
+    <String id="SITE_6_SITETYPE">Місто гравця</String>
+    <String id="SITE_6_OPEN">Тінгіс\nТвоє місто</String>
+    <String id="SITE_6_CLOSED">!</String>
+    <String id="SITE_6_HISTORY">!</String>
+    <String id="SITE_6_DEACTIVE">!</String>
+  </StringTable>
+</Tingis>

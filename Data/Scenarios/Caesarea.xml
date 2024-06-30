@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Caesarea>
+  <StringTable>
+    <String id="OVERVIEW">Приєднання Юдеї відкрило можливості для торгівлі з Близьким Сходом. Тобі потрібно побудувати місто у Кесарії, основним джерелом доходів якої стане торгівля. В той же час ти не повинен забувати про виробництво. Цезар хоче побудувати тут свій зимовий палац, тому місто має бути розвинуте, хоча й не надто велике.\n\nЮдея - складний регіон. Плідних земель тут мало, тому тобі варто розумно ними розпоряджатися. Основою економіки повинні стати торгівля і виробництво. До речі, Цезару подобаються місцеві вази.</String>
+    <String id="HISTORY"></String>
+    <String id="HINTS"></String>
+    <String id="AFTERMATH"></String>
+    <String id="SCENARIONAME">Кесарія</String>
+    <String id="WIN">Цезар задоволений твоїми успіхами - ти не позорив місто, яке носить ім'я самого імператора. Його вдячність принесе тобі багатство і славу.</String>
+    <String id="LOSE">Керувати містом, яке носить ім'я самого Цезаря, - особливо велика відповідальність. Ти не виправдав очікувань, і Цезар майже прокляв тебе.</String>
+    <String id="POPULATION">2,000</String>
+    <String id="FAVOR">70</String>
+    <String id="CULTURE">75</String>
+    <String id="PROSPERITY">60</String>
+    <String id="SECURITY">35</String>
+
+    <String id="REQUEST_0_TITLE">ORD_B скло</String>
+    <String id="REQUEST_0_HEADING">Рим вимагає надіслати скло</String>
+    <String id="REQUEST_0_BODY">Населення Риму зростає, і їх вимоги також. Тобі наказано надіслати скло.</String>
+    <String id="REQUEST_0_FAILURE">Тобі не вдалося виконати вимоги Риму, і його благовоління знизилося.</String>
+    <String id="REQUEST_1_TITLE">ORD_M мармур</String>
+    <String id="REQUEST_1_HEADING">Рим вимагає надіслати мармур</String>
+    <String id="REQUEST_1_BODY">Рим будує нові храми. Терміново надішли мармур.</String>
+    <String id="REQUEST_1_FAILURE">Тобі не вдалося виконати вимоги Риму, і його благовоління знизилося.</String>
+    <String id="REQUEST_2_TITLE">REQ_E янтар</String>
+    <String id="REQUEST_2_HEADING">Запит на янтар</String>
+    <String id="REQUEST_2_BODY">Римляни мають смак до екзотики. Надішли в Рим янтар, якщо це можливо.</String>
+    <String id="REQUEST_2_FAILURE">Тобі не вдалося задовольнити Рим і здобути його благовоління.</String>
+    <String id="REQUEST_3_TITLE">REQ_E ладан</String>
+    <String id="REQUEST_3_HEADING">Запит на ладан</String>
+    <String id="REQUEST_3_BODY">Римляни мають смак до екзотики. Надішли в Рим ладан, якщо це можливо.</String>
+    <String id="REQUEST_3_FAILURE">Тобі не вдалося задовольнити Рим і здобути його благовоління.</String>
+    <String id="REQUEST_4_TITLE">REQ_E шовк</String>
+    <String id="REQUEST_4_HEADING">Запит на шовк</String>
+    <String id="REQUEST_4_BODY">Римляни мають смак до екзотики. Надішли в Рим шовк, якщо це можливо.</String>
+    <String id="REQUEST_4_FAILURE">Тобі не вдалося задовольнити Рим і здобути його благовоління.</String>
+
+
+    <!---->
+    <!-- INVASIONS-->
+    <!---->
+    <String id="INVASION_0_TITLE">Розбійники-бедуїни</String>
+    <String id="INVASION_0_YEAR"></String>
+    <String id="INVASION_0_THREE_MONTH"></String>
+    <String id="INVASION_0_ONE_MONTH">Вороги осадили наше місто. Кожен день ми чекаємо атаки.</String>
+    <String id="INVASION_0_ARRIVAL">Час братися за мечі і відбивати напади ворогів! Захистимо наше місто!</String>
+
+
+    <String id="SITE_0_LABEL">Лацій</String>
+    <String id="SITE_0_FULLNAME">Лацій</String>
+    <String id="SITE_0_SITETYPE">Римська провінція</String>
+    <String id="SITE_0_OPEN">!</String>
+    <String id="SITE_0_CLOSED">!</String>
+    <String id="SITE_0_HISTORY">!</String>
+    <String id="SITE_0_DEACTIVE">!</String>
+    <String id="SITE_1_LABEL">Сардинія</String>
+    <String id="SITE_1_FULLNAME">Сардинія</String>
+    <String id="SITE_1_SITETYPE">Римська провінція</String>
+    <String id="SITE_1_OPEN">!</String>
+    <String id="SITE_1_CLOSED">!</String>
+    <String id="SITE_1_HISTORY">!</String>
+    <String id="SITE_1_DEACTIVE">!</String>
+    <String id="SITE_2_LABEL">Єгипет</String>
+    <String id="SITE_2_FULLNAME">Єгипет</String>
+    <String id="SITE_2_SITETYPE">Римська провінція</String>
+    <String id="SITE_2_OPEN">!</String>
+    <String id="SITE_2_CLOSED">!</String>
+    <String id="SITE_2_HISTORY">!</String>
+    <String id="SITE_2_DEACTIVE">!</String>
+    <String id="SITE_3_LABEL">Мезія</String>
+    <String id="SITE_3_FULLNAME">Мезія</String>
+    <String id="SITE_3_SITETYPE">Римська провінція</String>
+    <String id="SITE_3_OPEN">!</String>
+    <String id="SITE_3_CLOSED">!</String>
+    <String id="SITE_3_HISTORY">!</String>
+    <String id="SITE_3_DEACTIVE">!</String>
+    <String id="SITE_4_LABEL">Африка</String>
+    <String id="SITE_4_FULLNAME">Африка</String>
+    <String id="SITE_4_SITETYPE">Римська провінція</String>
+    <String id="SITE_4_OPEN">!</String>
+    <String id="SITE_4_CLOSED">!</String>
+    <String id="SITE_4_HISTORY">!</String>
+    <String id="SITE_4_DEACTIVE">!</String>
+    <String id="SITE_5_LABEL">Месопотамія</String>
+    <String id="SITE_5_FULLNAME">Месопотамія</String>
+    <String id="SITE_5_SITETYPE">Іноземна провінція</String>
+    <String id="SITE_5_OPEN">!</String>
+    <String id="SITE_5_CLOSED">!</String>
+    <String id="SITE_5_HISTORY">!</String>
+    <String id="SITE_5_DEACTIVE">!</String>
+    <String id="SITE_6_LABEL">Кесарія</String>
+    <String id="SITE_6_FULLNAME">Кесарія</String>
+    <String id="SITE_6_SITETYPE">Місто гравця</String>
+    <String id="SITE_6_OPEN">Кесарія\nТвоє місто</String>
+    <String id="SITE_6_CLOSED">!</String>
+    <String id="SITE_6_HISTORY">!</String>
+    <String id="SITE_6_DEACTIVE">!</String>
+  </StringTable>
+</Caesarea>

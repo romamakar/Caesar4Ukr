@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Campaign name="Тріумф імперії" bkImage="wl_map">
+  <Description>Імперію чекають великі завоювання, які не повторяться більше в історії.</Description>
+  <!--Tier 1-->
+  <Tier>
+    <Description index="1">Рим став імперією, але у нього досі багато ворогів.</Description>
+    <Scenario index="1" name="Viminacium" province="Moesia" capital="Viminacium">
+      <Overview index="1">Щоб досягти успіху, необхідно грамотно розпоряджатися ресурсами Мезії.</Overview>
+    </Scenario>
+    <Scenario index="1" name="Argos" province="Achaea" capital="Argos">
+      <Overview index="1">І знову в Ахеї неспокійно!</Overview>
+    </Scenario>
+  </Tier>
+  <!--Tier 2-->
+  <Tier>
+    <Description index="2">Імперія зростає, і всім новим землям потрібна найпильніша увага.</Description>
+    <Scenario index="2" name="Alexandria" province="Aegyptus" capital="Alexandria">
+      <Overview index="2">Зерно повноводною рікою потече з Александрії до Рима.</Overview>
+    </Scenario>
+    <Scenario index="2" name="Virunum" province="Noricum" capital="Virunum">
+      <Overview index="2">Дикі племена населяють Норік, але за його кордонами ховається ще більша небезпека.</Overview>
+    </Scenario>
+  </Tier>
+  <!--Tier 3-->
+  <Tier>
+    <Description index="3">Зростаюча імперія несе закон і культуру племенам Європи.</Description>
+    <Scenario index="3" name="Lugdunum" province="Lugdunensis" capital="Lugdunum">
+      <Overview index="3">Імператор бажає, щоб у Галлії було побудовано місто, яке стане центром римської культури.</Overview>
+    </Scenario>
+    <Scenario index="3" name="Ulpia Traiana" province="Dacia" capital="Ulpia Traiana">
+      <Overview index="3">З усіх боків Дакію оточують вороги, але тут необхідно побудувати процвітаюче місто і припинити набіги дикунів.</Overview>
+    </Scenario>
+  </Tier>
+  <!--Tier 4-->
+  <Tier>
+    <Description index="4">Парфяни не залишили непоміченими успіхи Рима на сході.</Description>
+    <Scenario index="4" name="Caesarea" province="Judea" capital="Caesarea">
+      <Overview index="4">Юдея - відносно спокійний район, але пустеля обмежує можливості для розвитку міста.</Overview>
+    </Scenario>
+    <Scenario index="4" name="Antiochia" province="Syria" capital="Antiochia">
+      <Overview index="4">Тільки добре укріплене місто зможе стримати ворожо налаштованих парфян.</Overview>
+    </Scenario>
+  </Tier>
+  <!--Tier 5-->
+  <Tier>
+    <Description index="5">Необхідно охороняти нові кордони і відроджувати старі провінції.</Description>
+    <Scenario index="5" name="Ephesus" province="Asia" capital="Ephesus">
+      <Overview index="5">Азіатські провінції в занепаді, і імператор хоче відродити давні міста.</Overview>
+    </Scenario>
+    <Scenario index="5" name="Moguntiacum" province="Germania Superior" capital="Moguntiacum">
+      <Overview index="5">Береги Рейну стають все небезпечнішими. Необхідна сильна армія, щоб заспокоїти варварів.</Overview>
+    </Scenario>
+  </Tier>
+  <!--Tier 6-->
+  <Tier>
+    <Description index="6">Імператор вимагає відновити мир у всіх куточках Європи.</Description>
+    <Scenario index="6" name="Tingis" province="Mauretania" capital="Tingis">
+      <Overview index="6">Незаймані багатства Північної Африки допоможуть побудувати величне місто.</Overview>
+    </Scenario>
+    <Scenario index="6" name="Tarsus" province="Cilicia" capital="Tarsus">
+      <Overview index="6">Давно пора заспокоїти непокірні племена, що населяють цю провінцію.</Overview>
+    </Scenario>
+  </Tier>
+  <!--Tier 7-->
+  <Tier>
+    <Movie index="7">Win.bik</Movie>
+    <Description index="7">Імперія досягла вершин слави.</Description>
+    <Scenario index="7" name="Nicomedia" province="Bithynia and Pontus" capital="Nicomedia">
+      <Overview index="7">Побудувати місто, яке змогло б конкурувати з Римом за величчю - завдання непросте, але сам імператор віддав такий наказ.</Overview>
+    </Scenario>
+    <Scenario index="7" name="Colonia Agrippina" province="Germania Inferior" capital="Colonia Agrippina">
+      <Overview index="7">Доля імперії залежить від результату війни з германцями.</Overview>
+    </Scenario>
+  </Tier>
+</Campaign>

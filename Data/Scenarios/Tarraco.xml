@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Tarraco>
+  <StringTable>
+    <String id="OVERVIEW">Ах, Іспанія! Сонце, море – чарівна країна! Немає кращого місця для третього чи четвертого особняку сенатора, ніж Тарраконська Іспанія. Звідси кілька днів шляху морем від берегів Італії, і римські багатії будуть не проти відпочити тут від суєти столиці. Але перш за все в Тарраконській Іспанії необхідно звести велике місто-порт, яке може прийняти всі судна з товарами з усіх кінців країни. Війська Карфагена теж не сплять, вони напевно спробують захопити цю територію. Побудуй місто Тарракон і оборони його від злісних карфагенян. Щоб отримати потрібні матеріали та скоріше підготувати армію, торгуй з іншими містами. Продумай оборону міста від загарбників із Африки. Рим вірить у твій успіх! </String>
+    <String id="HISTORY"></String>
+    <String id="HINTS"></String>
+    <String id="AFTERMATH"></String>
+    <String id="SCENARIONAME">Тарракон</String>
+    <String id="WIN">Пишність твого міста та успіх твоєї військової кампанії зміцнили позиції Риму в Іспанії та твої позиції в Римі.</String>
+    <String id="LOSE">Через твою невдачу Карфаген, споконвічний ворог, зміцнився на землях Іспанії. Сенатори вимагають від тебе докладного звіту та пояснень.</String>
+    <String id="POPULATION">1,000</String>
+    <String id="FAVOR">30</String>
+    <String id="CULTURE">20</String>
+    <String id="PROSPERITY">25</String>
+    <String id="SECURITY">50</String>
+
+    <!-- -->
+    <!-- REQUESTS-->
+    <!---->
+    <String id="REQUEST_0_TITLE">REQ_MIL</String>
+    <String id="REQUEST_0_HEADING">Запит на війська</String>
+    <String id="REQUEST_0_BODY">Рим сподівається, що ти зможеш надіслати нових солдатів для поповнення легіонів.</String>
+    <String id="REQUEST_0_FAILURE">Тобі не вдалося догодити Риму і домогтися його вподобання.</String>
+    <String id="REQUEST_1_TITLE">REQ_MIL</String>
+    <String id="REQUEST_1_HEADING">Запит на війська</String>
+    <String id="REQUEST_1_BODY">Рим сподівається, що ти зможеш надіслати нових солдатів для поповнення легіонів.</String>
+    <String id="REQUEST_1_FAILURE">Тобі не вдалося догодити Риму і домогтися його вподобання.</String>
+
+    <!---->
+    <!-- INVASIONS-->
+    <!---->
+    <String id="INVASION_0_TITLE">Вторгнення карфагенян</String>
+    <String id="INVASION_0_YEAR">Ворог збирає війська на кордоні нашої провінції.</String>
+    <String id="INVASION_0_THREE_MONTH">Вороги перетнули кордон і наближаються до нашого міста.</String>
+    <String id="INVASION_0_ONE_MONTH">Вороги розташувалися прямо за стінами нашого міста. Вони готуються до нападу.</String>
+    <String id="INVASION_0_ARRIVAL">Ворог настає! Настав час піднятися на захист міста.</String>
+
+    <String id="INVASION_1_TITLE">Вторгнення карфагенян</String>
+    <String id="INVASION_1_YEAR">Ворог збирає війська на кордоні нашої провінції.</String>
+    <String id="INVASION_1_THREE_MONTH">Вороги перетнули кордон і наближаються до нашого міста.</String>
+    <String id="INVASION_1_ONE_MONTH">Вороги розташувалися прямо за стінами нашого міста. Вони готуються до нападу.</String>
+    <String id="INVASION_1_ARRIVAL">Ворог настає! Настав час піднятися на захист міста.</String>
+
+    <String id="INVASION_2_TITLE">Вторгнення карфагенян</String>
+    <String id="INVASION_2_YEAR">Ворог збирає війська на кордоні нашої провінції.</String>
+    <String id="INVASION_2_THREE_MONTH">Вороги перетнули кордон і наближаються до нашого міста.</String>
+    <String id="INVASION_2_ONE_MONTH">Вороги розташувалися прямо за стінами нашого міста. Вони готуються до нападу.</String>
+    <String id="INVASION_2_ARRIVAL">Ворог настає! Настав час піднятися на захист міста.</String>
+
+    <String id="INVASION_3_TITLE">Вторгнення карфагенян</String>
+    <String id="INVASION_3_YEAR">Ворог збирає війська на кордоні нашої провінції.</String>
+    <String id="INVASION_3_THREE_MONTH">Вороги перетнули кордон і наближаються до нашого міста.</String>
+    <String id="INVASION_3_ONE_MONTH">Вороги розташувалися прямо за стінами нашого міста. Вони готуються до нападу.</String>
+    <String id="INVASION_3_ARRIVAL">Ворог настає! Настав час піднятися на захист міста.</String>
+
+    <String id="INVASION_4_TITLE">Вторгнення карфагенян</String>
+    <String id="INVASION_4_YEAR">Ворог збирає війська на кордоні нашої провінції.</String>
+    <String id="INVASION_4_THREE_MONTH">Вороги перетнули кордон і наближаються до нашого міста.</String>
+    <String id="INVASION_4_ONE_MONTH">Вороги розташувалися прямо за стінами нашого міста. Вони готуються до нападу.</String>
+    <String id="INVASION_4_ARRIVAL">Ворог настає! Настав час піднятися на захист міста.</String>
+
+    <String id="INVASION_5_TITLE">Підкріплення карфагенян</String>
+    <String id="INVASION_5_YEAR"></String>
+    <String id="INVASION_5_THREE_MONTH">Останнім часом нальоти на мирних жителів почастішали. Розбійники наближаються до нашого міста.</String>
+    <String id="INVASION_5_ONE_MONTH">Вороги взяли в облогу наше місто. Щодня ми чекаємо на атаки.</String>
+    <String id="INVASION_5_ARRIVAL">Настав час взятися за мечі і дати відсіч ворогам! Захистимо наше місто!</String>
+
+    <String id="INVASION_6_TITLE">Підкріплення карфагенян</String>
+    <String id="INVASION_6_YEAR"></String>
+    <String id="INVASION_6_THREE_MONTH">Останнім часом нальоти на мирних жителів почастішали. Розбійники наближаються до нашого міста.</String>
+    <String id="INVASION_6_ONE_MONTH">Вороги взяли в облогу наше місто. Щодня ми чекаємо на атаки.</String>
+    <String id="INVASION_6_ARRIVAL">Настав час взятися за мечі і дати відсіч ворогам! Захистимо наше місто!</String>
+
+
+    <String id="SITE_0_LABEL">Калеція</String>
+    <String id="SITE_0_FULLNAME">Калеція</String>
+    <String id="SITE_0_SITETYPE">Ворожній табір</String>
+    <String id="SITE_0_OPEN">!</String>
+    <String id="SITE_0_CLOSED">!</String>
+    <String id="SITE_0_HISTORY">!</String>
+    <String id="SITE_0_DEACTIVE">!</String>
+    <String id="SITE_1_LABEL">Толетум</String>
+    <String id="SITE_1_FULLNAME">Толетум</String>
+    <String id="SITE_1_SITETYPE">Ворожній табір</String>
+    <String id="SITE_1_OPEN">!</String>
+    <String id="SITE_1_CLOSED">!</String>
+    <String id="SITE_1_HISTORY">!</String>
+    <String id="SITE_1_DEACTIVE">!</String>
+    <String id="SITE_2_LABEL">Лацій</String>
+    <String id="SITE_2_FULLNAME">Лацій</String>
+    <String id="SITE_2_SITETYPE">Римська провінція</String>
+    <String id="SITE_2_OPEN">!</String>
+    <String id="SITE_2_CLOSED">!</String>
+    <String id="SITE_2_HISTORY">!</String>
+    <String id="SITE_2_DEACTIVE">!</String>
+    <String id="SITE_3_LABEL">Сардинія</String>
+    <String id="SITE_3_FULLNAME">Сардинія</String>
+    <String id="SITE_3_SITETYPE">Римська провінція</String>
+    <String id="SITE_3_OPEN">!</String>
+    <String id="SITE_3_CLOSED">!</String>
+    <String id="SITE_3_HISTORY">!</String>
+    <String id="SITE_3_DEACTIVE">!</String>
+    <String id="SITE_4_LABEL">Нарбонська Галія</String>
+    <String id="SITE_4_FULLNAME">Нарбонська Галія</String>
+    <String id="SITE_4_SITETYPE">Римська провінція</String>
+    <String id="SITE_4_OPEN">!</String>
+    <String id="SITE_4_CLOSED">!</String>
+    <String id="SITE_4_HISTORY">!</String>
+    <String id="SITE_4_DEACTIVE">!</String>
+    <String id="SITE_5_LABEL">Цизальпінська Галія</String>
+    <String id="SITE_5_FULLNAME">Цизальпінська Галія</String>
+    <String id="SITE_5_SITETYPE">Римська провінція</String>
+    <String id="SITE_5_OPEN">!</String>
+    <String id="SITE_5_CLOSED">!</String>
+    <String id="SITE_5_HISTORY">!</String>
+    <String id="SITE_5_DEACTIVE">!</String>
+    <String id="SITE_6_LABEL">Тарракон</String>
+    <String id="SITE_6_FULLNAME">Тарракон</String>
+    <String id="SITE_6_SITETYPE">Місто гравця</String>
+    <String id="SITE_6_OPEN">Тарракон\nТвоє місто</String>
+    <String id="SITE_6_CLOSED">!</String>
+    <String id="SITE_6_HISTORY">!</String>
+    <String id="SITE_6_DEACTIVE">!</String>
+  </StringTable>
+</Tarraco>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Carthago>
+  <StringTable>
+    <String id="OVERVIEW">Карфаген перестав бути загрозою для Рима. У останній битві римські легіони зруйнували могутнє місто до основи і вбили всіх його мешканців. Деякі сенатори пропонували засипати місто сіллю, щоб ніщо не могло рости на цій проклятій землі. Інші зауважили, що сіль сьогодні дорога, і розумніше буде відновити Карфаген.\n\nТобі належить підняти нове місто з попелу. Витри пам'ять про минуле, нехай Карфаген стане славним містом Рима. Сенат очікує, що ти будеш регулярно доставляти в Рим зерно, фрукти і овочі.\n\nЧас від часу бандити - все, що залишилося від колишнього ворога Рима, - будуть скоювати напади на Карфаген, тому мала армія все ж таки необхідна. Отже, до роботи!</String>
+    <String id="HISTORY"></String>
+    <String id="HINTS"></String>
+    <String id="AFTERMATH"></String>
+    <String id="SCENARIONAME">Карфаген</String>
+    <String id="WIN">Рим гучно обговорює твої досягнення. Кожен селянин і кожен сенатор хвалить твою мудрість і талант, адже ти зміг перетворити місто найбільшого ворога Рима на процвітаючу провінцію. Ти достойний триумфу!</String>
+    <String id="LOSE">Ти не лише не приніс мир, а й розорив колись розквітлу провінцію. Розчарування - ось слово, яке найчастіше стоїть поруч з твоїм ім'ям. Ти зазнав поразки, о намісник.</String>
+    <String id="POPULATION">5,000</String>
+    <String id="FAVOR">60</String>
+    <String id="CULTURE">40</String>
+    <String id="PROSPERITY">60</String>
+    <String id="SECURITY">40</String>
+
+    <!-- -->
+    <!-- REQUESTS-->
+    <!---->
+    <String id="REQUEST_0_TITLE">ORD_F зерно</String>
+    <String id="REQUEST_0_HEADING">Рим вимагає вислати їжу</String>
+    <String id="REQUEST_0_BODY">Рим голодує. Негайно відправте туди зерно.</String>
+    <String id="REQUEST_0_FAILURE">Вам не вдалося виконати вимоги Рима, і його ласка знизилася.</String>
+
+    <String id="REQUEST_1_TITLE">ORD_B оливки</String>
+    <String id="REQUEST_1_HEADING">Рим вимагає вислати оливки</String>
+    <String id="REQUEST_1_BODY">Промислам Рима потрібне сировина. Терміново надішліть туди оливки.</String>
+    <String id="REQUEST_1_FAILURE">Вам не вдалося виконати вимоги Рима, і його ласка знизилася.</String>
+
+    <String id="REQUEST_2_TITLE">ORD_F овочі</String>
+    <String id="REQUEST_2_HEADING">Рим вимагає вислати їжу</String>
+    <String id="REQUEST_2_BODY">Рим голодує. Негайно відправте туди овочі.</String>
+    <String id="REQUEST_2_FAILURE">Вам не вдалося виконати вимоги Рима, і його ласка знизилася.</String>
+
+    <String id="REQUEST_3_TITLE">ORD_B шерсть</String>
+    <String id="REQUEST_3_HEADING">Рим вимагає вислати шерсть</String>
+    <String id="REQUEST_3_BODY">Промислам Рима потрібне сировина. Терміново надішліть туди шерсть.</String>
+    <String id="REQUEST_3_FAILURE">Вам не вдалося виконати вимоги Рима, і його ласка знизилася.</String>
+    <!---->
+    <!-- INVASIONS-->
+    <!---->
+    <String id="INVASION_0_TITLE">Місцеві бандити</String>
+    <String id="INVASION_0_YEAR"></String>
+    <String id="INVASION_0_THREE_MONTH"></String>
+    <String id="INVASION_0_ONE_MONTH">Вороги осадили наше місто. Щодня ми чекаємо нападу.</String>
+    <String id="INVASION_0_ARRIVAL">Час братися за мечі і дати відсіч ворогам! Захистим наше місто!</String>
+
+    <String id="INVASION_1_TITLE">Розбійники-бедуїни</String>
+    <String id="INVASION_1_YEAR"></String>
+    <String id="INVASION_1_THREE_MONTH">Останнім часом напади на мирних жителів збільшилися. Розбійники наближаються до нашого міста.</String>
+    <String id="INVASION_1_ONE_MONTH">Вороги осадили наше місто. Щодня ми чекаємо нападу.</String>
+    <String id="INVASION_1_ARRIVAL">Час братися за мечі і дати відсіч ворогам! Захистим наше місто!</String>
+
+    <String id="SITE_0_LABEL">Лацій</String>
+    <String id="SITE_0_FULLNAME">Лацій</String>
+    <String id="SITE_0_SITETYPE">Римська провінція</String>
+    <String id="SITE_0_OPEN">!</String>
+    <String id="SITE_0_CLOSED">!</String>
+    <String id="SITE_0_HISTORY">!</String>
+    <String id="SITE_0_DEACTIVE">!</String>
+
+    <String id="SITE_4_LABEL">Нумідія</String>
+    <String id="SITE_4_FULLNAME">Нумідія</String>
+    <String id="SITE_4_SITETYPE">Римська провінція</String>
+    <String id="SITE_4_OPEN">!</String>
+    <String id="SITE_4_CLOSED">!</String>
+    <String id="SITE_4_HISTORY">!</String>
+    <String id="SITE_4_DEACTIVE">!</String>
+
+    <String id="SITE_5_LABEL">Кіренаїка</String>
+    <String id="SITE_5_FULLNAME">Кіренаїка</String>
+    <String id="SITE_5_SITETYPE">Іноземна провінція</String>
+    <String id="SITE_5_OPEN">!</String>
+    <String id="SITE_5_CLOSED">!</String>
+    <String id="SITE_5_HISTORY">!</String>
+    <String id="SITE_5_DEACTIVE">!</String>
+
+    <String id="SITE_1_LABEL">Сардинія</String>
+    <String id="SITE_1_FULLNAME">Сардинія</String>
+    <String id="SITE_1_SITETYPE">Римська провінція</String>
+    <String id="SITE_1_OPEN">!</String>
+    <String id="SITE_1_CLOSED">!</String>
+    <String id="SITE_1_HISTORY">!</String>
+    <String id="SITE_1_DEACTIVE">!</String>
+
+    <String id="SITE_2_LABEL">Нарбонська Галія</String>
+    <String id="SITE_2_FULLNAME">Нарбонська Галія</String>
+    <String id="SITE_2_SITETYPE">Римська провінція</String>
+    <String id="SITE_2_OPEN">!</String>
+    <String id="SITE_2_CLOSED">!</String>
+    <String id="SITE_2_HISTORY">!</String>
+    <String id="SITE_2_DEACTIVE">!</String>
+
+    <String id="SITE_3_LABEL">Тарраконська Іспанія</String>
+    <String id="SITE_3_FULLNAME">Тарраконська Іспанія</String>
+    <String id="SITE_3_SITETYPE">Римська провінція</String>
+    <String id="SITE_3_OPEN">!</String>
+    <String id="SITE_3_CLOSED">!</String>
+    <String id="SITE_3_HISTORY">!</String>
+    <String id="SITE_3_DEACTIVE">!</String>
+
+    <String id="SITE_6_LABEL">Карфаген</String>
+    <String id="SITE_6_FULLNAME">Карфаген</String>
+    <String id="SITE_6_SITETYPE">Місто гравця</String>
+    <String id="SITE_6_OPEN">Карфаген\nТвоє місто</String>
+    <String id="SITE_6_CLOSED">!</String>
+    <String id="SITE_6_HISTORY">!</String>
+    <String id="SITE_6_DEACTIVE">!</String>
+  </StringTable>
+</Carthago>

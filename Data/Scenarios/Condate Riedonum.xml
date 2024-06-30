@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CondateRiedonum>
+  <StringTable>
+    <String id="OVERVIEW">Незважаючи на роки впливу римської культури, більшість галів залишилися варварами. Як намісник Лугдунума, тобі доручено принести світ знань в цю далеку провінцію. Тобі дано наказ побудувати місто, якого не має усієї Галлії.\n\nЛугдунум розташований на родючій землі, ідеальній для будівництва. Патриції особливо зацікавлені в місцевому вині. Природні кордони стануть гарантією безпеки нового бастиону римської цивілізації.</String>
+    <String id="HISTORY"></String>
+    <String id="HINTS"></String>
+    <String id="AFTERMATH"></String>
+    <String id="SCENARIONAME">Кондат</String>
+    <String id="WIN">Принести закон в нецивілізований край галів — завдання не з легких, але ти прекрасно справився. Яке буде твоє наступне свершення, наміснику?</String>
+    <String id="LOSE">На жаль, великим намісником тебе назвати не можна. Сенату залишається лише дивуватися, як тобі вдалося перетворити багате місто на застаріле село.</String>
+    <String id="POPULATION">2,500</String>
+    <String id="FAVOR">50</String>
+    <String id="CULTURE">45</String>
+    <String id="PROSPERITY">55</String>
+    <String id="SECURITY">25</String>
+
+    <String id="REQUEST_0_TITLE">ORD_B кераміка</String>
+    <String id="REQUEST_0_HEADING">Рим вимагає надіслати кераміку</String>
+    <String id="REQUEST_0_BODY">Населення Рима зростає, і їх вимоги теж. Тобі наказано надіслати кераміку.</String>
+    <String id="REQUEST_0_FAILURE">Тобі не вдалося виконати вимоги Рима, і його ласка знизилася.</String>
+    <String id="REQUEST_1_TITLE">ORD_L вино</String>
+    <String id="REQUEST_1_HEADING">Рим вимагає надіслати вино</String>
+    <String id="REQUEST_1_BODY">Рим висуває нові вимоги. Терміново відправте партію вина.</String>
+    <String id="REQUEST_1_FAILURE">Тобі не вдалося виконати вимоги Рима, і його ласка знизилася.</String>
+    <String id="REQUEST_2_TITLE">REQ_B кераміка</String>
+    <String id="REQUEST_2_HEADING">Запит на кераміку</String>
+    <String id="REQUEST_2_BODY">Рим росте, мешканцям не вистачає навіть найнеобхіднішого. Відправте, будь ласка, кераміку.</String>
+    <String id="REQUEST_2_FAILURE">Тобі не вдалося угодити Риму й домогтися його ласки.</String>
+    <String id="REQUEST_3_TITLE">REQ_L вино</String>
+    <String id="REQUEST_3_HEADING">Запит на вино</String>
+    <String id="REQUEST_3_BODY">Римляни дбають про красу. Відправте, будь ласка, вино.</String>
+    <String id="REQUEST_3_FAILURE">Тобі не вдалося угодити Риму й домогтися його ласки.</String>
+
+    <!---->
+    <!-- INVASIONS-->
+    <!---->
+    <String id="INVASION_0_TITLE">Галльські розбійники</String>
+    <String id="INVASION_0_YEAR"></String>
+    <String id="INVASION_0_THREE_MONTH"></String>
+    <String id="INVASION_0_ONE_MONTH">Вороги осадили наше місто. Кожен день ми чекаємо атаки.</String>
+    <String id="INVASION_0_ARRIVAL">Час взяти мечі і відбити напад ворогів! Захистимо наше місто!</String>
+
+    <String id="INVASION_1_TITLE">Галльські розбійники</String>
+    <String id="INVASION_1_YEAR"></String>
+    <String id="INVASION_1_THREE_MONTH"></String>
+    <String id="INVASION_1_ONE_MONTH">Вороги осадили наше місто. Кожен день ми чекаємо атаки.</String>
+    <String id="INVASION_1_ARRIVAL">Час взяти мечі і відбити напад ворогів! Захистимо наше місто!</String>
+
+    <String id="SITE_0_LABEL">Ліон</String>
+    <String id="SITE_0_FULLNAME">Ліон</String>
+    <String id="SITE_0_SITETYPE">Римська провінція</String>
+    <String id="SITE_0_OPEN">!</String>
+    <String id="SITE_0_CLOSED">!</String>
+    <String id="SITE_0_HISTORY">!</String>
+    <String id="SITE_0_DEACTIVE">!</String>
+    <String id="SITE_1_LABEL">Нарбонська Галія</String>
+    <String id="SITE_1_FULLNAME">Нарбонська Галія</String>
+    <String id="SITE_1_SITETYPE">Римська провінція</String>
+    <String id="SITE_1_OPEN">!</String>
+    <String id="SITE_1_CLOSED">!</String>
+    <String id="SITE_1_HISTORY">!</String>
+    <String id="SITE_1_DEACTIVE">!</String>
+    <String id="SITE_4_LABEL">Верхня Німеччина</String>
+    <String id="SITE_4_FULLNAME">Верхня Німеччина</String>
+    <String id="SITE_4_SITETYPE">Іноземна провінція</String>
+    <String id="SITE_4_OPEN">!</String>
+    <String id="SITE_4_CLOSED">!</String>
+    <String id="SITE_4_HISTORY">!</String>
+    <String id="SITE_4_DEACTIVE">!</String>
+    <String id="SITE_2_LABEL">Таррагонська Іспанія</String>
+    <String id="SITE_2_FULLNAME">Таррагонська Іспанія</String>
+    <String id="SITE_2_SITETYPE">Римська провінція</String>
+    <String id="SITE_2_OPEN">!</String>
+    <String id="SITE_2_CLOSED">!</String>
+    <String id="SITE_2_HISTORY">!</String>
+    <String id="SITE_2_DEACTIVE">!</String>
+    <String id="SITE_3_LABEL">Сардинія</String>
+    <String id="SITE_3_FULLNAME">Сардинія</String>
+    <String id="SITE_3_SITETYPE">Римська провінція</String>
+    <String id="SITE_3_OPEN">!</String>
+    <String id="SITE_3_CLOSED">!</String>
+    <String id="SITE_3_HISTORY">!</String>
+    <String id="SITE_3_DEACTIVE">!</String>
+    <String id="SITE_5_LABEL">Кондат</String>
+    <String id="SITE_5_FULLNAME">Кондат</String>
+    <String id="SITE_5_SITETYPE">Місто гравця</String>
+    <String id="SITE_5_OPEN">Кондат\nТвоє місто</String>
+    <String id="SITE_5_CLOSED">!</String>
+    <String id="SITE_5_HISTORY">!</String>
+    <String id="SITE_5_DEACTIVE">!</String>
+  </StringTable>
+</CondateRiedonum>

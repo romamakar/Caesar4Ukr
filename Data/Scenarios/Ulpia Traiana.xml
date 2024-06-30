@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UlpiaTraiana>
+  <StringTable>
+    <String id="OVERVIEW">Хоча Дакія і входить до складу імперії, утихомирити місцеві племена завжди було нелегко. Варвари щосили противяться впливу цивілізації. Намісник, твоє завдання - відбудувати укріплене місто на місці Ульпії-Траяни і перетворити Дакію на процвітаючу мирну провінцію. Велике, багате, культурне місто стане прикладом того, як добре живеться жителям імперії. Звичайно, знайдуться незадоволені, яких палицею на щастя не заженеш. Варвари – що з них взяти? Набіги на місто будуть раптовими та виснажливими, але ти маєш зберегти досягнення цивілізації.</String>
+    <String id="HISTORY"></String>
+    <String id="HINTS"></String>
+    <String id="AFTERMATH"></String>
+    <String id="SCENARIONAME">Ульпія Траяна</String>
+    <String id="WIN">Керуючи Дакією, ти досяг приголомшливих успіхів. Цезар дає зрозуміти, що попереду на тебе чекають нові призначення.</String>
+    <String id="LOSE">Твоя поразка в Дакії призвела до катастрофи: варвари бешкетують на території всієї провінції. Цезарю нема часу вислуховувати твої пояснення, він піднімає легіони, щоб повернути провінцію під руку Риму.</String>
+    <String id="POPULATION">4,000</String>
+    <String id="FAVOR">50</String>
+    <String id="CULTURE">50</String>
+    <String id="PROSPERITY">30</String>
+    <String id="SECURITY">70</String>
+
+    <!---->
+    <!-- Custom Rome Standard Wages -->
+    <!---->
+    <!-- changed 08 16 -->
+    <String id="EVENT_Wage_Change_Title">Розмір платні змінився</String>
+    <String id="EVENT_Wage_Change_Message">Рим встановив новий розмір платні для працівників. Зверніться до радника з праці за роз'ясненнями.</String>
+
+    <!---->
+    <!-- Orders and Requests -->
+    <!---->
+    <String id="REQUEST_0_TITLE">REQ_L золото</String>
+    <String id="REQUEST_0_HEADING">Запит на золото</String>
+    <String id="REQUEST_0_BODY">У Римі - велика нестача сировини. Якщо ти надішлеш золото, твій внесок не залишиться непоміченим.</String>
+    <String id="REQUEST_0_FAILURE">Тобі не вдалося догодити Риму і домогтися його вподобання.</String>
+    <String id="REQUEST_1_TITLE">REQ_M мармур</String>
+    <String id="REQUEST_1_HEADING">Запит на мармур</String>
+    <String id="REQUEST_1_BODY">У Римі - велика нестача сировини. Якщо ти надішлеш мармур, твій внесок не залишиться непоміченим.</String>
+    <String id="REQUEST_1_FAILURE">Тобі не вдалося догодити Риму і домогтися його вподобання.</String>
+
+    <!---->
+    <!-- Invasions -->
+    <!---->
+    <String id="INVASION_0_TITLE">Німецькі грабіжники</String>
+    <String id="INVASION_0_YEAR"></String>
+    <String id="INVASION_0_THREE_MONTH">Останнім часом нальоти на мирних жителів почастішали. Розбійники наближаються до нашого міста.</String>
+    <String id="INVASION_0_ONE_MONTH">Вороги взяли в облогу наше місто. Щодня ми чекаємо на атаки.</String>
+    <String id="INVASION_0_ARRIVAL">Настав час взятися за мечі і дати відсіч ворогам! Захистимо наше місто!</String>
+
+    <String id="INVASION_1_TITLE">Німецькі розбійники</String>
+    <String id="INVASION_1_YEAR"></String>
+    <String id="INVASION_1_THREE_MONTH"></String>
+    <String id="INVASION_1_ONE_MONTH">Вороги взяли в облогу наше місто. Щодня ми чекаємо на атаки.</String>
+    <String id="INVASION_1_ARRIVAL">Настав час взятися за мечі і дати відсіч ворогам! Захистимо наше місто!</String>
+
+    <String id="INVASION_2_TITLE">Німецькі розбійники</String>
+    <String id="INVASION_2_YEAR"></String>
+    <String id="INVASION_2_THREE_MONTH"></String>
+    <String id="INVASION_2_ONE_MONTH">Вороги взяли в облогу наше місто. Щодня ми чекаємо на атаки.</String>
+    <String id="INVASION_2_ARRIVAL">Настав час взятися за мечі і дати відсіч ворогам! Захистимо наше місто!</String>
+
+    <String id="INVASION_3_TITLE">Німецькі розбійники</String>
+    <String id="INVASION_3_YEAR"></String>
+    <String id="INVASION_3_THREE_MONTH"></String>
+    <String id="INVASION_3_ONE_MONTH">Вороги взяли в облогу наше місто. Щодня ми чекаємо на атаки.</String>
+    <String id="INVASION_3_ARRIVAL">Настав час взятися за мечі і дати відсіч ворогам! Захистимо наше місто!</String>
+
+    <!---->
+    <!-- Empire Level Site Labels -->
+    <!---->
+    <!-- ************************************************* -->
+<String id="SITE_0_LABEL">Лацій</String>
+<String id="SITE_0_FULLNAME">Лацій</String>
+<String id="SITE_0_SITETYPE">Римська провінція</String>
+<String id="SITE_0_OPEN">!</String>
+<String id="SITE_0_CLOSED">!</String>
+<String id="SITE_0_HISTORY">!</String>
+<String id="SITE_0_DEACTIVE">!</String>
+<!-- ************************************************* -->
+<String id="SITE_1_LABEL">Ахея</String>
+<String id="SITE_1_FULLNAME">Ахея</String>
+<String id="SITE_1_SITETYPE">Римська провінція</String>
+<String id="SITE_1_OPEN">!</String>
+<String id="SITE_1_CLOSED">!</String>
+<String id="SITE_1_HISTORY">!</String>
+<String id="SITE_1_DEACTIVE">!</String>
+<!-- ************************************************* -->
+<String id="SITE_2_LABEL">Лугдунська Галія</String>
+<String id="SITE_2_FULLNAME">Лугдунська Галія</String>
+<String id="SITE_2_SITETYPE">Римська провінція</String>
+<String id="SITE_2_OPEN">!</String>
+<String id="SITE_2_CLOSED">!</String>
+<String id="SITE_2_HISTORY">!</String>
+<String id="SITE_2_DEACTIVE">!</String>
+<!-- ************************************************* -->
+<String id="SITE_4_LABEL">Верхня Німеччина</String>
+<String id="SITE_4_FULLNAME">Верхня Німеччина</String>
+<String id="SITE_4_SITETYPE">Іноземна провінція</String>
+<String id="SITE_4_OPEN">!</String>
+<String id="SITE_4_CLOSED">!</String>
+<String id="SITE_4_HISTORY">!</String>
+<String id="SITE_4_DEACTIVE">!</String>
+<!-- ************************************************* -->
+<String id="SITE_3_LABEL">Кіренаїка</String>
+<String id="SITE_3_FULLNAME">Кіренаїка</String>
+<String id="SITE_3_SITETYPE">Римська провінція</String>
+<String id="SITE_3_OPEN">!</String>
+<String id="SITE_3_CLOSED">!</String>
+<String id="SITE_3_HISTORY">!</String>
+<String id="SITE_3_DEACTIVE">!</String>
+<!-- ************************************************* -->
+<String id="SITE_5_LABEL">Азія</String>
+<String id="SITE_5_FULLNAME">Азія</String>
+<String id="SITE_5_SITETYPE">Римська провінція</String>
+<String id="SITE_5_OPEN">!</String>
+<String id="SITE_5_CLOSED">!</String>
+<String id="SITE_5_HISTORY">!</String>
+<String id="SITE_5_DEACTIVE">!</String>
+
+<String id="SITE_6_LABEL">Ульпія Траяна</String>
+<String id="SITE_6_FULLNAME">Ульпія Траяна</String>
+<String id="SITE_6_SITETYPE">Місто гравця</String>
+<String id="SITE_6_OPEN">Ульпія Траяна\nТвоє місто</String>
+<String id="SITE_6_CLOSED">!</String>
+<String id="SITE_6_HISTORY">!</String>
+<String id="SITE_6_DEACTIVE">!</String>
+</StringTable>
+</UlpiaTraiana>

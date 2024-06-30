@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Amida>
+    <StringTable>
+        <String id="OVERVIEW">Знову непокірні парфяни були здолані, і Месопотамія перейшла у бережні руки Цезаря. Ти отримав наказ побудувати в Аміді бастион, який стане оплотом миру і спокою в регіоні. Для цього парфян треба стримувати на самих кордонах імперії.\n\nРодюча долина річки Тигр приховує багаті поклади заліза, але з стратегічної точки зору долина і взагалі безцінна. Месопотамія - найсхідніша провінція імперії. Це не лише остання перепона для воєнних парфян, але й важливе звено у торговому ланцюзі між імперією і Сходом.\n\nТобі неодноразово доведеться містити напади місцевих племен, які бажають безкоштовно скористатися благами цивілізації. Але найсерйознішою загрозою все ж таки є парфяни. Зараз вони, здається, змирилися з владою Риму, але найменша помилка - і вони знову нападуть на провінцію.</String>
+        <String id="HISTORY"></String>
+        <String id="HINTS"></String>
+        <String id="AFTERMATH"></String>
+        <String id="SCENARIONAME">Аміда</String>
+        <String id="WIN">!</String>
+        <String id="LOSE">Бастион в Аміді впав! Незліченна армія парфян незабаром дійде до самого серця провінції. Імператор вже вислав свої легіони, але здолані будуть не лише парфяни, бо Цезар також вимагає твоєї голови.</String>
+        <String id="POPULATION">1,000,000</String>
+        <String id="FAVOR"></String>
+        <String id="CULTURE"></String>
+        <String id="PROSPERITY"></String>
+        <String id="SECURITY"></String>
+        <!-- -->
+        <!-- REQUESTS-->
+        <!---->
+        <String id="REQUEST_0_TITLE">REQ_E шовк</String>
+        <String id="REQUEST_0_HEADING">Запит на шовк</String>
+        <String id="REQUEST_0_BODY">Римляни люблять екзотику. Якщо можливо, відправте шовк до Рима.</String>
+        <String id="REQUEST_0_FAILURE">Вам не вдалося задовольнити Рим і здобути його ласку.</String>
+
+        <String id="REQUEST_1_TITLE">REQ_B кераміка</String>
+        <String id="REQUEST_1_HEADING">Запит на кераміку</String>
+        <String id="REQUEST_1_BODY">Рим зростає, місцевим мешканцям не вистачає навіть найнеобхіднішого. Будь ласка, надішліть кераміку.</String>
+        <String id="REQUEST_1_FAILURE">Вам не вдалося задовольнити Рим і здобути його ласку.</String>
+
+        <!---->
+        <!-- INVASIONS-->
+        <!---->
+        <String id="INVASION_0_TITLE">Напад з півночі</String>
+        <String id="INVASION_0_YEAR"></String>
+        <String id="INVASION_0_THREE_MONTH"></String>
+        <String id="INVASION_0_ONE_MONTH">Вороги розташувались прямо під стінами нашого міста. Вони готуються до нападу.</String>
+        <String id="INVASION_0_ARRIVAL">Ворог наступає! Час піднятися на захист міста.</String>
+
+        <String id="INVASION_1_TITLE">Напад з півночі</String>
+        <String id="INVASION_1_YEAR"></String>
+        <String id="INVASION_1_THREE_MONTH">Вороги перетнули кордон і наближаються до нашого міста.</String>
+        <String id="INVASION_1_ONE_MONTH">Вороги розташувались прямо під стінами нашого міста. Вони готуються до нападу.</String>
+        <String id="INVASION_1_ARRIVAL">Ворог наступає! Час піднятися на захист міста.</String>
+
+        <String id="INVASION_2_TITLE">Розбійники з півночі</String>
+        <String id="INVASION_2_YEAR"></String>
+        <String id="INVASION_2_THREE_MONTH">Вороги перетнули кордон і наближаються до нашого міста.</String>
+        <String id="INVASION_2_ONE_MONTH">Вороги розташувались прямо під стінами нашого міста. Вони готуються до нападу.</String>
+        <String id="INVASION_2_ARRIVAL">Ворог наступає! Час піднятися на захист міста.</String>
+
+        <String id="INVASION_3_TITLE">Парфянські захопники</String>
+        <String id="INVASION_3_YEAR">Ворог збирає війська на кордоні нашої провінції.</String>
+        <String id="INVASION_3_THREE_MONTH">Вороги перетнули кордон і наближаються до нашого міста.</String>
+        <String id="INVASION_3_ONE_MONTH">Вороги розташувались прямо під стінами нашого міста. Вони готуються до нападу.</String>
+        <String id="INVASION_3_ARRIVAL">Ворог наступає! Час піднятися на захист міста.</String>
+
+        <String id="INVASION_4_TITLE">Атака парфян</String>
+        <String id="INVASION_4_YEAR">Ворог збирає війська на кордоні нашої провінції.</String>
+        <String id="INVASION_4_THREE_MONTH">Вороги перетнули кордон і наближаються до нашого міста.</String>
+        <String id="INVASION_4_ONE_MONTH">Вороги розташувались прямо під стінами нашого міста. Вони готуються до нападу.</String>
+        <String id="INVASION_4_ARRIVAL">Ворог наступає! Час піднятися на захист міста.</String>
+
+        <!---->
+        <!-- DISASTERS -->
+        <!---->
+        <!-- Added 08.04.2006 -->
+        <String id="EVENT_Earthquake_Title">Землетрус!</String>
+        <String id="EVENT_Earthquake_Message">Землетрус прокотився по місту, зруйнувавши кілька будівель.</String>
+
+        <!---->
+        <!-- Empire Level Sites -->
+        <!---->
+        <String id="SITE_4_LABEL">Лацій</String>
+        <String id="SITE_4_FULLNAME">Лацій</String>
+        <String id="SITE_4_SITETYPE">Римська провінція</String>
+        <String id="SITE_4_OPEN">!</String>
+        <String id="SITE_4_CLOSED">!</String>
+        <String id="SITE_4_HISTORY">!</String>
+        <String id="SITE_4_DEACTIVE">!</String>
+        <String id="SITE_6_LABEL">Вірменія</String>
+        <String id="SITE_6_FULLNAME">Вірменія</String>
+        <String id="SITE_6_SITETYPE">Римська провінція</String>
+        <String id="SITE_6_OPEN">!</String>
+        <String id="SITE_6_CLOSED">!</String>
+        <String id="SITE_6_HISTORY">!</String>
+        <String id="SITE_6_DEACTIVE">!</String>
+        <String id="SITE_3_LABEL">Близький Схід</String>
+        <String id="SITE_3_FULLNAME">Близький Схід</String>
+        <String id="SITE_3_SITETYPE">Іноземний торговий шлях</String>
+        <String id="SITE_3_OPEN">!</String>
+        <String id="SITE_3_CLOSED">!</String>
+        <String id="SITE_3_HISTORY">!</String>
+        <String id="SITE_3_DEACTIVE">!</String>
+        <String id="SITE_2_LABEL">Єгипет</String>
+        <String id="SITE_2_FULLNAME">Єгипет</String>
+        <String id="SITE_2_SITETYPE">Римська провінція</String>
+        <String id="SITE_2_OPEN">!</String>
+        <String id="SITE_2_CLOSED">!</String>
+        <String id="SITE_2_HISTORY">!</String>
+        <String id="SITE_2_DEACTIVE">!</String>
+        <String id="SITE_0_LABEL">Ахаїя</String>
+        <String id="SITE_0_FULLNAME">Ахаїя</String>
+        <String id="SITE_0_SITETYPE">Римська провінція</String>
+        <String id="SITE_0_OPEN">!</String>
+        <String id="SITE_0_CLOSED">!</String>
+        <String id="SITE_0_HISTORY">!</String>
+        <String id="SITE_0_DEACTIVE">!</String>
+        <String id="SITE_1_LABEL">Сицилія</String>
+        <String id="SITE_1_FULLNAME">Сицилія</String>
+        <String id="SITE_1_SITETYPE">Римська провінція</String>
+        <String id="SITE_1_OPEN">!</String>
+        <String id="SITE_1_CLOSED">!</String>
+        <String id="SITE_1_HISTORY">!</String>
+        <String id="SITE_1_DEACTIVE">!</String>
+        <String id="SITE_5_LABEL">Африка</String>
+        <String id="SITE_5_FULLNAME">Африка</String>
+        <String id="SITE_5_SITETYPE">Римська провінція</String>
+        <String id="SITE_5_OPEN">!</String>
+        <String id="SITE_5_CLOSED">!</String>
+        <String id="SITE_5_HISTORY">!</String>
+        <String id="SITE_5_DEACTIVE">!</String>
+        <String id="SITE_7_LABEL">Аміда</String>
+        <String id="SITE_7_FULLNAME">Аміда</String>
+        <String id="SITE_7_SITETYPE">Місто гравця</String>
+        <String id="SITE_7_OPEN">Аміда\nТвоє місто</String>
+        <String id="SITE_7_CLOSED">!</String>
+        <String id="SITE_7_HISTORY">!</String>
+        <String id="SITE_7_DEACTIVE">!</String>
+    </StringTable>
+</Amida>

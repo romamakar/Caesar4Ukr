@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Corduba>
+  <StringTable>
+    <String id="OVERVIEW">Майже вся Тарраконська Іспанія вже перебуває під владою Риму, але в Бетиці не вщухають війни. Твоє завдання - побудувати колонію в Кордові для постачання легіонів, що просуваються на захід. Місцеві не люблять римлян, тому будь готовий захищати місто в будь-який момент.\n\nКордова стоїть на родючому, але гористому березі річки, багатому на поклади мармуру та інших мінералів. Нерівний ландшафт зовсім не сприяє хорошій обороні міста, тому ти маєш утримувати власну армію для захисту від набігів.\n\nЗведи місто якомога швидше, налагодь виробництво, адже через деякий час Цезар потребуватиме підкріплення. Вороги Риму спробують відвоювати твої землі, тому готуйся до довгих битв. Ти маєш захистити колонію!</String>
+    <String id="HISTORY"></String>
+    <String id="HINTS"></String>
+    <String id="AFTERMATH"></String>
+    <String id="SCENARIONAME">Кордова</String>
+    <String id="WIN">!</String>
+    <String id="LOSE">Падіння Кордови завдало непоправної шкоди імперії. Ворог нишпорить по всьому півострову і збирає військо, щоб напасти на Рим!</String>
+    <String id="POPULATION">1,000,000</String>
+    <String id="FAVOR"></String>
+    <String id="CULTURE"></String>
+    <String id="PROSPERITY"></String>
+    <String id="SECURITY"></String>
+
+    <String id="REQUEST_0_TITLE">ORD_F зерно</String>
+    <String id="REQUEST_0_HEADING">Рим вимагає прислати їжу</String>
+    <String id="REQUEST_0_BODY">Рим голодує. Необхідно терміново відправити туди зерно.</String>
+    <String id="REQUEST_0_FAILURE">Тобі не вдалося виконати вимоги Риму, і його прихильність знизилася.</String>
+    <String id="REQUEST_1_TITLE">ORD_DN</String>
+    <String id="REQUEST_1_HEADING">Рим вимагає прислати данину</String>
+    <String id="REQUEST_1_BODY">Рим вимагає прислати данину, щоб поповнити свою казну.</String>
+    <String id="REQUEST_1_FAILURE">Тобі не вдалося виконати вимоги Риму, і його прихильність знизилася.</String>
+    <String id="REQUEST_2_TITLE">REQ_M зброя</String>
+    <String id="REQUEST_2_HEADING">Запит на зброю</String>
+    <String id="REQUEST_2_BODY">Римські легіони потрібно озброїти. Пришли до Риму зброю.</String>
+    <String id="REQUEST_2_FAILURE">Тобі не вдалося догодити Риму і досягти його прихильності.</String>
+    <String id="REQUEST_3_TITLE">REQ_M обладунки</String>
+    <String id="REQUEST_3_HEADING">Запит на обладунки</String>
+    <String id="REQUEST_3_BODY">Римські легіони потрібно озброїти. Пришли до Риму обладунки.</String>
+    <String id="REQUEST_3_FAILURE">Тобі не вдалося догодити Риму і досягти його прихильності.</String>
+    <String id="REQUEST_4_TITLE">REQ_M зброя</String>
+    <String id="REQUEST_4_HEADING">Запит на зброю</String>
+    <String id="REQUEST_4_BODY">Римські легіони потрібно озброїти. Пришли до Риму зброю.</String>
+    <String id="REQUEST_4_FAILURE">Тобі не вдалося догодити Риму і досягти його прихильності.</String>
+    <String id="REQUEST_5_TITLE">REQ_M обладунки</String>
+    <String id="REQUEST_5_HEADING">Запит на обладунки</String>
+    <String id="REQUEST_5_BODY">Римські легіони потрібно озброїти. Пришли до Риму обладунки.</String>
+    <String id="REQUEST_5_FAILURE">Тобі не вдалося догодити Риму і досягти його прихильності.</String>
+    <String id="REQUEST_6_TITLE">REQ_M зброя</String>
+    <String id="REQUEST_6_HEADING">Запит на зброю</String>
+    <String id="REQUEST_6_BODY">Римські легіони потрібно озброїти. Пришли до Риму зброю.</String>
+    <String id="REQUEST_6_FAILURE">Тобі не вдалося догодити Риму і досягти його прихильності.</String>
+    <String id="REQUEST_7_TITLE">REQ_M обладунки</String>
+    <String id="REQUEST_7_HEADING">Запит на обладунки</String>
+    <String id="REQUEST_7_BODY">Римські легіони потрібно озброїти. Пришли до Риму обладунки.</String>
+    <String id="REQUEST_7_FAILURE">Тобі не вдалося догодити Риму і досягти його прихильності.</String>
+
+
+    <!---->
+    <!-- INVASIONS-->
+    <!---->
+    <String id="INVASION_0_TITLE">Розбійники</String>
+    <String id="INVASION_0_YEAR"></String>
+    <String id="INVASION_0_THREE_MONTH">Останнім часом набіги на мирних жителів почастішали. Розбійники наближаються до нашого міста.</String>
+    <String id="INVASION_0_ONE_MONTH">Вороги обложили наше місто. Кожного дня ми чекаємо на атаку.</String>
+    <String id="INVASION_0_ARRIVAL">Час взятися за мечі і дати відсіч ворогам! Захистимо наше місто!</String>
+
+    <String id="INVASION_1_TITLE">Розбійники</String>
+    <String id="INVASION_1_YEAR"></String>
+    <String id="INVASION_1_THREE_MONTH"></String>
+    <String id="INVASION_1_ONE_MONTH">Вороги обложили наше місто. Кожного дня ми чекаємо на атаку.</String>
+    <String id="INVASION_1_ARRIVAL">Час взятися за мечі і дати відсіч ворогам! Захистимо наше місто!</String>
+
+    <String id="INVASION_2_TITLE">Розбійники</String>
+    <String id="INVASION_2_YEAR"></String>
+    <String id="INVASION_2_THREE_MONTH"></String>
+    <String id="INVASION_2_ONE_MONTH">Вороги обложили наше місто. Кожного дня ми чекаємо на атаку.</String>
+    <String id="INVASION_2_ARRIVAL">Час взятися за мечі і дати відсіч ворогам! Захистимо наше місто!</String>
+
+    <String id="INVASION_3_TITLE">Розбійники</String>
+    <String id="INVASION_3_YEAR"></String>
+    <String id="INVASION_3_THREE_MONTH">Останнім часом набіги на мирних жителів почастішали. Розбійники наближаються до нашого міста.</String>
+    <String id="INVASION_3_ONE_MONTH">Вороги обложили наше місто. Кожного дня ми чекаємо на атаку.</String>
+    <String id="INVASION_3_ARRIVAL">Час взятися за мечі і дати відсіч ворогам! Захистимо наше місто!</String>
+
+    <String id="INVASION_4_TITLE">Розбійники</String>
+    <String id="INVASION_4_YEAR"></String>
+    <String id="INVASION_4_THREE_MONTH">Останнім часом набіги на мирних жителів почастішали. Розбійники наближаються до нашого міста.</String>
+    <String id="INVASION_4_ONE_MONTH">Вороги обложили наше місто. Кожного дня ми чекаємо на атаку.</String>
+    <String id="INVASION_4_ARRIVAL">Час взятися за мечі і дати відсіч ворогам! Захистимо наше місто!</String>
+
+    <String id="INVASION_5_TITLE">Загарбники</String>
+    <String id="INVASION_5_YEAR">Ворог збирає війська на кордоні нашої провінції.</String>
+    <String id="INVASION_5_THREE_MONTH">Вороги перетнули кордон і наближаються до нашого міста.</String>
+    <String id="INVASION_5_ONE_MONTH">Вороги розташувалися прямо за стінами нашого міста. Вони готуються до нападу.</String>
+    <String id="INVASION_5_ARRIVAL">Ворог наступає! Час піднятися на захист міста.</String>
+
+    <String id="INVASION_6_TITLE">Загарбники</String>
+    <String id="INVASION_6_YEAR">Ворог збирає війська на кордоні нашої провінції.</String>
+    <String id="INVASION_6_THREE_MONTH">Вороги перетнули кордон і наближаються до нашого міста.</String>
+    <String id="INVASION_6_ONE_MONTH">Вороги розташувалися прямо за стінами нашого міста. Вони готуються до нападу.</String>
+    <String id="INVASION_6_ARRIVAL">Ворог наступає! Час піднятися на захист міста.</String>
+
+    <String id="INVASION_7_TITLE">Загарбники</String>
+    <String id="INVASION_7_YEAR">Ворог збирає війська на кордоні нашої провінції.</String>
+    <String id="INVASION_7_THREE_MONTH">Вороги перетнули кордон і наближаються до нашого міста.</String>
+    <String id="INVASION_7_ONE_MONTH">Вороги розташувалися прямо за стінами нашого міста. Вони готуються до нападу.</String>
+    <String id="INVASION_7_ARRIVAL">Ворог наступає! Час піднятися на захист міста.</String>
+
+    <String id="INVASION_8_TITLE">Загарбники</String>
+    <String id="INVASION_8_YEAR">Ворог збирає війська на кордоні нашої провінції.</String>
+    <String id="INVASION_8_THREE_MONTH">Вороги перетнули кордон і наближаються до нашого міста.</String>
+    <String id="INVASION_8_ONE_MONTH">Вороги розташувалися прямо за стінами нашого міста. Вони готуються до нападу.</String>
+    <String id="INVASION_8_ARRIVAL">Ворог наступає! Час піднятися на захист міста.</String>
+
+
+    <String id="SITE_0_LABEL">Лацій</String>
+    <String id="SITE_0_FULLNAME">Лацій</String>
+    <String id="SITE_0_SITETYPE">Римська провінція</String>
+    <String id="SITE_0_OPEN">!</String>
+    <String id="SITE_0_CLOSED">!</String>
+    <String id="SITE_0_HISTORY">!</String>
+    <String id="SITE_0_DEACTIVE">!</String>
+    <String id="SITE_1_LABEL">Аквітанія</String>
+    <String id="SITE_1_FULLNAME">Аквітанія</String>
+    <String id="SITE_1_SITETYPE">Римська провінція</String>
+    <String id="SITE_1_OPEN">!</String>
+    <String id="SITE_1_CLOSED">!</String>
+    <String id="SITE_1_HISTORY">!</String>
+    <String id="SITE_1_DEACTIVE">!</String>
+    <String id="SITE_2_LABEL">Нарбоннська Галлія</String>
+    <String id="SITE_2_FULLNAME">Нарбоннська Галлія</String>
+    <String id="SITE_2_SITETYPE">Римська провінція</String>
+    <String id="SITE_2_OPEN">!</String>
+    <String id="SITE_2_CLOSED">!</String>
+    <String id="SITE_2_HISTORY">!</String>
+    <String id="SITE_2_DEACTIVE">!</String>
+    <String id="SITE_3_LABEL">Сардинія</String>
+    <String id="SITE_3_FULLNAME">Сардинія</String>
+    <String id="SITE_3_SITETYPE">Римська провінція</String>
+    <String id="SITE_3_OPEN">!</String>
+    <String id="SITE_3_CLOSED">!</String>
+    <String id="SITE_3_HISTORY">!</String>
+    <String id="SITE_3_DEACTIVE">!</String>
+    <String id="SITE_4_LABEL">Кіренаїка</String>
+    <String id="SITE_4_FULLNAME">Кіренаїка</String>
+    <String id="SITE_4_SITETYPE">Римська провінція</String>
+    <String id="SITE_4_OPEN">!</String>
+    <String id="SITE_4_CLOSED">!</String>
+    <String id="SITE_4_HISTORY">!</String>
+    <String id="SITE_4_DEACTIVE">!</String>
+    <String id="SITE_5_LABEL">Африка</String>
+    <String id="SITE_5_FULLNAME">Африка</String>
+    <String id="SITE_5_SITETYPE">Римська провінція</String>
+    <String id="SITE_5_OPEN">!</String>
+    <String id="SITE_5_CLOSED">!</String>
+    <String id="SITE_5_HISTORY">!</String>
+    <String id="SITE_5_DEACTIVE">!</String>
+    <String id="SITE_6_LABEL">Кордова</String>
+    <String id="SITE_6_FULLNAME">Кордова</String>
+    <String id="SITE_6_SITETYPE">Місто гравця</String>
+    <String id="SITE_6_OPEN">Кордова\nТвоє місто</String>
+    <String id="SITE_6_CLOSED">!</String>
+    <String id="SITE_6_HISTORY">!</String>
+    <String id="SITE_6_DEACTIVE">!</String>
+  </StringTable>
+</Corduba>

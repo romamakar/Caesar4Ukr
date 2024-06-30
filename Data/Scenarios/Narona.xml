@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Narona>
+  <StringTable>
+    <String id="OVERVIEW">Настав час протягнути вплив Риму через Адріатичне море і заснувати колонію в суворих землях Іллірії. Тут є ліс та цінні мінерали. Створи в Нароні, в долині біля морського узбережжя, місто процвітає. Розвивай виробництва і торгівлю, і заволодів незайманими багатствами Іллірії. Нелегко буде звести місто - гори близько, орних земель мало. Але вмілий намісник розумно розпорядиться наявними ресурсами. Ти вже показав себе досвідченим і успішним правителем, і сенатори довірили цю справу тобі. Іллірія - спокійна провінція, тому на охорону міста можна витратити мінімум коштів. Але Рим наказує підготувати та направити кілька когорт до Іспанії та Галії. Звісно, це крапля у морі, але Сенат буде вкрай незадоволений, якщо ти не підтримаєш римську армію.</String>
+    <String id="HISTORY"></String>
+    <String id="HINTS"></String>
+    <String id="AFTERMATH"></String>
+    <String id="SCENARIONAME"> Нарона </String>
+    <String id="WIN">Рим вражений твоїми успіхами - на забутому богами місці шумить і благоденствує нова провінція. Обговорюючи призначення на посаду намісника у нових землях, сенатори насамперед згадують твоє ім'я.</String>
+    <String id="LOSE">Скарги на погані умови та тяготи місцевого життя не зачепили серця сенаторів. Ти не зумів створити колонію в Іллірії – це головне.</String>
+    <String id="POPULATION">1,500</String>
+    <String id="FAVOR">55</String>
+    <String id="CULTURE">25</String>
+    <String id="PROSPERITY">50</String>
+    <String id="SECURITY">20</String>
+
+    <!-- -->
+    <!-- REQUESTS-->
+    <!---->
+    <String id="REQUEST_0_TITLE">ORD_L начиння </String>
+    <String id="REQUEST_0_HEADING"> Рим вимагає надіслати начиння </String>
+    <String id="REQUEST_0_BODY">Рим висуває нові вимоги. Терміново прийшли партію начиння.</String>
+    <String id="REQUEST_0_FAILURE">Тобі не вдалося виконати вимоги Риму, і його вподобання знизилося.</String>
+    <String id="REQUEST_1_TITLE">ORD_L прикраси </String>
+    <String id="REQUEST_1_HEADING"> Рим вимагає надіслати прикраси </String>
+    <String id="REQUEST_1_BODY"> Рим висуває нові вимоги . Терміново прийшла партія прикрас.</String>
+    <String id="REQUEST_1_FAILURE">Тобі не вдалося виконати вимоги Риму, і його вподобання знизилося.</String>
+    <String id="REQUEST_2_TITLE">ORD_B одяг </String>
+    <String id="REQUEST_2_HEADING"> Рим вимагає надіслати одяг </String>
+    <String id="REQUEST_2_BODY">Населення Риму зростає, запити теж. Тобі наказано надіслати партію одягу.</String>
+    <String id="REQUEST_2_FAILURE">Тобі не вдалося виконати вимоги Риму, і його вподобання знизилося.</String>
+    <String id="REQUEST_3_TITLE">REQ_L меблі </String>
+    <String id="REQUEST_3_HEADING"> Запит на меблі </String>
+    <String id="REQUEST_3_BODY">Римляни піклуються про красу. Прийшли, будь ласка, меблі.</String>
+    <String id="REQUEST_3_FAILURE">Тобі не вдалося догодити Риму і домогтися його вподобання.</String>
+    <String id="REQUEST_4_TITLE">REQ_B оливкова олія </String>
+    <String id="REQUEST_4_HEADING"> Запит на оливкова олія </String>
+    <String id="REQUEST_4_BODY">Рим росте, городянам не вистачає навіть найнеобхіднішого. Прийшли, будь ласка, оливкова олія.</String>
+    <String id="REQUEST_4_FAILURE">Тобі не вдалося догодити Риму і домогтися його вподобання.</String>
+
+    <String id="REQUEST_5_TITLE">REQ_MIL</String>
+    <String id="REQUEST_5_HEADING"> Запит на війська </String>
+    <String id="REQUEST_5_BODY">Рим сподівається, що ти зможеш надіслати нових солдатів для поповнення легіонів.</String>
+    <String id="REQUEST_5_FAILURE">Тобі не вдалося догодити Риму і домогтися його вподобання.</String>
+    <String id="REQUEST_6_TITLE">REQ_MIL</String>
+    <String id="REQUEST_6_HEADING"> Запит на війська </String>
+    <String id="REQUEST_6_BODY">Рим сподівається, що ти зможеш надіслати нових солдатів для поповнення легіонів.</String>
+    <String id="REQUEST_6_FAILURE">Тобі не вдалося догодити Риму і домогтися його вподобання.</String>
+
+    <!---->
+    <!-- INVASIONS-->
+    <!---->
+    <String id="SITE_0_LABEL"> Лацій </String>
+    <String id="SITE_0_FULLNAME"> Лацій </String>
+    <String id="SITE_0_SITETYPE"> Римська провінція </String>
+    <String id="SITE_0_OPEN">!</String>
+    <String id="SITE_0_CLOSED">!</String>
+    <String id="SITE_0_HISTORY">!</String>
+    <String id="SITE_0_DEACTIVE">!</String>
+    <String id="SITE_1_LABEL"> Сардинія </String>
+    <String id="SITE_1_FULLNAME"> Сардинія </String>
+    <String id="SITE_1_SITETYPE"> Римська провінція </String>
+    <String id="SITE_1_OPEN">!</String>
+    <String id="SITE_1_CLOSED">!</String>
+    <String id="SITE_1_HISTORY">!</String>
+    <String id="SITE_1_DEACTIVE">!</String>
+    <String id="SITE_2_LABEL"> Сицилія </String>
+    <String id="SITE_2_FULLNAME"> Сицилія </String>
+    <String id="SITE_2_SITETYPE"> Римська провінція </String>
+    <String id="SITE_2_OPEN">!</String>
+    <String id="SITE_2_CLOSED">!</String>
+    <String id="SITE_2_HISTORY">!</String>
+    <String id="SITE_2_DEACTIVE">!</String>
+    <String id="SITE_3_LABEL"> Ахея </String>
+    <String id="SITE_3_FULLNAME"> Ахея </String>
+    <String id="SITE_3_SITETYPE"> Римська провінція </String>
+    <String id="SITE_3_OPEN">!</String>
+    <String id="SITE_3_CLOSED">!</String>
+    <String id="SITE_3_HISTORY">!</String>
+    <String id="SITE_3_DEACTIVE">!</String>
+    <String id="SITE_4_LABEL"> Нарона </String>
+    <String id="SITE_4_FULLNAME"> Нарона </String>
+    <String id="SITE_4_SITETYPE"> Місто гравця </String>
+    <String id="SITE_4_OPEN"> Нарона \n Твій місто </String>
+    <String id="SITE_4_CLOSED">!</String>
+    <String id="SITE_4_HISTORY">!</String>
+    <String id="SITE_4_DEACTIVE">!</String>
+  </StringTable>
+</Narona>

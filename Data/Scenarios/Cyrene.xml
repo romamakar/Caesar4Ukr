@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Cyrene>
+  <StringTable>
+    <String id="OVERVIEW">Ти здобув собі славу марнотратного правителя, який не вміє поводитися з грошима. Тим не менш, у Сенаті у тебе залишилися прихильники, які допомогли здобути посаду намісника Кіренаїки. Ця провінція перейшла під руку Риму кілька років тому. Але зараз вона переживає важкі часи - так само, як і ти. Ти маєш побудувати в Кіренаїці нову колонію. Місце розташування нового міста не можна назвати вдалим, зате тут багато родючої землі і свіжої води - чим прогодувати населення, що росте. Загвоздка в тому, що орна земля оточена болотом, тому треба будувати обачно. На жаль, особливо цінних природних ресурсів у цій місцевості немає. Відбудувавши місто, ти виявиш, що можна отримати вигоду з його розташування. Через твою колонію проходять торгові шляхи від Риму до далеких міст на сході. Ретельно спланувавши торгові операції, ти зможеш навіть підняти промисловість, використовуючи привезену сировину. Оскільки управління цією провінцією йшло дуже погано, місцеві жителі противяться приходу римської влади. Час від часу вони будуть набігати на твоє місто. Покажи, що ти вмілий воєначальник, і в провінції запанує мир і спокій. Не можна сказати, що від тебе чекають чудес на новій ниві. Але це твій останній шанс довести свою спроможність та заткнути роти недоброзичливцям.</String>
+    <String id="HISTORY"></String>
+    <String id="HINTS"></String>
+    <String id="AFTERMATH"></String>
+    <String id="SCENARIONAME"> Кірена </String>
+    <String id="WIN">!</String>
+    <String id="LOSE">Ніякі високопоставлені друзі не в змозі врятувати тебе від гніву розчарованих сенаторів та злісних кредиторів. Готуйся до гіршому - тебе викликають в Рим .</String>
+    <String id="POPULATION">1,000,000</String>
+    <String id="FAVOR"></String>
+    <String id="CULTURE"></String>
+    <String id="PROSPERITY"></String>
+    <String id="SECURITY"></String>
+
+    <String id="REQUEST_0_TITLE">ORD_E слонова кістка </String>
+    <String id="REQUEST_0_HEADING"> Рим вимагає надіслати слонову кістка </String>
+    <String id="REQUEST_0_BODY"> Римські патриції просять надіслати партію слоновий кістки .</String>
+    <String id="REQUEST_0_FAILURE">Тобі не вдалося виконати вимоги Риму, і його вподобання знизилося.</String>
+    <String id="REQUEST_1_TITLE">ORD_F м'ясо </String>
+    <String id="REQUEST_1_HEADING"> Рим вимагає надіслати їжу </String>
+    <String id="REQUEST_1_BODY"> Рим голодує . Необхідно терміново відправити туди м'ясо.</String>
+    <String id="REQUEST_1_FAILURE">Тобі не вдалося виконати вимоги Риму, і його вподобання знизилося.</String>
+    <String id="REQUEST_2_TITLE">ORD_B одяг </String>
+    <String id="REQUEST_2_HEADING"> Рим вимагає надіслати одяг </String>
+    <String id="REQUEST_2_BODY">Населення Риму зростає, запити теж. Тобі наказано надіслати партію одягу.</String>
+    <String id="REQUEST_2_FAILURE">Тобі не вдалося виконати вимоги Риму, і його вподобання знизилося.</String>
+    <String id="REQUEST_3_TITLE">REQ_B оливкова олія </String>
+    <String id="REQUEST_3_HEADING"> Запит на оливкова олія </String>
+    <String id="REQUEST_3_BODY">Рим росте, городянам не вистачає навіть найнеобхіднішого. Прийшли, будь ласка, оливкова олія.</String>
+    <String id="REQUEST_3_FAILURE">Тобі не вдалося догодити Риму і домогтися його вподобання.</String>
+    <String id="REQUEST_4_TITLE">ORD_L начиння </String>
+    <String id="REQUEST_4_HEADING"> Рим вимагає надіслати начиння </String>
+    <String id="REQUEST_4_BODY">Рим висуває нові вимоги. Терміново прийшли партію начиння.</String>
+    <String id="REQUEST_4_FAILURE">Тобі не вдалося виконати вимоги Риму, і його вподобання знизилося.</String>
+    <String id="REQUEST_5_TITLE">REQ_L вино </String>
+    <String id="REQUEST_5_HEADING"> Запит на вино </String>
+    <String id="REQUEST_5_BODY">Римляни піклуються про красу. Прийшли, будь ласка, вино.</String>
+    <String id="REQUEST_5_FAILURE">Тобі не вдалося догодити Риму і домогтися його вподобання.</String>
+    <String id="REQUEST_6_TITLE">ORD_B скло </String>
+    <String id="REQUEST_6_HEADING"> Рим вимагає надіслати скло </String>
+    <String id="REQUEST_6_BODY">Населення Риму зростає, запити теж. Тобі наказано надіслати скло.</String>
+    <String id="REQUEST_6_FAILURE">Тобі не вдалося виконати вимоги Риму, і його вподобання знизилося.</String>
+    <String id="REQUEST_7_TITLE">REQ_L меблі </String>
+    <String id="REQUEST_7_HEADING"> Запит на меблі </String>
+    <String id="REQUEST_7_BODY">Римляни дбають про красу. Прийшли, будь ласка, меблі.</String>
+    <String id="REQUEST_7_FAILURE">Тобі не вдалося догодити Риму і домогтися його вподобання.</String>
+
+    <String id="REQUEST_8_TITLE">ORD_F зерно </String>
+    <String id="REQUEST_8_HEADING"> Рим вимагає надіслати їжу </String>
+    <String id="REQUEST_8_BODY"> Рим голодує . Необхідно терміново відправити туди зерно.</String>
+    <String id="REQUEST_8_FAILURE">Тобі не вдалося виконати вимоги Риму, і його вподобання знизилося.</String>
+
+    <String id="REQUEST_9_TITLE">REQ_MIL</String>
+    <String id="REQUEST_9_HEADING"> Запит на війська </String>
+    <String id="REQUEST_9_BODY">Рим сподівається, що ти зможеш надіслати нових солдатів для поповнення легіонів.</String>
+    <String id="REQUEST_9_FAILURE">Тобі не вдалося догодити Риму і домогтися його вподобання.</String>
+    <String id="REQUEST_10_TITLE">REQ_MIL</String>
+    <String id="REQUEST_10_HEADING"> Запит на війська </String>
+    <String id="REQUEST_10_BODY">Рим сподівається, що ти зможеш надіслати нових солдатів для поповнення легіонів.</String>
+    <String id="REQUEST_10_FAILURE">Тобі не вдалося догодити Риму і домогтися його вподобання.</String>
+    <String id="REQUEST_11_TITLE">REQ_MIL</String>
+    <String id="REQUEST_11_HEADING"> Запит на війська </String>
+    <String id="REQUEST_11_BODY">Рим сподівається, що ти зможеш надіслати нових солдатів для поповнення легіонів.</String>
+    <String id="REQUEST_11_FAILURE">Тобі не вдалося догодити Риму і домогтися його вподобання.</String>
+
+
+    <!---->
+    <!-- INVASIONS-->
+    <!---->
+    <String id="INVASION_0_TITLE"> Набіги з Автомалаксу </String>
+    <String id="INVASION_0_YEAR"></String>
+    <String id="INVASION_0_THREE_MONTH"></String>
+    <String id="INVASION_0_ONE_MONTH"> Вороги обложили наш Місто . Щодня ми чекаємо на атаки.</String>
+    <String id="INVASION_0_ARRIVAL">Настав час взятися за мечі і дати відсіч ворогам! Захистимо наш місто !</String>
+
+    <String id="INVASION_1_TITLE"> Набіги з Антипіргосу </String>
+    <String id="INVASION_1_YEAR"></String>
+    <String id="INVASION_1_THREE_MONTH"></String>
+    <String id="INVASION_1_ONE_MONTH"> Вороги обложили наш Місто . Щодня ми чекаємо на атаки.</String>
+    <String id="INVASION_1_ARRIVAL">Настав час взятися за мечі і дати відсіч ворогам! Захистимо наш місто !</String>
+
+    <String id="INVASION_2_TITLE"> Набіги з Евесперід </String>
+    <String id="INVASION_2_YEAR"></String>
+    <String id="INVASION_2_THREE_MONTH">Останнім часом нальоти на мирних жителів почастішали. Розбійники наближаються до нашого міста.</String>
+    <String id="INVASION_2_ONE_MONTH">Вороги взяли в облогу наше місто. Щодня ми чекаємо на атаки.</String>
+    <String id="INVASION_2_ARRIVAL">Настав час взятися за мечі і дати відсіч ворогам! Захистимо наш місто !</String>
+
+    <String id="INVASION_3_TITLE"> Набіги з Автомалаксу </String>
+    <String id="INVASION_3_YEAR"></String>
+    <String id="INVASION_3_THREE_MONTH"></String>
+    <String id="INVASION_3_ONE_MONTH"> Вороги обложили наш Місто . Щодня ми чекаємо на атаки.</String>
+    <String id="INVASION_3_ARRIVAL">Настав час взятися за мечі і дати відсіч ворогам! Захистимо наш місто !</String>
+
+    <String id="INVASION_4_TITLE"> Набіги з Антипіргосу </String>
+    <String id="INVASION_4_YEAR"></String>
+    <String id="INVASION_4_THREE_MONTH"></String>
+    <String id="INVASION_4_ONE_MONTH"> Вороги обложили наш Місто . Щодня ми чекаємо на атаки.</String>
+    <String id="INVASION_4_ARRIVAL">Настав час взятися за мечі і дати відсіч ворогам! Захистимо наш місто !</String>
+
+    <String id="INVASION_5_TITLE"> Набіги з Евесперід </String>
+    <String id="INVASION_5_YEAR"></String>
+    <String id="INVASION_5_THREE_MONTH">Останнім часом нальоти на мирних жителів почастішали. Розбійники наближаються до нашого міста.</String>
+    <String id="INVASION_5_ONE_MONTH">Вороги взяли в облогу наше місто. Щодня ми чекаємо на атаки.</String>
+    <String id="INVASION_5_ARRIVAL">Настав час взятися за мечі і дати відсіч ворогам! Захистимо наш місто !</String>
+
+    <String id="INVASION_6_TITLE"> Набіги з Автомалаксу </String>
+    <String id="INVASION_6_YEAR"></String>
+    <String id="INVASION_6_THREE_MONTH"></String>
+    <String id="INVASION_6_ONE_MONTH"> Вороги обложили наш Місто . Щодня ми чекаємо на атаки.</String>
+    <String id="INVASION_6_ARRIVAL">Настав час взятися за мечі і дати відсіч ворогам! Захистимо наш місто !</String>
+
+    <String id="INVASION_7_TITLE"> Набіги з Антипіргосу </String>
+    <String id="INVASION_7_YEAR"></String>
+    <String id="INVASION_7_THREE_MONTH"></String>
+    <String id="INVASION_7_ONE_MONTH"> Вороги обложили наш Місто . Щодня ми чекаємо на атаки.</String>
+    <String id="INVASION_7_ARRIVAL">Настав час взятися за мечі і дати відсіч ворогам! Захистимо наш місто !</String>
+
+    <String id="INVASION_8_TITLE"> Набіги з Евесперід </String>
+    <String id="INVASION_8_YEAR"></String>
+    <String id="INVASION_8_THREE_MONTH">Останнім часом нальоти на мирних жителів почастішали. Розбійники наближаються до нашого міста.</String>
+    <String id="INVASION_8_ONE_MONTH">Вороги взяли в облогу наше місто. Щодня ми чекаємо на атаки.</String>
+    <String id="INVASION_8_ARRIVAL">Настав час взятися за мечі і дати відсіч ворогам! Захистимо наш місто !</String>
+
+    <String id="SITE_0_LABEL"> Лацій </String>
+    <String id="SITE_0_FULLNAME"> Лацій </String>
+    <String id="SITE_0_SITETYPE"> Римська провінція </String>
+    <String id="SITE_0_OPEN">!</String>
+    <String id="SITE_0_CLOSED">!</String>
+    <String id="SITE_0_HISTORY">!</String>
+    <String id="SITE_0_DEACTIVE">!</String>
+    <String id="SITE_1_LABEL"> Єгипет </String>
+    <String id="SITE_1_FULLNAME"> Єгипет </String>
+    <String id="SITE_1_SITETYPE"> Римська провінція </String>
+    <String id="SITE_1_OPEN">!</String>
+    <String id="SITE_1_CLOSED">!</String>
+    <String id="SITE_1_HISTORY">!</String>
+    <String id="SITE_1_DEACTIVE">!</String>
+    <String id="SITE_2_LABEL"> Африка </String>
+    <String id="SITE_2_FULLNAME"> Африка </String>
+    <String id="SITE_2_SITETYPE"> Римська провінція </String>
+    <String id="SITE_2_OPEN">!</String>
+    <String id="SITE_2_CLOSED">!</String>
+    <String id="SITE_2_HISTORY">!</String>
+    <String id="SITE_2_DEACTIVE">!</String>
+    <String id="SITE_3_LABEL"> Ахея </String>
+    <String id="SITE_3_FULLNAME"> Ахея </String>
+    <String id="SITE_3_SITETYPE"> Римська провінція </String>
+    <String id="SITE_3_OPEN">!</String>
+    <String id="SITE_3_CLOSED">!</String>
+    <String id="SITE_3_HISTORY">!</String>
+    <String id="SITE_3_DEACTIVE">!</String>
+    <String id="SITE_4_LABEL"> Сардинія </String>
+    <String id="SITE_4_FULLNAME"> Сардинія </String>
+    <String id="SITE_4_SITETYPE"> Римська провінція </String>
+    <String id="SITE_4_OPEN">!</String>
+    <String id="SITE_4_CLOSED">!</String>
+    <String id="SITE_4_HISTORY">!</String>
+    <String id="SITE_4_DEACTIVE">!</String>
+    <String id="SITE_5_LABEL"> Нумідія </String>
+    <String id="SITE_5_FULLNAME"> Нумідія </String>
+    <String id="SITE_5_SITETYPE"> Римська провінція </String>
+    <String id="SITE_5_OPEN">!</String>
+    <String id="SITE_5_CLOSED">!</String>
+    <String id="SITE_5_HISTORY">!</String>
+    <String id="SITE_5_DEACTIVE">!</String>
+    <String id="SITE_6_LABEL"> Тарраконська Іспанія </String>
+    <String id="SITE_6_FULLNAME"> Тарраконська Іспанія </String>
+    <String id="SITE_6_SITETYPE"> Римська провінція </String>
+    <String id="SITE_6_OPEN">!</String>
+    <String id="SITE_6_CLOSED">!</String>
+    <String id="SITE_6_HISTORY">!</String>
+    <String id="SITE_6_DEACTIVE">!</String>
+    <String id="SITE_7_LABEL"> Автомалакс </String>
+    <String id="SITE_7_FULLNAME"> Автомалакс </String>
+    <String id="SITE_7_SITETYPE"> Ворожий табір </String>
+    <String id="SITE_7_OPEN">!</String>
+    <String id="SITE_7_CLOSED">!</String>
+    <String id="SITE_7_HISTORY">!</String>
+    <String id="SITE_7_DEACTIVE">!</String>
+    <String id="SITE_8_LABEL"> Антипіргос </String>
+    <String id="SITE_8_FULLNAME"> Антипіргос </String>
+    <String id="SITE_8_SITETYPE"> Ворожий табір </String>
+    <String id="SITE_8_OPEN">!</String>
+    <String id="SITE_8_CLOSED">!</String>
+    <String id="SITE_8_HISTORY">!</String>
+    <String id="SITE_8_DEACTIVE">!</String>
+    <String id="SITE_9_LABEL"> Евесперіди </String>
+    <String id="SITE_9_FULLNAME"> Евесперіди </String>
+    <String id="SITE_9_SITETYPE"> Ворожий табір </String>
+    <String id="SITE_9_OPEN">!</String>
+    <String id="SITE_9_CLOSED">!</String>
+    <String id="SITE_9_HISTORY">!</String>
+    <String id="SITE_9_DEACTIVE">!</String>
+    <String id="SITE_10_LABEL"> Кірена </String>
+    <String id="SITE_10_FULLNAME"> Кірена </String>
+    <String id="SITE_10_SITETYPE"> Місто гравця </String>
+    <String id="SITE_10_OPEN"> Кірена \n Твій місто </String>
+    <String id="SITE_10_CLOSED">!</String>
+    <String id="SITE_10_HISTORY">!</String>
+    <String id="SITE_10_DEACTIVE">!</String>
+  </StringTable>
+</Cyrene>

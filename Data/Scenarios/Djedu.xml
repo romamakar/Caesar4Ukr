@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Djedu>
+  <StringTable>
+    <String id="OVERVIEW"> Ах , казкова Джеду ! Колись вона була багата та знаменита, а тепер? Час і недбалість привели місто до занепаду. Намісник, тобі доручено звести в Єгипті колонію, і цей покинутий край - найкраще місце для будівництва міста. Тут, у дельті Нілу, багато родючого ґрунту. А навколо є поклади корисних копалин. Твоє місто розквітне як пишний сад, адже в його околицях багато природних ресурсів і немає вороже налаштованих племен. Правь мудро і дбайливо, і незабаром слава про твоє місто рознесеться по всіх землях імперії.\n\nІ завдяки твоїм старанням Джеду знову стане символом слави, багатства і краси!</String>
+    <String id="HISTORY"></String>
+    <String id="HINTS"></String>
+    <String id="AFTERMATH"></String>
+    <String id="SCENARIONAME"> Джеду </String>
+    <String id="WIN">!</String>
+    <String id="LOSE">Як сталося, що ти не зумів звести колонію в такому багатому краї? Мабуть , над цим місцем тяжіє прокляття .</String>
+    <String id="POPULATION">1,000,000</String>
+    <String id="FAVOR"></String>
+    <String id="CULTURE"></String>
+    <String id="PROSPERITY"></String>
+    <String id="SECURITY"></String>
+
+    <!---->
+    <!-- REQUESTS-->
+    <!---->
+    <String id="REQUEST_0_TITLE">REQ_F зерно </String>
+    <String id="REQUEST_0_HEADING"> Запит на зерно </String>
+    <String id="REQUEST_0_BODY">У Римі незабаром відбудуться свята. Просимо надіслати зерно для бенкету. </String>
+    <String id="REQUEST_0_FAILURE">Тобі не вдалося догодити Риму і домогтися його вподобання.</String>
+
+    <String id="REQUEST_1_TITLE">REQ_M мармур </String>
+    <String id="REQUEST_1_HEADING"> Запит на мармур </String>
+    <String id="REQUEST_1_BODY">У Римі - велика нестача сировини. Якщо ти надішлеш мармур, твій внесок не залишиться непоміченим.</String>
+    <String id="REQUEST_1_FAILURE">Тобі не вдалося догодити Риму і домогтися його вподобання.</String>
+
+    <!---->
+    <!-- Empire Level Sites-->
+    <!---->
+    <String id="SITE_0_LABEL"> Лацій </String>
+    <String id="SITE_0_FULLNAME"> Лацій </String>
+    <String id="SITE_0_SITETYPE"> Римська провінція </String>
+    <String id="SITE_0_OPEN">!</String>
+    <String id="SITE_0_CLOSED">!</String>
+    <String id="SITE_0_HISTORY">!</String>
+    <String id="SITE_0_DEACTIVE">!</String>
+    <String id="SITE_1_LABEL"> Азія </String>
+    <String id="SITE_1_FULLNAME"> Азія </String>
+    <String id="SITE_1_SITETYPE"> Римська провінція </String>
+    <String id="SITE_1_OPEN">!</String>
+    <String id="SITE_1_CLOSED">!</String>
+    <String id="SITE_1_HISTORY">!</String>
+    <String id="SITE_1_DEACTIVE">!</String>
+    <String id="SITE_2_LABEL"> Африка </String>
+    <String id="SITE_2_FULLNAME"> Африка </String>
+    <String id="SITE_2_SITETYPE"> Римська провінція </String>
+    <String id="SITE_2_OPEN">!</String>
+    <String id="SITE_2_CLOSED">!</String>
+    <String id="SITE_2_HISTORY">!</String>
+    <String id="SITE_2_DEACTIVE">!</String>
+    <String id="SITE_3_LABEL"> Джеду </String>
+    <String id="SITE_3_FULLNAME"> Джеду </String>
+    <String id="SITE_3_SITETYPE"> Місто гравця </String>
+    <String id="SITE_3_OPEN"> Джед \n Твій місто </String>
+    <String id="SITE_3_CLOSED">!</String>
+    <String id="SITE_3_HISTORY">!</String>
+    <String id="SITE_3_DEACTIVE">!</String>
+  </StringTable>
+</Djedu>

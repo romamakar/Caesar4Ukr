@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Londinium>
+  <StringTable>
+    <String id="OVERVIEW">Колишній намісник Британії повинен був побудувати колонію Лондіній і закласти основу британського морського флоту. Але кораблі розмітало штормом, а брити, що набігли, розграбували скарбницю. Тепер колишній намісник голими руками утихомирює левів у колізеї. Намісник, будь суворий, але справедливий! Ти відомий тим, що ніколи не відступав перед труднощами. Тобі доручено провінцію Британія. Відбудуй місто Лондіній, запаси дерево для створення морського флоту і відбий усі набіги місцевих варварських племен. Успіх принесе тобі прихильність Риму! У разі невдачі римляни зможуть помилуватися двобою на гладіаторській арені між двома колишніми намісниками.</String>
+    <String id="HISTORY"></String>
+    <String id="HINTS"></String>
+    <String id="AFTERMATH"></String>
+    <String id="SCENARIONAME"> Лондіній </String>
+    <String id="WIN">Ім'я твоє та діяння увійшли до легенд, наміснику! Республіка купається в променях твоєї слави та величі. Сенатори навіть побоюються, що настають часи одноосібного правління. Але все попереду, а поки що Рим схилився перед твоєю владою.</String>
+    <String id="LOSE">Вісті про твою поразку в Британії викликали обурення. Римляни обурені: "На світовій арені ти - ніхто, то покажи чого стоїш на арені гладіаторів!"</String>
+    <String id="POPULATION">2,000</String>
+    <String id="FAVOR">45</String>
+    <String id="CULTURE">25</String>
+    <String id="PROSPERITY">30</String>
+    <String id="SECURITY">50</String>
+
+    <String id="REQUEST_0_TITLE">ORD_L деревина </String>
+    <String id="REQUEST_0_HEADING"> Рим вимагає надіслати деревину </String>
+    <String id="REQUEST_0_BODY">Промисловості Риму потрібна сировина. Терміново пішли туди деревину.</String>
+    <String id="REQUEST_0_FAILURE">Тобі не вдалося виконати вимоги Риму, і його вподобання знизилося.</String>
+    <String id="REQUEST_1_TITLE">REQ_M мармур </String>
+    <String id="REQUEST_1_HEADING"> Запит на мармур </String>
+    <String id="REQUEST_1_BODY">У Римі - велика нестача сировини. Якщо ти надішлеш мармур, твій внесок не залишиться непоміченим.</String>
+    <String id="REQUEST_1_FAILURE">Тобі не вдалося догодити Риму і домогтися його вподобання.</String>
+
+    <String id="REQUEST_2_TITLE">REQ_MIL</String>
+    <String id="REQUEST_2_HEADING"> Запит на війська </String>
+    <String id="REQUEST_2_BODY">Рим сподівається, що ти зможеш надіслати нових солдатів для поповнення легіонів.</String>
+    <String id="REQUEST_2_FAILURE">Тобі не вдалося догодити Риму і домогтися його вподобання.</String>
+    <String id="REQUEST_3_TITLE">ORD_MIL</String>
+    <String id="REQUEST_3_HEADING">Рим вимагає надати військову допомогу</String>
+    <String id="REQUEST_3_BODY">Рим чекає на твій вклад у військову кампанію. Відправ у легіони своїх солдатів.</String>
+    <String id="REQUEST_3_FAILURE">Тобі не вдалося виконати вимоги Риму, і його вподобання знизилося.</String>
+    <String id="REQUEST_4_TITLE">REQ_MIL</String>
+    <String id="REQUEST_4_HEADING"> Запит на війська </String>
+    <String id="REQUEST_4_BODY">Рим сподівається, що ти зможеш надіслати нових солдатів для поповнення легіонів.</String>
+    <String id="REQUEST_4_FAILURE">Тобі не вдалося догодити Риму і домогтися його вподобання.</String>
+    <String id="REQUEST_5_TITLE">ORD_MIL</String>
+    <String id="REQUEST_5_HEADING">Рим вимагає надати військову допомогу</String>
+    <String id="REQUEST_5_BODY">Рим чекає на твій вклад у військову кампанію. Відправ у легіони своїх солдатів.</String>
+    <String id="REQUEST_5_FAILURE">Тобі не вдалося виконати вимоги Риму, і його вподобання знизилося.</String>
+    <String id="REQUEST_6_TITLE">REQ_MIL</String>
+    <String id="REQUEST_6_HEADING"> Запит на війська </String>
+    <String id="REQUEST_6_BODY">Рим сподівається, що ти зможеш надіслати нових солдатів для поповнення легіонів.</String>
+    <String id="REQUEST_6_FAILURE">Тобі не вдалося догодити Риму і домогтися його вподобання.</String>
+
+    <!---->
+    <!-- ORDERS-->
+    <!---->
+
+
+    <!---->
+    <!-- INVASIONS-->
+    <!---->
+    <!-- Changed 8/23 Brittish to British in 0 & 1_Title -->
+    <String id="INVASION_0_TITLE"> Навала британців </String>
+    <String id="INVASION_0_YEAR">Ворог збирає війська на кордоні нашої провінції.</String>
+    <String id="INVASION_0_THREE_MONTH">Вороги перетнули кордон і наближаються до нашого міста.</String>
+    <String id="INVASION_0_ONE_MONTH">Вороги розташувалися прямо за стінами нашого міста. Вони готуються до нападу.</String>
+    <String id="INVASION_0_ARRIVAL">Ворог настає! Настав час піднятися на захист міста.</String>
+
+    <String id="INVASION_1_TITLE"> Навала британців </String>
+    <String id="INVASION_1_YEAR">Ворог збирає війська на кордоні нашої провінції.</String>
+    <String id="INVASION_1_THREE_MONTH">Вороги перетнули кордон і наближаються до нашого міста.</String>
+    <String id="INVASION_1_ONE_MONTH">Вороги розташувалися прямо за стінами нашого міста. Вони готуються до нападу.</String>
+    <String id="INVASION_1_ARRIVAL">Ворог настає! Настав час піднятися на захист міста.</String>
+
+    <String id="SITE_0_LABEL"> Лугдунська Галія </String>
+    <String id="SITE_0_FULLNAME"> Лугдунська Галія </String>
+    <String id="SITE_0_SITETYPE"> Римська провінція </String>
+    <String id="SITE_0_OPEN">!</String>
+    <String id="SITE_0_CLOSED">!</String>
+    <String id="SITE_0_HISTORY">!</String>
+    <String id="SITE_0_DEACTIVE">!</String>
+    <String id="SITE_3_LABEL"> Бельгіка </String>
+    <String id="SITE_3_FULLNAME"> Бельгіка </String>
+    <String id="SITE_3_SITETYPE"> Римська провінція </String>
+    <String id="SITE_3_OPEN">!</String>
+    <String id="SITE_3_CLOSED">!</String>
+    <String id="SITE_3_HISTORY">!</String>
+    <String id="SITE_3_DEACTIVE">!</String>
+    <String id="SITE_1_LABEL"> Аквитація </String>
+    <String id="SITE_1_FULLNAME"> Аквитація </String>
+    <String id="SITE_1_SITETYPE"> Іноземна провінція </String>
+    <String id="SITE_1_OPEN">!</String>
+    <String id="SITE_1_CLOSED">!</String>
+    <String id="SITE_1_HISTORY">!</String>
+    <String id="SITE_1_DEACTIVE">!</String>
+    <String id="SITE_2_LABEL"> Лузітанія </String>
+    <String id="SITE_2_FULLNAME"> Лузітанія </String>
+    <String id="SITE_2_SITETYPE"> Римська провінція </String>
+    <String id="SITE_2_OPEN">!</String>
+    <String id="SITE_2_CLOSED">!</String>
+    <String id="SITE_2_HISTORY">!</String>
+    <String id="SITE_2_DEACTIVE">!</String>
+    <String id="SITE_4_LABEL"> Ліндум </String>
+    <String id="SITE_4_FULLNAME"> Ліндум </String>
+    <String id="SITE_4_SITETYPE"> Ворожий табір </String>
+    <String id="SITE_4_OPEN">!</String>
+    <String id="SITE_4_CLOSED">!</String>
+    <String id="SITE_4_HISTORY">!</String>
+    <String id="SITE_4_DEACTIVE">!</String>
+    <String id="SITE_5_LABEL"> Глевум </String>
+    <String id="SITE_5_FULLNAME"> Глевум </String>
+    <String id="SITE_5_SITETYPE"> Ворожий табір </String>
+    <String id="SITE_5_OPEN">!</String>
+    <String id="SITE_5_CLOSED">!</String>
+    <String id="SITE_5_HISTORY">!</String>
+    <String id="SITE_5_DEACTIVE">!</String>
+    <String id="SITE_6_LABEL"> Камулодунум </String>
+    <String id="SITE_6_FULLNAME"> Камулодунум </String>
+    <String id="SITE_6_SITETYPE"> Ворожий табір </String>
+    <String id="SITE_6_OPEN">!</String>
+    <String id="SITE_6_CLOSED">!</String>
+    <String id="SITE_6_HISTORY">!</String>
+    <String id="SITE_6_DEACTIVE">!</String>
+    <String id="SITE_7_LABEL"> Еборакум </String>
+    <String id="SITE_7_FULLNAME"> Еборакум </String>
+    <String id="SITE_7_SITETYPE"> Ворожий табір </String>
+    <String id="SITE_7_OPEN">!</String>
+    <String id="SITE_7_CLOSED">!</String>
+    <String id="SITE_7_HISTORY">!</String>
+    <String id="SITE_7_DEACTIVE">!</String>
+    <String id="SITE_8_LABEL"> Віроконіум </String>
+    <String id="SITE_8_FULLNAME"> Віроконіум </String>
+    <String id="SITE_8_SITETYPE"> Ворожий табір </String>
+    <String id="SITE_8_OPEN">!</String>
+    <String id="SITE_8_CLOSED">!</String>
+    <String id="SITE_8_HISTORY">!</String>
+    <String id="SITE_8_DEACTIVE">!</String>
+    <String id="SITE_9_LABEL"> Лондіній </String>
+    <String id="SITE_9_FULLNAME"> Лондіній </String>
+    <String id="SITE_9_SITETYPE"> Місто гравця </String>
+    <String id="SITE_9_OPEN"> Лондіній \n Твій місто </String>
+    <String id="SITE_9_CLOSED">!</String>
+    <String id="SITE_9_HISTORY">!</String>
+    <String id="SITE_9_DEACTIVE">!</String>
+  </StringTable>
+</Londinium>

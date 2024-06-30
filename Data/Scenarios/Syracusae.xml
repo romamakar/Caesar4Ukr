@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Syracusae>
+  <StringTable>
+    <String id="OVERVIEW">Римські легіони та військовий флот здобули перемогу над Карфагеном, нашим заклятим ворогом на півдні. Острови між Італією та Африкою схилилися перед силою Риму. Більше того, Республіка отримала нову провінцію - щедрий і родючий острів Сицилію. Намісник, тобі доручено перетворити Сіракузи на блискуче місто і надійний порт. Зараз це маленьке, але ґрунтовне містечко. Сицилія - острів родючий, а плебеї Риму постійно вимагають як видовищ, а й хліба. Прослідкуй, щоб землі острова були оброблені, і налагодь постачання зерна до столиці.</String>
+    <String id="HISTORY"></String>
+    <String id="HINTS"></String>
+    <String id="AFTERMATH"></String>
+    <String id="SCENARIONAME"> Сіракузи </String>
+    <String id="WIN">Наші вітання, наміснику! Ти зумів подбати про нову землю. Блискучий початок кар'єри!</String>
+    <String id="LOSE">Справжній римлянин пишається будь-якою, навіть найменшою перемогою своєї країни. А ти не зміг утримати довіреної тобі землі!</String>
+    <String id="POPULATION">800</String>
+    <String id="FAVOR">40</String>
+    <String id="CULTURE">15</String>
+    <String id="PROSPERITY">25</String>
+    <String id="SECURITY">10</String>
+
+    <!-- -->
+    <!-- REQUESTS-->
+    <!---->
+    <String id="REQUEST_0_TITLE">ORD_F зерно </String>
+    <String id="REQUEST_0_HEADING"> Рим вимагає надіслати їжу </String>
+    <String id="REQUEST_0_BODY"> Рим голодує . Необхідно терміново відправити туди зерно.</String>
+    <String id="REQUEST_0_FAILURE">Тобі не вдалося виконати вимоги Риму, і його вподобання знизилося.</String>
+    <String id="REQUEST_1_TITLE">ORD_F зерно </String>
+    <String id="REQUEST_1_HEADING"> Рим вимагає надіслати їжу </String>
+    <String id="REQUEST_1_BODY"> Рим голодує . Необхідно терміново відправити туди зерно.</String>
+    <String id="REQUEST_1_FAILURE">Тобі не вдалося виконати вимоги Риму, і його вподобання знизилося.</String>
+    <String id="REQUEST_2_TITLE">ORD_F зерно </String>
+    <String id="REQUEST_2_HEADING"> Рим вимагає надіслати їжу </String>
+    <String id="REQUEST_2_BODY"> Рим голодує . Необхідно терміново відправити туди зерно.</String>
+    <String id="REQUEST_2_FAILURE">Тобі не вдалося виконати вимоги Риму, і його вподобання знизилося.</String>
+    <String id="REQUEST_3_TITLE">ORD_F зерно </String>
+    <String id="REQUEST_3_HEADING"> Запит на їжу </String>
+    <String id="REQUEST_3_BODY">У Римі незабаром відбудуться свята. Просимо надіслати зерно для бенкету. </String>
+    <String id="REQUEST_3_FAILURE">Тобі не вдалося догодити Риму і домогтися його вподобання.</String>
+    <String id="REQUEST_4_TITLE">REQ_B одяг </String>
+    <String id="REQUEST_4_HEADING"> Запит на одяг </String>
+    <String id="REQUEST_4_BODY">Рим росте, городянам не вистачає навіть найнеобхіднішого. Прийшли, будь ласка, одягу.</String>
+    <String id="REQUEST_4_FAILURE">Тобі не вдалося догодити Риму і домогтися його вподобання.</String>
+
+    <!---->
+    <!-- INVASIONS-->
+    <!---->
+
+    <String id="SITE_0_LABEL"> Лацій </String>
+    <String id="SITE_0_FULLNAME"> Лацій </String>
+    <String id="SITE_0_SITETYPE"> Римська провінція </String>
+    <String id="SITE_0_OPEN">!</String>
+    <String id="SITE_0_CLOSED">!</String>
+    <String id="SITE_0_HISTORY">!</String>
+    <String id="SITE_0_DEACTIVE">!</String>
+    <String id="SITE_1_LABEL"> Апулія </String>
+    <String id="SITE_1_FULLNAME"> Апулія </String>
+    <String id="SITE_1_SITETYPE"> Римська провінція </String>
+    <String id="SITE_1_OPEN">!</String>
+    <String id="SITE_1_CLOSED">!</String>
+    <String id="SITE_1_HISTORY">!</String>
+    <String id="SITE_1_DEACTIVE">!</String>
+    <String id="SITE_2_LABEL"> Сардинія </String>
+    <String id="SITE_2_FULLNAME"> Сардинія </String>
+    <String id="SITE_2_SITETYPE"> Римська провінція </String>
+    <String id="SITE_2_OPEN">!</String>
+    <String id="SITE_2_CLOSED">!</String>
+    <String id="SITE_2_HISTORY">!</String>
+    <String id="SITE_2_DEACTIVE">!</String>
+    <String id="SITE_3_LABEL"> Нарбоннська Галія </String>
+    <String id="SITE_3_FULLNAME">Нарбонська Галія</String>
+    <String id="SITE_3_SITETYPE">Римська провінція</String>
+    <String id="SITE_3_OPEN">!</String>
+    <String id="SITE_3_CLOSED">!</String>
+    <String id="SITE_3_HISTORY">!</String>
+    <String id="SITE_3_DEACTIVE">!</String>
+    <String id="SITE_4_LABEL">Сіракузи</String>
+    <String id="SITE_4_FULLNAME">Сіракузи</String>
+    <String id="SITE_4_SITETYPE">Місто гравця</String>
+    <String id="SITE_4_OPEN">Сіракузи\nТвоє місто</String>
+    <String id="SITE_4_CLOSED">!</String>
+    <String id="SITE_4_HISTORY">!</String>
+    <String id="SITE_4_DEACTIVE">!</String>
+  </StringTable>
+</Syracusae>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Virunum>
+  <StringTable>
+    <!-- Added 8/10 'Germanic' -->
+    <String id="OVERVIEW">Варварські племена Норіка впевнені, що від Риму нічого хорошого чекати не можна, Рим впевнений, що Норік тільки виграє, якщо увійде до складу імперії. Багате, захищене місто Вірун залишить оплотом Риму в цих землях і одночасно покаже варварам, як добре живеться римським громадянам. Німецьки постійно здійснюватимуть набіги на місто, що будується. Тому приділили особливу увагу обороні, використовуючи рельєф місцевості. Але не забувай, що місто має рости і розвиватися, а жителі його - не знати ні в чому потреби.</String>
+    <String id="HISTORY"></String>
+    <String id="HINTS"></String>
+    <String id="AFTERMATH"></String>
+    <String id="SCENARIONAME">Вірун</String>
+    <String id="WIN">Племена та природні умови Норіка - суворе випробування для будь-якого намісника. Але ти впорався з честю! Цезар шле тобі свої вітання.</String>
+    <String id="LOSE">До Риму - рукою подати, і погані звістки летять як на крилах. Цезар вважає, що ти так само швидко з'явишся перед його очима і даси докладний звіт.</String>
+    <String id="POPULATION">2,000</String>
+    <String id="FAVOR">40</String>
+    <String id="CULTURE">35</String>
+    <String id="PROSPERITY">50</String>
+    <String id="SECURITY">60</String>
+
+    <!---->
+    <!-- Custom Rome Standard Wages -->
+    <!---->
+    <!-- changed 08 16 -->
+    <String id="EVENT_Wage_Change_Title">Розмір платні змінився</String>
+    <String id="EVENT_Wage_Change_Message">Рим встановив новий розмір платні для працівників. Зверніться до радника з праці за роз'ясненнями.</String>
+
+    <!---->
+    <!-- Orders and Requests -->
+    <!---->
+    <String id="REQUEST_0_TITLE">ORD_F м'ясо</String>
+    <String id="REQUEST_0_HEADING">Рим вимагає надіслати їжу</String>
+    <String id="REQUEST_0_BODY">Рим голодує. Необхідно терміново відправити туди м'ясо.</String>
+    <String id="REQUEST_0_FAILURE">Тобі не вдалося виконати вимоги Риму, і його вподобання знизилося.</String>
+    <String id="REQUEST_1_TITLE">REQ_L золото</String>
+    <String id="REQUEST_1_HEADING">Запит на золото</String>
+    <String id="REQUEST_1_BODY">У Римі - велика нестача сировини. Якщо ти надішлеш золото, твій внесок не залишиться непоміченим.</String>
+    <String id="REQUEST_1_FAILURE">Тобі не вдалося догодити Риму і домогтися його вподобання.</String>
+    <String id="REQUEST_2_TITLE">REQ_M зброя</String>
+    <String id="REQUEST_2_HEADING">Запит на зброю</String>
+    <String id="REQUEST_2_BODY">Римські легіони потрібно озброювати. Прийшли до Риму зброя.</String>
+    <String id="REQUEST_2_FAILURE">Тобі не вдалося догодити Риму і домогтися його вподобання.</String>
+    <String id="REQUEST_3_TITLE">REQ_L вино</String>
+    <String id="REQUEST_3_HEADING">Запит на вино</String>
+    <String id="REQUEST_3_BODY">Римляни піклуються про красу. Прийшли, будь ласка, вино.</String>
+    <String id="REQUEST_3_FAILURE">Тобі не вдалося догодити Риму і домогтися його вподобання.</String>
+
+    <!---->
+    <!-- Invasions -->
+    <!---->
+    <String id="INVASION_0_TITLE">Німецькі розбійники</String>
+    <String id="INVASION_0_YEAR"></String>
+    <String id="INVASION_0_THREE_MONTH"></String>
+    <String id="INVASION_0_ONE_MONTH">Вороги взяли в облогу наше місто. Щодня ми чекаємо на атаки.</String>
+    <String id="INVASION_0_ARRIVAL">Настав час взятися за мечі і дати відсіч ворогам! Захистимо наше місто!</String>
+
+    <String id="INVASION_1_TITLE">Німецькі розбійники</String>
+    <String id="INVASION_1_YEAR"></String>
+    <String id="INVASION_1_THREE_MONTH"></String>
+    <String id="INVASION_1_ONE_MONTH">Вороги взяли в облогу наше місто. Щодня ми чекаємо на атаки.</String>
+    <String id="INVASION_1_ARRIVAL">Настав час взятися за мечі і дати відсіч ворогам! Захистимо наше місто!</String>
+
+    <String id="INVASION_2_TITLE">Німецькі розбійники</String>
+    <String id="INVASION_2_YEAR"></String>
+    <String id="INVASION_2_THREE_MONTH"></String>
+    <String id="INVASION_2_ONE_MONTH">Вороги взяли в облогу наше місто. Щодня ми чекаємо на атаки.</String>
+    <String id="INVASION_2_ARRIVAL">Настав час взятися за мечі і дати відсіч ворогам! Захистимо наше місто!</String>
+
+    <String id="INVASION_3_TITLE">Німецькі розбійники</String>
+    <String id="INVASION_3_YEAR"></String>
+    <String id="INVASION_3_THREE_MONTH"></String>
+    <String id="INVASION_3_ONE_MONTH">Вороги взяли в облогу наше місто. Щодня ми чекаємо на атаки.</String>
+    <String id="INVASION_3_ARRIVAL">Настав час взятися за мечі і дати відсіч ворогам! Захистимо наше місто!</String>
+
+    <String id="INVASION_4_TITLE">Німецькі розбійники</String>
+    <String id="INVASION_4_YEAR"></String>
+    <String id="INVASION_4_THREE_MONTH"></String>
+    <String id="INVASION_4_ONE_MONTH">Вороги взяли в облогу наше місто. Щодня ми чекаємо на атаки.</String>
+    <String id="INVASION_4_ARRIVAL">Настав час взятися за мечі і дати відсіч ворогам! Захистимо наше місто!</String>
+
+    <String id="INVASION_5_TITLE">Німецькі розбійники</String>
+    <String id="INVASION_5_YEAR"></String>
+    <String id="INVASION_5_THREE_MONTH"></String>
+    <String id="INVASION_5_ONE_MONTH">Вороги взяли в облогу наше місто. Щодня ми чекаємо на атаки.</String>
+    <String id="INVASION_5_ARRIVAL">Настав час взятися за мечі і дати відсіч ворогам! Захистимо наше місто!</String>
+
+    <!---->
+    <!-- Empire Level Site Labels -->
+    <!---->
+    <String id="SITE_0_LABEL">Лацій</String>
+    <String id="SITE_0_FULLNAME">Лацій</String>
+    <String id="SITE_0_SITETYPE">Римська провінція</String>
+    <String id="SITE_0_OPEN">!</String>
+    <String id="SITE_0_CLOSED">!</String>
+    <String id="SITE_0_HISTORY">!</String>
+    <String id="SITE_0_DEACTIVE">!</String>
+    <String id="SITE_1_LABEL">Сіліція</String>
+    <String id="SITE_1_FULLNAME">Сицилія</String>
+    <String id="SITE_1_SITETYPE">Римська провінція</String>
+    <String id="SITE_1_OPEN">!</String>
+    <String id="SITE_1_CLOSED">!</String>
+    <String id="SITE_1_HISTORY">!</String>
+    <String id="SITE_1_DEACTIVE">!</String>
+    <String id="SITE_2_LABEL">Сардинія</String>
+    <String id="SITE_2_FULLNAME">Сардинія</String>
+    <String id="SITE_2_SITETYPE">Римська провінція</String>
+    <String id="SITE_2_OPEN">!</String>
+    <String id="SITE_2_CLOSED">!</String>
+    <String id="SITE_2_HISTORY">!</String>
+    <String id="SITE_2_DEACTIVE">!</String>
+    <String id="SITE_3_LABEL">Ахея</String>
+    <String id="SITE_3_FULLNAME">Ахея</String>
+    <String id="SITE_3_SITETYPE">Римська провінція</String>
+    <String id="SITE_3_OPEN">!</String>
+    <String id="SITE_3_CLOSED">!</String>
+    <String id="SITE_3_HISTORY">!</String>
+    <String id="SITE_3_DEACTIVE">!</String>
+    <String id="SITE_4_LABEL">Кіренаїка</String>
+    <String id="SITE_4_FULLNAME">Кіренаїка</String>
+    <String id="SITE_4_SITETYPE">Римська провінція</String>
+    <String id="SITE_4_OPEN">!</String>
+    <String id="SITE_4_CLOSED">!</String>
+    <String id="SITE_4_HISTORY">!</String>
+    <String id="SITE_4_DEACTIVE">!</String>
+    <String id="SITE_5_LABEL">Дакія</String>
+    <String id="SITE_5_FULLNAME">Дакія</String>
+    <String id="SITE_5_SITETYPE">Іноземна провінція</String>
+    <String id="SITE_5_OPEN">!</String>
+    <String id="SITE_5_CLOSED">!</String>
+    <String id="SITE_5_HISTORY">!</String>
+    <String id="SITE_5_DEACTIVE">!</String>
+    <String id="SITE_6_LABEL"> Вірун </String>
+    <String id="SITE_6_FULLNAME"> Вірун </String>
+    <String id="SITE_6_SITETYPE"> Місто гравця </String>
+    <String id="SITE_6_OPEN"> Вірун \n Твій місто </String>
+    <String id="SITE_6_CLOSED">!</String>
+    <String id="SITE_6_HISTORY">!</String>
+    <String id="SITE_6_DEACTIVE">!</String>
+  </StringTable>
+</Virunum>

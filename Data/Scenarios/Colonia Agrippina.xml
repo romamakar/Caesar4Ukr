@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ColoniaAgrippina>
+  <StringTable>
+    <String id="OVERVIEW">Війни в Нижній Германії завжди були успішними, але зараз час нанести рішучий удар. Розташуйся біля Рейну і заснуй колонію Агриппіна. Збирай армію, доки германці ще тільки готуються до нападу.\n\nДеякі товари можна закупити в Верхній Германії, а от зерно та овочі доведеться вирощувати в колонії. Ти можеш імпортувати не лише готове зброю, а й сировину, щоб краще забезпечити свою армію.\n\nБудуй і захищай колонію. Нанеси варварам руйнівний удар! За неудачу імператор жорстоко покарає — веде тобі з війська. Але успіх може принести славу і, можливо, трон.</String>
+    <String id="HISTORY"></String>
+    <String id="HINTS"></String>
+    <String id="AFTERMATH"></String>
+    <String id="SCENARIONAME">Колонія Агриппіна</String>
+    <String id="WIN">Розбивши армію германців, ти не лише захистив Рим на майбутні роки, а й перевершив своїми діями навіть Цезаря. Це небезпечна слава, але легіони визнали тебе і свергли імператора. Аве, Цезаре! Вдячний Рим чекає на тебе!</String>
+    <String id="LOSE">Твої помилки стали очевидними не відразу. Але тепер, коли війська германців вже наближаються до Риму, ти розумієш, як малозорий був.</String>
+    <String id="POPULATION">5,000</String>
+    <String id="FAVOR">60</String>
+    <String id="CULTURE">75</String>
+    <String id="PROSPERITY">75</String>
+    <String id="SECURITY">75</String>
+
+    <String id="REQUEST_0_TITLE">REQ_L вино</String>
+    <String id="REQUEST_0_HEADING">Запит на вино</String>
+    <String id="REQUEST_0_BODY">Римляни піклуються про свою красу. Будь ласка, надішли вино.</String>
+    <String id="REQUEST_0_FAILURE">Тобі не вдалося задовольнити Рим і здобути його схвалення.</String>
+
+    <String id="REQUEST_1_TITLE">REQ_B кераміка</String>
+    <String id="REQUEST_1_HEADING">Запит на кераміку</String>
+    <String id="REQUEST_1_BODY">Рим росте, але мешканцям не вистачає навіть найнеобхіднішого. Будь ласка, надішли кераміку.</String>
+    <String id="REQUEST_1_FAILURE">Тобі не вдалося задовольнити Рим і здобути його схвалення.</String>
+
+    <String id="REQUEST_2_TITLE">REQ_MIL</String>
+    <String id="REQUEST_2_HEADING">Запит на війська</String>
+    <String id="REQUEST_2_BODY">Рим сподівається, що ти зможеш надіслати нових солдат для поповнення легіонів.</String>
+    <String id="REQUEST_2_FAILURE">Тобі не вдалося задовольнити Рим і здобути його схвалення.</String>
+
+    <String id="REQUEST_3_TITLE">REQ_MIL</String>
+    <String id="REQUEST_3_HEADING">Запит на війська</String>
+    <String id="REQUEST_3_BODY">Рим сподівається, що ти зможеш надіслати нових солдат для поповнення легіонів.</String>
+    <String id="REQUEST_3_FAILURE">Тобі не вдалося задовольнити Рим і здобути його схвалення.</String>
+
+    <String id="REQUEST_4_TITLE">REQ_MIL</String>
+    <String id="REQUEST_4_HEADING">Запит на війська</String>
+    <String id="REQUEST_4_BODY">Рим сподівається, що ти зможеш надіслати нових солдат для поповнення легіонів.</String>
+    <String id="REQUEST_4_FAILURE">Тобі не вдалося задовольнити Рим і здобути його схвалення.</String>
+
+    <!---->
+    <!-- INVASIONS-->
+    <!---->
+    <String id="INVASION_0_TITLE">Вторгнення франків</String>
+    <String id="INVASION_0_YEAR"></String>
+    <String id="INVASION_0_THREE_MONTH">Останнім часом напади на мирних жителів збільшились. Розбійники наближаються до нашого міста.</String>
+    <String id="INVASION_0_ONE_MONTH">Вороги осадили наш місто. Кожен день ми чекаємо на атаку.</String>
+    <String id="INVASION_0_ARRIVAL">Час узяти за мечі і дати відсіч ворогам! Захистимо наше місто!</String>
+
+    <String id="INVASION_1_TITLE">Вторгнення хаттів</String>
+    <String id="INVASION_1_YEAR"></String>
+    <String id="INVASION_1_THREE_MONTH"></String>
+    <String id="INVASION_1_ONE_MONTH">Вороги осадили наш місто. Кожен день ми чекаємо на атаку.</String>
+    <String id="INVASION_1_ARRIVAL">Час узяти за мечі і дати відсіч ворогам! Захистимо наше місто!</String>
+
+    <String id="INVASION_2_TITLE">Вторгнення хамавів</String>
+    <String id="INVASION_2_YEAR"></String>
+    <String id="INVASION_2_THREE_MONTH"></String>
+    <String id="INVASION_2_ONE_MONTH">Вороги осадили наш місто. Кожен день ми чекаємо на атаку.</String>
+    <String id="INVASION_2_ARRIVAL">Час узяти за мечі і дати відсіч ворогам! Захистимо наше місто!</String>
+
+    <String id="INVASION_3_TITLE">Вторгнення гермундуров</String>
+    <String id="INVASION_3_YEAR">Ворог збирає війська на кордоні нашої провінції.</String>
+    <String id="INVASION_3_THREE_MONTH">Вороги перетнули кордон і наближаються до нашого міста.</String>
+    <String id="INVASION_3_ONE_MONTH">Вороги розташувалися прямо під стінами нашого міста. Вони готуються до нападу.</String>
+    <String id="INVASION_3_ARRIVAL">Ворог наступає! Час піднятися на захист міста.</String>
+
+    <String id="INVASION_4_TITLE">Вторгнення херусків</String>
+    <String id="INVASION_4_YEAR">Ворог збирає війська на кордоні нашої провінції.</String>
+    <String id="INVASION_4_THREE_MONTH">Вороги перетнули кордон і наближаються до нашого міста.</String>
+    <String id="INVASION_4_ONE_MONTH">Вороги розташувалися прямо під стінами нашого міста. Вони готуються до нападу.</String>
+    <String id="INVASION_4_ARRIVAL">Ворог наступає! Час піднятися на захист міста.</String>
+
+    <String id="SITE_0_LABEL">Лаций</String>
+    <String id="SITE_0_FULLNAME">Лаций</String>
+    <String id="SITE_0_SITETYPE">Римська провінція</String>
+    <String id="SITE_0_OPEN">!</String>
+    <String id="SITE_0_CLOSED">!</String>
+    <String id="SITE_0_HISTORY">!</String>
+    <String id="SITE_0_DEACTIVE">!</String>
+
+    <String id="SITE_1_LABEL">Верхня Германія</String>
+    <String id="SITE_1_FULLNAME">Верхня Германія</String>
+    <String id="SITE_1_SITETYPE">Римська провінція</String>
+    <String id="SITE_1_OPEN">!</String>
+    <String id="SITE_1_CLOSED">!</String>
+    <String id="SITE_1_HISTORY">!</String>
+    <String id="SITE_1_DEACTIVE">!</String>
+
+    <String id="SITE_2_LABEL">Бельгіка</String>
+    <String id="SITE_2_FULLNAME">Бельгіка</String>
+    <String id="SITE_2_SITETYPE">Римська провінція</String>
+    <String id="SITE_2_OPEN">!</String>
+    <String id="SITE_2_CLOSED">!</String>
+    <String id="SITE_2_HISTORY">!</String>
+    <String id="SITE_2_DEACTIVE">!</String>
+
+    <String id="SITE_3_LABEL">Дакія</String>
+    <String id="SITE_3_FULLNAME">Дакія</String>
+    <String id="SITE_3_SITETYPE">Римська провінція</String>
+    <String id="SITE_3_OPEN">!</String>
+    <String id="SITE_3_CLOSED">!</String>
+    <String id="SITE_3_HISTORY">!</String>
+    <String id="SITE_3_DEACTIVE">!</String>
+
+    <String id="SITE_4_LABEL">Апулія</String>
+    <String id="SITE_4_FULLNAME">Апулія</String>
+    <String id="SITE_4_SITETYPE">Римська провінція</String>
+    <String id="SITE_4_OPEN">!</String>
+    <String id="SITE_4_CLOSED">!</String>
+    <String id="SITE_4_HISTORY">!</String>
+    <String id="SITE_4_DEACTIVE">!</String>
+
+    <String id="SITE_5_LABEL">Британія</String>
+    <String id="SITE_5_FULLNAME">Британія</String>
+    <String id="SITE_5_SITETYPE">Римська провінція</String>
+    <String id="SITE_5_OPEN">!</String>
+    <String id="SITE_5_CLOSED">!</String>
+    <String id="SITE_5_HISTORY">!</String>
+    <String id="SITE_5_DEACTIVE">!</String>
+
+    <String id="SITE_6_LABEL">Франки</String>
+    <String id="SITE_6_FULLNAME">Франки</String>
+    <String id="SITE_6_SITETYPE">Ворожий табір</String>
+    <String id="SITE_6_OPEN">!</String>
+    <String id="SITE_6_CLOSED">!</String>
+    <String id="SITE_6_HISTORY">!</String>
+    <String id="SITE_6_DEACTIVE">!</String>
+
+    <String id="SITE_7_LABEL">Хатти</String>
+    <String id="SITE_7_FULLNAME">Хатти</String>
+    <String id="SITE_7_SITETYPE">Ворожий табір</String>
+    <String id="SITE_7_OPEN">!</String>
+    <String id="SITE_7_CLOSED">!</String>
+    <String id="SITE_7_HISTORY">!</String>
+    <String id="SITE_7_DEACTIVE">!</String>
+
+    <String id="SITE_8_LABEL">Хамави</String>
+    <String id="SITE_8_FULLNAME">Хамави</String>
+    <String id="SITE_8_SITETYPE">Ворожий табір</String>
+    <String id="SITE_8_OPEN">!</String>
+    <String id="SITE_8_CLOSED">!</String>
+    <String id="SITE_8_HISTORY">!</String>
+    <String id="SITE_8_DEACTIVE">!</String>
+
+    <!-- Updated city name on 7/30 -->
+    <String id="SITE_9_LABEL">Колонія Агриппіна</String>
+    <String id="SITE_9_FULLNAME">Колонія Агриппіна</String>
+    <String id="SITE_9_SITETYPE">Місто гравця</String>
+    <String id="SITE_9_OPEN">Колонія Агриппіна\nТвоє місто</String>
+    <String id="SITE_9_CLOSED">!</String>
+    <String id="SITE_9_HISTORY">!</String>
+    <String id="SITE_9_DEACTIVE">!</String>
+  </StringTable>
+</ColoniaAgrippina>

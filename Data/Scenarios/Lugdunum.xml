@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lugdunum>
+  <StringTable>
+    <String id="OVERVIEW">Ти маєш заснувати місто Лугдунум біля злиття річок Рони та Сони. Цезар хоче, щоб Лугдунум став найпрекраснішим і культурним містом Галлії. Через нього йде торгівля з усіх куточків Імперії - Галлії, Іспанії, Британії, Італії, Німеччини. Щоб товари звідусіль стікалися у твоє місто, заклади нові торгові шляхи. Коли північні товари ринуть на ринки Риму, Цезар високо оцінить твій успіх.</String>
+    <String id="HISTORY"></String>
+    <String id="HINTS"></String>
+    <String id="AFTERMATH"></String>
+    <String id="SCENARIONAME"> Лугдунум </String>
+    <String id="WIN">Твоє місто багатолюдне і славне товарами, які привозять з усіх куточків Імперії. Мандрівники розносять звістку про красу та багатство твого міста. Не дивно, що Цезар задоволений тобою, наміснику!</String>
+    <String id="LOSE">Галли насміхаються над твоїм так званим "містом", а Цезар жорстоко розчарований у твоїх здібностях правителя.</String>
+    <String id="POPULATION">6,000</String>
+    <String id="FAVOR">60</String>
+    <String id="CULTURE">70</String>
+    <String id="PROSPERITY">35</String>
+    <String id="SECURITY">30</String>
+
+    <!---->
+    <!-- Custom Rome Standard Wages -->
+    <!---->
+    <!-- changed 08 16 -->
+    <String id="EVENT_Wage_Change_Title"> Розмір платні змінився </String>
+    <String id="EVENT_Wage_Change_Message">Рим встановив новий розмір платні для працівників. Зверніться до радника з праці за роз'ясненнями.</String>
+
+    <!---->
+    <!-- Orders and Requests -->
+    <!---->
+    <String id="REQUEST_0_TITLE">ORD_DN</String>
+    <String id="REQUEST_0_HEADING"> Рим вимагає надіслати данина </String>
+    <String id="REQUEST_0_BODY">Рим вимагає надіслати данину, щоб поповнити свою скарбницю.</String>
+    <String id="REQUEST_0_FAILURE">Тобі не вдалося виконати вимоги Риму, і його вподобання знизилося.</String>
+    <String id="REQUEST_1_TITLE">REQ_E сільфіум </String>
+    <String id="REQUEST_1_HEADING"> Запит на сільфіум </String>
+    <String id="REQUEST_1_BODY">Римляни ласі на екзотику. Прийшли до Риму сільфіум, якщо це можливо. </String>
+    <String id="REQUEST_1_FAILURE">Тобі не вдалося догодити Риму і домогтися його вподобання.</String>
+    <String id="REQUEST_2_TITLE">REQ_E мед </String>
+    <String id="REQUEST_2_HEADING"> Запит на мед </String>
+    <String id="REQUEST_2_BODY">Римляни ласі на екзотику. Прийшли до Риму мед, якщо це можливо. </String>
+    <String id="REQUEST_2_FAILURE">Тобі не вдалося догодити Риму і домогтися його вподобання.</String>
+    <String id="REQUEST_3_TITLE">REQ_M зброя </String>
+    <String id="REQUEST_3_HEADING"> Запит на зброю </String>
+    <String id="REQUEST_3_BODY">Римські легіони потрібно озброювати. Прийшли до Риму зброя.</String>
+    <String id="REQUEST_3_FAILURE">Тобі не вдалося догодити Риму і домогтися його вподобання.</String>
+    <String id="REQUEST_4_TITLE">REQ_M обладунки </String>
+    <String id="REQUEST_4_HEADING"> Запит на обладунки </String>
+    <String id="REQUEST_4_BODY">Римські легіони потрібно озброювати. Прийшли до Риму обладунки.</String>
+    <String id="REQUEST_4_FAILURE">Тобі не вдалося догодити Риму і домогтися його вподобання.</String>
+    <!-- Changed 8/08 -->
+    <String id="REQUEST_5_TITLE">REQ_B кераміка </String>
+    <!-- Changed 8/08 -->
+    <String id="REQUEST_5_HEADING"> Запит на кераміку </String>
+    <!-- Changed 8/08 -->
+    <String id="REQUEST_5_BODY">Рим росте, городянам не вистачає навіть найнеобхіднішого. Прийшли, будь ласка, кераміку.</String>
+    <String id="REQUEST_5_FAILURE">Тобі не вдалося догодити Риму і домогтися його вподобання.</String>
+
+    <!---->
+    <!-- Invasions-->
+    <!---->
+    <String id="INVASION_0_TITLE"> Місцеві бандити </String>
+    <String id="INVASION_0_YEAR"></String>
+    <String id="INVASION_0_THREE_MONTH"></String>
+    <String id="INVASION_0_ONE_MONTH"> Вороги обложили наш Місто . Щодня ми чекаємо на атаки.</String>
+    <String id="INVASION_0_ARRIVAL">Настав час взятися за мечі і дати відсіч ворогам! Захистимо наш місто !</String>
+
+    <!---->
+    <!-- Empire Level Site Labels -->
+    <!---->
+    <String id="SITE_0_LABEL"> Лацій </String>
+    <String id="SITE_0_FULLNAME"> Лацій </String>
+    <String id="SITE_0_SITETYPE"> Римська провінція </String>
+    <String id="SITE_0_OPEN">!</String>
+    <String id="SITE_0_CLOSED">!</String>
+    <String id="SITE_0_HISTORY">!</String>
+    <String id="SITE_0_DEACTIVE">!</String>
+    <String id="SITE_1_LABEL"> Нарбоннська Галія </String>
+    <String id="SITE_1_FULLNAME"> Нарбоннська Галія </String>
+    <String id="SITE_1_SITETYPE"> Римська провінція </String>
+    <String id="SITE_1_OPEN">!</String>
+    <String id="SITE_1_CLOSED">!</String>
+    <String id="SITE_1_HISTORY">!</String>
+    <String id="SITE_1_DEACTIVE">!</String>
+    <String id="SITE_5_LABEL"> Сардинія </String>
+    <String id="SITE_5_FULLNAME"> Сардинія </String>
+    <String id="SITE_5_SITETYPE"> Римська провінція </String>
+    <String id="SITE_5_OPEN">!</String>
+    <String id="SITE_5_CLOSED">!</String>
+    <String id="SITE_5_HISTORY">!</String>
+    <String id="SITE_5_DEACTIVE">!</String>
+    <String id="SITE_9_LABEL"> Британія </String>
+    <String id="SITE_9_FULLNAME"> Британія </String>
+    <String id="SITE_9_SITETYPE"> Римська провінція </String>
+    <String id="SITE_9_OPEN">!</String>
+    <String id="SITE_9_CLOSED">!</String>
+    <String id="SITE_9_HISTORY">!</String>
+    <String id="SITE_9_DEACTIVE">!</String>
+    <String id="SITE_6_LABEL"> Ахея </String>
+    <String id="SITE_6_FULLNAME"> Ахея </String>
+    <String id="SITE_6_SITETYPE"> Римська провінція </String>
+    <String id="SITE_6_OPEN">!</String>
+    <String id="SITE_6_CLOSED">!</String>
+    <String id="SITE_6_HISTORY">!</String>
+    <String id="SITE_6_DEACTIVE">!</String>
+    <String id="SITE_7_LABEL"> Єгипет </String>
+    <String id="SITE_7_FULLNAME"> Єгипет </String>
+    <String id="SITE_7_SITETYPE"> Римська провінція </String>
+    <String id="SITE_7_OPEN">!</String>
+    <String id="SITE_7_CLOSED">!</String>
+    <String id="SITE_7_HISTORY">!</String>
+    <String id="SITE_7_DEACTIVE">!</String>
+    <String id="SITE_8_LABEL"> Кіренаїка </String>
+    <String id="SITE_8_FULLNAME"> Кіренаїка </String>
+    <String id="SITE_8_SITETYPE"> Римська провінція </String>
+    <String id="SITE_8_OPEN">!</String>
+    <String id="SITE_8_CLOSED">!</String>
+    <String id="SITE_8_HISTORY">!</String>
+    <String id="SITE_8_DEACTIVE">!</String>
+    <String id="SITE_2_LABEL"> Дакія </String>
+    <String id="SITE_2_FULLNAME"> Дакія </String>
+    <String id="SITE_2_SITETYPE"> Римська провінція </String>
+    <String id="SITE_2_OPEN">!</String>
+    <String id="SITE_2_CLOSED">!</String>
+    <String id="SITE_2_HISTORY">!</String>
+    <String id="SITE_2_DEACTIVE">!</String>
+    <String id="SITE_4_LABEL"> Тарраконська Іспанія </String>
+    <String id="SITE_4_FULLNAME"> Тарраконська Іспанія </String>
+    <String id="SITE_4_SITETYPE"> Римська провінція </String>
+    <String id="SITE_4_OPEN">!</String>
+    <String id="SITE_4_CLOSED">!</String>
+    <String id="SITE_4_HISTORY">!</String>
+    <String id="SITE_4_DEACTIVE">!</String>
+    <String id="SITE_3_LABEL"> Норік </String>
+    <String id="SITE_3_FULLNAME"> Норік </String>
+    <String id="SITE_3_SITETYPE"> Римська провінція </String>
+    <String id="SITE_3_OPEN">!</String>
+    <String id="SITE_3_CLOSED">!</String>
+    <String id="SITE_3_HISTORY">!</String>
+    <String id="SITE_3_DEACTIVE">!</String>
+    <String id="SITE_10_LABEL"> Лугдунум </String>
+    <String id="SITE_10_FULLNAME"> Лугдунум </String>
+    <String id="SITE_10_SITETYPE"> Місто гравця </String>
+    <String id="SITE_10_OPEN"> Лугдунум \n Твій місто </String>
+    <String id="SITE_10_CLOSED">!</String>
+    <String id="SITE_10_HISTORY">!</String>
+    <String id="SITE_10_DEACTIVE">!</String>
+  </StringTable>
+</Lugdunum>

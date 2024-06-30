@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Ephesus>
+  <StringTable>
+    <!-- Повернутися 8/9- Goal Requirements and text til the end of the string -->
+    <String id="OVERVIEW">Колись цей куточок Азії славився своєю культурою, але все це в минулому. Намісник, твоє завдання – відродити цей край, який став частиною Римської імперії. Боги, Мистецтво, освіта та санітарія – ось що потрібно жителям Ефесу. Зведи місто, гідне слави Риму, з храмами, лазнями та особняками. Поставляй у Рим мармур, зроби свій внесок у процвітання столиці. На жаль, до багатого міста бандити злітаються як мухи на мед. Подбай про захист своїх володінь. Головне – забезпечити городянам гідне життя. Торгуючи з сусідами, купуй необхідні товари, щоб вгамувати зростаючі апетити мешканців міста. І не забувай про постачання мармуру до Риму. Цезар уже наказав звести мармурові статуї - своєї дружини, коханого собаки, коханки і, звичайно, самого Цезаря.</String>
+    <String id="HISTORY"></String>
+    <String id="HINTS"></String>
+    <String id="AFTERMATH"></String>
+    <String id="SCENARIONAME"> Ефес </String>
+    <String id="WIN"> Говорять, Цезар наказав звести статую на честь славних твоїх подвигів в Ефесі, королю. </String>
+    <String id="LOSE">Твій термін добіг кінця, але Азія так і не стала цивілізованою провінцією. Може, тобі краще не повертатися до Риму? Бо Цезар страшний у гніві!</String>
+    <String id="POPULATION">7,500</String>
+    <String id="FAVOR">60</String>
+    <String id="CULTURE">100</String>
+    <String id="PROSPERITY">75</String>
+    <String id="SECURITY">25</String>
+
+    <String id="REQUEST_0_TITLE">ORD_M мармур </String>
+    <String id="REQUEST_0_HEADING"> Рим вимагає надіслати мармур </String>
+    <String id="REQUEST_0_BODY"> Рим будує нові храми . Терміново прийшли мармур.</String>
+    <String id="REQUEST_0_FAILURE">Тобі не вдалося виконати вимоги Риму, і його вподобання знизилося.</String>
+    <String id="REQUEST_1_TITLE">REQ_L золото </String>
+    <String id="REQUEST_1_HEADING"> Запит на золото </String>
+    <String id="REQUEST_1_BODY">У Римі - велика нестача сировини. Якщо ти надішлеш золото, твій внесок не залишиться непоміченим.</String>
+    <String id="REQUEST_1_FAILURE">Тобі не вдалося догодити Риму і домогтися його вподобання.</String>
+    <String id="REQUEST_2_TITLE">REQ_M зброя </String>
+    <String id="REQUEST_2_HEADING"> Запит на зброю </String>
+    <String id="REQUEST_2_BODY">Римські легіони потрібно озброювати. Прийшли до Риму зброя.</String>
+    <String id="REQUEST_2_FAILURE">Тобі не вдалося догодити Риму і домогтися його вподобання.</String>
+    <String id="REQUEST_3_TITLE">REQ_M обладунки </String>
+    <String id="REQUEST_3_HEADING"> Запит на обладунки </String>
+    <String id="REQUEST_3_BODY">Римські легіони потрібно озброювати. Прийшли до Риму обладунки.</String>
+    <String id="REQUEST_3_FAILURE">Тобі не вдалося догодити Риму і домогтися його вподобання.</String>
+
+    <!---->
+    <!-- INVASIONS-->
+    <!---->
+
+    <String id="INVASION_0_TITLE"> Внутрішні заворушення </String>
+    <String id="INVASION_0_YEAR"></String>
+    <String id="INVASION_0_THREE_MONTH"></String>
+    <String id="INVASION_0_ONE_MONTH"> Вороги обложили наш Місто . Щодня ми чекаємо на атаки.</String>
+    <String id="INVASION_0_ARRIVAL">Настав час взятися за мечі і дати відсіч ворогам! Захистимо наш місто !</String>
+
+    <String id="INVASION_1_TITLE"> Розбійники - бедуїни </String>
+    <String id="INVASION_1_YEAR"></String>
+    <String id="INVASION_1_THREE_MONTH">Останнім часом нальоти на мирних жителів почастішали. Розбійники наближаються до нашого міста.</String>
+    <String id="INVASION_1_ONE_MONTH">Вороги взяли в облогу наше місто. Щодня ми чекаємо на атаки.</String>
+    <String id="INVASION_1_ARRIVAL">Настав час взятися за мечі і дати відсіч ворогам! Захистимо наш місто !</String>
+
+
+    <!---->
+    <!-- DISASTERS -->
+    <!---->
+    <!-- Added 08.04.2006 -->
+    <String id="EVENT_Earthquake_Title"> Землетрус !</String>
+    <String id="EVENT_Earthquake_Message">Землетрус прокотився містом, зруйнувавши кілька будівель.</String>
+
+
+    <String id="SITE_0_LABEL"> Лацій </String>
+    <String id="SITE_0_FULLNAME"> Лацій </String>
+    <String id="SITE_0_SITETYPE"> Римська провінція </String>
+    <String id="SITE_0_OPEN">!</String>
+    <String id="SITE_0_CLOSED">!</String>
+    <String id="SITE_0_HISTORY">!</String>
+    <String id="SITE_0_DEACTIVE">!</String>
+    <String id="SITE_1_LABEL"> Мезія </String>
+    <String id="SITE_1_FULLNAME"> Мезія </String>
+    <String id="SITE_1_SITETYPE"> Римська провінція </String>
+    <String id="SITE_1_OPEN">!</String>
+    <String id="SITE_1_CLOSED">!</String>
+    <String id="SITE_1_HISTORY">!</String>
+    <String id="SITE_1_DEACTIVE">!</String>
+    <String id="SITE_2_LABEL"> Єгипет </String>
+    <String id="SITE_2_FULLNAME"> Єгипет </String>
+    <String id="SITE_2_SITETYPE"> Римська провінція </String>
+    <String id="SITE_2_OPEN">!</String>
+    <String id="SITE_2_CLOSED">!</String>
+    <String id="SITE_2_HISTORY">!</String>
+    <String id="SITE_2_DEACTIVE">!</String>
+    <String id="SITE_3_LABEL"> Сардинія </String>
+    <String id="SITE_3_FULLNAME"> Сардинія </String>
+    <String id="SITE_3_SITETYPE"> Римська провінція </String>
+    <String id="SITE_3_OPEN">!</String>
+    <String id="SITE_3_CLOSED">!</String>
+    <String id="SITE_3_HISTORY">!</String>
+    <String id="SITE_3_DEACTIVE">!</String>
+    <String id="SITE_4_LABEL"> Сирія </String>
+    <String id="SITE_4_FULLNAME"> Сирія </String>
+    <String id="SITE_4_SITETYPE"> Римська провінція </String>
+    <String id="SITE_4_OPEN">!</String>
+    <String id="SITE_4_CLOSED">!</String>
+    <String id="SITE_4_HISTORY">!</String>
+    <String id="SITE_4_DEACTIVE">!</String>
+    <String id="SITE_5_LABEL"> Месопотамія </String>
+    <String id="SITE_5_FULLNAME"> Месопотамія </String>
+    <String id="SITE_5_SITETYPE"> Іноземна провінція </String>
+    <String id="SITE_5_OPEN">!</String>
+    <String id="SITE_5_CLOSED">!</String>
+    <String id="SITE_5_HISTORY">!</String>
+    <String id="SITE_5_DEACTIVE">!</String>
+    <String id="SITE_6_LABEL"> Дакія </String>
+    <String id="SITE_6_FULLNAME"> Дакія </String>
+    <String id="SITE_6_SITETYPE"> Римська провінція </String>
+    <String id="SITE_6_OPEN">!</String>
+    <String id="SITE_6_CLOSED">!</String>
+    <String id="SITE_6_HISTORY">!</String>
+    <String id="SITE_6_DEACTIVE">!</String>
+    <String id="SITE_7_LABEL"> Ефес </String>
+    <String id="SITE_7_FULLNAME"> Ефес </String>
+    <String id="SITE_7_SITETYPE"> Місто гравця </String>
+    <String id="SITE_7_OPEN"> Ефес \n Твій місто </String>
+    <String id="SITE_7_CLOSED">!</String>
+    <String id="SITE_7_HISTORY">!</String>
+    <String id="SITE_7_DEACTIVE">!</String>
+  </StringTable>
+</Ephesus>

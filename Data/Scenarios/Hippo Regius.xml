@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HippoRegius>
+  <StringTable>
+    <String id="OVERVIEW">Настав час раз і назавжди розправитися із загарбницькими устремліннями Карфагена! Але навіть під час війни слід розповсюджувати благотворний вплив Риму на тих, хто ще не увійшов до складу Республіки. Намісник, твій обов'язок - звести місто Гіппон на узбережжі Нумідії. Наша мета - перемогти Карфаген. Збери легіони, щоб захистити Гіппон. Коли римські полководці направлять війська до Африки, на велику битву з Карфагеном, будь готовий виступити у похід разом із ними. Ти вже довів, що вмієш бути мудрим правителем. Гіппон повинен стати не простим військовим фортом, а культурним і багатим містом, щоб нумідійці зрозуміли, що рука Риму щедра. Влада Карфагена в Середземномор'ї приходить кінець. Виконуючи волю Риму, ти зламаєш ворогів і прославишся у віках.</String>
+    <String id="HISTORY"></String>
+    <String id="HINTS"></String>
+    <String id="AFTERMATH"></String>
+    <String id="SCENARIONAME"> Гіппон </String>
+    <String id="WIN">Весь Рим тріумфує, святкуючи перемогу над заклятим ворогом! Ти кинув карфагенян, і тепер у Середземномор'ї запанували мир та спокій.</String>
+    <String id="LOSE">Гіркота твоєї поразки залишиться у віках, бо Карфаген більше не бояться Риму. Він готує удар, який вразить саме серце Республіки!</String>
+    <String id="POPULATION">1,500</String>
+    <String id="FAVOR">70</String>
+    <String id="CULTURE">25</String>
+    <String id="PROSPERITY">25</String>
+    <String id="SECURITY">40</String>
+
+    <String id="REQUEST_0_TITLE">REQ_MIL</String>
+    <String id="REQUEST_0_HEADING"> Запит на війська </String>
+    <String id="REQUEST_0_BODY">Рим сподівається, що ти зможеш надіслати нових солдатів для поповнення легіонів.</String>
+    <String id="REQUEST_0_FAILURE">Тобі не вдалося догодити Риму і домогтися його вподобання.</String>
+    <String id="REQUEST_1_TITLE">REQ_MIL</String>
+    <String id="REQUEST_1_HEADING"> Запит на війська </String>
+    <String id="REQUEST_1_BODY">Рим сподівається, що ти зможеш надіслати нових солдатів для поповнення легіонів.</String>
+    <String id="REQUEST_1_FAILURE">Тобі не вдалося догодити Риму і домогтися його вподобання.</String>
+    <String id="REQUEST_2_TITLE">REQ_MIL</String>
+    <String id="REQUEST_2_HEADING"> Запит на війська </String>
+    <String id="REQUEST_2_BODY">Рим сподівається, що ти зможеш надіслати нових солдатів для поповнення легіонів.</String>
+    <String id="REQUEST_2_FAILURE">Тобі не вдалося догодити Риму і домогтися його вподобання.</String>
+
+    <!---->
+    <!-- ORDERS-->
+    <!---->
+    <String id="REQUEST_3_TITLE">ORD_MIL</String>
+    <String id="REQUEST_3_HEADING">Рим вимагає надати військову допомогу</String>
+    <String id="REQUEST_3_BODY">Рим чекає на твій вклад у військову кампанію. Відправ у легіони своїх солдатів.</String>
+    <String id="REQUEST_3_FAILURE">Тобі не вдалося виконати вимоги Риму, і його вподобання знизилося.</String>
+    <String id="REQUEST_4_TITLE">ORD_MIL</String>
+    <String id="REQUEST_4_HEADING">Рим вимагає надати військову допомогу</String>
+    <String id="REQUEST_4_BODY">Рим чекає на твій вклад у військову кампанію. Відправ у легіони своїх солдатів.</String>
+    <String id="REQUEST_4_FAILURE">Тобі не вдалося виконати вимоги Риму, і його вподобання знизилося.</String>
+
+    <!---->
+    <!-- INVASIONS-->
+    <!---->
+    <String id="INVASION_0_TITLE"> Повстання </String>
+    <String id="INVASION_0_YEAR"></String>
+    <String id="INVASION_0_THREE_MONTH"></String>
+    <String id="INVASION_0_ONE_MONTH"> Вороги обложили наш Місто . Щодня ми чекаємо на атаки.</String>
+    <String id="INVASION_0_ARRIVAL">Настав час взятися за мечі і дати відсіч ворогам! Захистимо наш місто !</String>
+
+    <String id="INVASION_1_TITLE"> Вторгнення карфагенян </String>
+    <String id="INVASION_1_YEAR">Ворог збирає війська на кордоні нашої провінції.</String>
+    <String id="INVASION_1_THREE_MONTH">Вороги перетнули кордон і наближаються до нашого міста.</String>
+    <String id="INVASION_1_ONE_MONTH">Вороги розташувалися прямо за стінами нашого міста. Вони готуються до нападу.</String>
+    <String id="INVASION_1_ARRIVAL">Ворог настає! Настав час піднятися на захист міста.</String>
+
+
+    <String id="SITE_0_LABEL"> Лацій </String>
+    <String id="SITE_0_FULLNAME"> Лацій </String>
+    <String id="SITE_0_SITETYPE"> Римська провінція </String>
+    <String id="SITE_0_OPEN">!</String>
+    <String id="SITE_0_CLOSED">!</String>
+    <String id="SITE_0_HISTORY">!</String>
+    <String id="SITE_0_DEACTIVE">!</String>
+    <String id="SITE_1_LABEL"> Сардинія </String>
+    <String id="SITE_1_FULLNAME"> Сардинія </String>
+    <String id="SITE_1_SITETYPE"> Римська провінція </String>
+    <String id="SITE_1_OPEN">!</String>
+    <String id="SITE_1_CLOSED">!</String>
+    <String id="SITE_1_HISTORY">!</String>
+    <String id="SITE_1_DEACTIVE">!</String>
+    <String id="SITE_2_LABEL"> Тарраконська Іспанія </String>
+    <String id="SITE_2_FULLNAME"> Тарраконська Іспанія </String>
+    <String id="SITE_2_SITETYPE"> Римська провінція </String>
+    <String id="SITE_2_OPEN">!</String>
+    <String id="SITE_2_CLOSED">!</String>
+    <String id="SITE_2_HISTORY">!</String>
+    <String id="SITE_2_DEACTIVE">!</String>
+    <String id="SITE_4_LABEL"> Єгипет </String>
+    <String id="SITE_4_FULLNAME"> Єгипет </String>
+    <String id="SITE_4_SITETYPE"> Іноземна провінція </String>
+    <String id="SITE_4_OPEN">!</String>
+    <String id="SITE_4_CLOSED">!</String>
+    <String id="SITE_4_HISTORY">!</String>
+    <String id="SITE_4_DEACTIVE">!</String>
+    <String id="SITE_5_LABEL"> Кіренаїка </String>
+    <String id="SITE_5_FULLNAME"> Кіренаїка </String>
+    <String id="SITE_5_SITETYPE"> Іноземна провінція </String>
+    <String id="SITE_5_OPEN">!</String>
+    <String id="SITE_5_CLOSED">!</String>
+    <String id="SITE_5_HISTORY">!</String>
+    <String id="SITE_5_DEACTIVE">!</String>
+    <String id="SITE_3_LABEL"> Ахея </String>
+    <String id="SITE_3_FULLNAME"> Ахея </String>
+    <String id="SITE_3_SITETYPE"> Римська провінція </String>
+    <String id="SITE_3_OPEN">!</String>
+    <String id="SITE_3_CLOSED">!</String>
+    <String id="SITE_3_HISTORY">!</String>
+    <String id="SITE_3_DEACTIVE">!</String>
+    <String id="SITE_6_LABEL"> Карфаген </String>
+    <String id="SITE_6_FULLNAME"> Карфаген </String>
+    <String id="SITE_6_SITETYPE"> Ворожий табір </String>
+    <String id="SITE_6_OPEN">!</String>
+    <String id="SITE_6_CLOSED">!</String>
+    <String id="SITE_6_HISTORY">!</String>
+    <String id="SITE_6_DEACTIVE">!</String>
+    <String id="SITE_7_LABEL"> Гіппон </String>
+    <String id="SITE_7_FULLNAME"> Гіппон </String>
+    <String id="SITE_7_SITETYPE"> Місто гравця </String>
+    <String id="SITE_7_OPEN"> Гіппон \n Твій місто </String>
+    <String id="SITE_7_CLOSED">!</String>
+    <String id="SITE_7_HISTORY">!</String>
+    <String id="SITE_7_DEACTIVE">!</String>
+  </StringTable>
+</HippoRegius>

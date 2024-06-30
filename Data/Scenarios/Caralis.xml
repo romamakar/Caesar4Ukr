@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Caralis>
+  <StringTable>
+    <String id="OVERVIEW">Сардинія - чудовий острів для торгівлі з усім Середземномор'ям, тому Рим бажає побудувати торговий порт у Каралісі. Товари з Сардинії користуються великим попитом, і їх експорт принесе непогані прибутки. \n\nРим хоче, щоб Караліс платив щорічний податок і час від часу відправляв до столиці необхідні товари. Сенат впевнений, що місто може процвітати й в таких непростих умовах, і ти повинен виправдати очікування Цезаря. \n\nНа щастя, про безпеку острова тобі не треба турбуватися.</String>
+    <String id="HISTORY"></String>
+    <String id="HINTS"></String>
+    <String id="AFTERMATH"></String>
+    <String id="SCENARIONAME">Караліс</String>
+    <String id="WIN">Можливо, торгівля - не найшанованіша професія, але вона необхідна для підтримки провінції. Правь мудро, і тебе не забудуть.</String>
+    <String id="LOSE">Ти привів процвітаючу раніше провінцію в занепад. Не найкращий спосіб привернути увагу імператора.</String>
+    <String id="POPULATION">1,200</String>
+    <String id="FAVOR">50</String>
+    <String id="CULTURE">20</String>
+    <String id="PROSPERITY">50</String>
+    <String id="SECURITY">15</String>
+
+    <!-- -->
+    <!-- REQUESTS-->
+    <!---->
+    <String id="REQUEST_0_TITLE">ORD_DN</String>
+    <String id="REQUEST_0_HEADING">Рим вимагає надіслати дань</String>
+    <String id="REQUEST_0_BODY">Рим вимагає надіслати дань, щоб поповнити свій скарб.</String>
+    <String id="REQUEST_0_FAILURE">Тобі не вдалося виконати вимоги Рима, і його ласка знизилася.</String>
+
+    <String id="REQUEST_1_TITLE">ORD_L вино</String>
+    <String id="REQUEST_1_HEADING">Рим вимагає надіслати вино</String>
+    <String id="REQUEST_1_BODY">Рим висуває нові вимоги. Терміново надішли партію вина.</String>
+    <String id="REQUEST_1_FAILURE">Тобі не вдалося виконати вимоги Рима, і його ласка знизилася.</String>
+
+    <String id="REQUEST_2_TITLE">REQ_B одяг</String>
+    <String id="REQUEST_2_HEADING">Запит на одяг</String>
+    <String id="REQUEST_2_BODY">Рим зростає, мешканцям не вистачає навіть найнеобхіднішого. Надішли, будь ласка, одяг.</String>
+    <String id="REQUEST_2_FAILURE">Тобі не вдалося влаштувати Рим і домогтися його ласки.</String>
+
+    <String id="REQUEST_3_TITLE">REQ_B кераміка</String>
+    <String id="REQUEST_3_HEADING">Запит на кераміку</String>
+    <String id="REQUEST_3_BODY">Рим зростає, мешканцям не вистачає навіть найнеобхіднішого. Надішли, будь ласка, кераміку.</String>
+    <String id="REQUEST_3_FAILURE">Тобі не вдалося влаштувати Рим і домогтися його ласки.</String>
+
+    <!---->
+    <!-- INVASIONS-->
+    <!---->
+    <String id="INVASION_0_TITLE">Місцеві бандити</String>
+    <String id="INVASION_0_YEAR"></String>
+    <String id="INVASION_0_THREE_MONTH"></String>
+    <String id="INVASION_0_ONE_MONTH">Вороги осадили наш місто. Кожен день ми чекаємо нападу.</String>
+    <String id="INVASION_0_ARRIVAL">Час братися за мечі і віддати відсіч ворогам! Захистимо наше місто!</String>
+
+    <String id="SITE_0_LABEL">Лацій</String>
+    <String id="SITE_0_FULLNAME">Лацій</String>
+    <String id="SITE_0_SITETYPE">Римська провінція</String>
+    <String id="SITE_0_OPEN">!</String>
+    <String id="SITE_0_CLOSED">!</String>
+    <String id="SITE_0_HISTORY">!</String>
+    <String id="SITE_0_DEACTIVE">!</String>
+    <String id="SITE_1_LABEL">Апулія</String>
+    <String id="SITE_1_FULLNAME">Апулія</String>
+    <String id="SITE_1_SITETYPE">Римська провінція</String>
+    <String id="SITE_1_OPEN">!</String>
+    <String id="SITE_1_CLOSED">!</String>
+    <String id="SITE_1_HISTORY">!</String>
+    <String id="SITE_1_DEACTIVE">!</String>
+    <String id="SITE_6_LABEL">Цізальпінська Галія</String>
+    <String id="SITE_6_FULLNAME">Цізальпінська Галія</String>
+    <String id="SITE_6_SITETYPE">Римська провінція</String>
+    <String id="SITE_6_OPEN">!</String>
+    <String id="SITE_6_CLOSED">!</String>
+    <String id="SITE_6_HISTORY">!</String>
+    <String id="SITE_6_DEACTIVE">!</String>
+    <String id="SITE_5_LABEL">Нарбонська Галія</String>
+    <String id="SITE_5_FULLNAME">Нарбонська Галія</String>
+    <String id="SITE_5_SITETYPE">Римська провінція</String>
+    <String id="SITE_5_OPEN">!</String>
+    <String id="SITE_5_CLOSED">!</String>
+    <String id="SITE_5_HISTORY">!</String>
+    <String id="SITE_5_DEACTIVE">!</String>
+    <String id="SITE_2_LABEL">Македонія</String>
+    <String id="SITE_2_FULLNAME">Македонія</String>
+    <String id="SITE_2_SITETYPE">Римська провінція</String>
+    <String id="SITE_2_OPEN">!</String>
+    <String id="SITE_2_CLOSED">!</String>
+    <String id="SITE_2_HISTORY">!</String>
+    <String id="SITE_2_DEACTIVE">!</String>
+    <String id="SITE_3_LABEL">Ахея</String>
+    <String id="SITE_3_FULLNAME">Ахея</String>
+    <String id="SITE_3_SITETYPE">Римська провінція</String>
+    <String id="SITE_3_OPEN">!</String>
+    <String id="SITE_3_CLOSED">!</String>
+    <String id="SITE_3_HISTORY">!</String>
+    <String id="SITE_3_DEACTIVE">!</String>
+    <String id="SITE_4_LABEL">Африка</String>
+    <String id="SITE_4_FULLNAME">Африка</String>
+    <String id="SITE_4_SITETYPE">Іноземна провінція</String>
+    <String id="SITE_4_OPEN">!</String>
+    <String id="SITE_4_CLOSED">!</String>
+    <String id="SITE_4_HISTORY">!</String>
+    <String id="SITE_4_DEACTIVE">!</String>
+    <String id="SITE_7_LABEL">Караліс</String>
+    <String id="SITE_7_FULLNAME">Караліс</String>
+    <String id="SITE_7_SITETYPE">Місто гравця</String>
+    <String id="SITE_7_OPEN">Караліс\nТвоє місто</String>
+    <String id="SITE_7_CLOSED">!</String>
+    <String id="SITE_7_HISTORY">!</String>
+    <String id="SITE_7_DEACTIVE">!</String>
+  </StringTable>
+</Caralis>

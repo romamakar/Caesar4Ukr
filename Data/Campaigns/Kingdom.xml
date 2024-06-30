@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Campaign name="Схід Риму" bkImage="wl_map">
+  <Description>Шлях до слави починається з об'єднання Італії.</Description>
+  <!--Tier 1-->
+  <Tier>
+    <Description index="1"> </Description>
+    <Scenario index="1" name="Arretium" province="Latium" capital="Arretium">
+      <Overview index="1">Імператору потрібен хороший намісник для управління новим поселенням поблизу Арреція.</Overview>
+    </Scenario>
+  </Tier>
+  <!--Tier 2-->
+  <Tier>
+    <Description index="2"> </Description>
+    <Scenario index="2" name="Verona" province="Latium" capital="Verona">
+      <Overview index="2">Володіння Риму зростають. Імператор сподівається, що колонія у Вероні стане ще одним доказом могутності Риму.</Overview>
+    </Scenario>
+  </Tier>
+  <!--Tier 3-->
+  <Tier>
+    <Description index="3"> </Description>
+    <Scenario index="3" name="Capua" province="Latium" capital="Capua">
+      <Overview index="3">Вплив Риму поширюється по всій Італії. Будівництво багатого міста в Капуї повинно підтвердити, що імперія процвітає.</Overview>
+    </Scenario>
+  </Tier>
+  <!--Tier 4-->
+  <Tier>
+    <Description index="4"> </Description>
+    <Scenario index="4" name="Genoa" province="Latium" capital="Genoa">
+      <Overview index="4">Велич Риму зростає, і люди продовжують переїжджати до столиці. Відкриття торгових маршрутів у районі Генуї допоможе забезпечити зростаюче місто необхідними товарами.</Overview>
+    </Scenario>
+  </Tier>
+  <!--Tier 5-->
+  <Tier>
+    <Description index="5"> </Description>
+    <Scenario index="5" name="Brundisium" province="Latium" capital="Brundisium">
+      <Overview index="5">Битва при Бриндізі показала, що Рим здатний відстояти свої інтереси за допомогою зброї. Тепер об'єднання Італії піде швидше.</Overview>
+    </Scenario>
+  </Tier>
+</Campaign>

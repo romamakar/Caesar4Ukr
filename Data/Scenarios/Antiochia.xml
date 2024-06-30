@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Antiochia>
+    <StringTable>
+        <String id="OVERVIEW">На східних кордонах Імперії завжди було неспокійно, і Сирія - не виняток. Конфлікти з парфянами виснажили цю багату провінцію. Жителі Парфії покидають свої домівки в пошуках більш безпечного міста. Тим часом Цезар висилає тебе в Антиохію. Ти повинен забезпечити місту безпеку і відновити зруйновані війною торгові зв'язки. Антиохія знову повинна процвітати.\n\nМир триватиме недовго. Ретельно готуйся до можливих нападів - місто розташоване на рівнині, і оборонятися буде складно. Місто буде рости, і тобі обов'язково знадобиться армія для відбиття ворожих нападів.</String>
+        <String id="HISTORY"></String>
+        <String id="HINTS"></String>
+        <String id="AFTERMATH"></String>
+        <String id="SCENARIONAME">Антиохія</String>
+        <String id="WIN">Твоє мудре керівництво не залишилося непоміченим! Цезар звик отримувати хороші новини з усіх тобі довірених міст.</String>
+        <String id="LOSE">Смерть у бою з парфянами - не найгірша доля. Тобі б не довелося стояти перед Цезарем відповідальним.</String>
+        <String id="POPULATION">1,500</String>
+        <String id="FAVOR">50</String>
+        <String id="CULTURE">40</String>
+        <String id="PROSPERITY">50</String>
+        <String id="SECURITY">40</String>
+
+        <String id="REQUEST_0_TITLE">ORD_E шовк</String>
+        <String id="REQUEST_0_HEADING">Рим вимагає вислати шовк</String>
+        <String id="REQUEST_0_BODY">Римські патриції просять вислати партію шовку.</String>
+        <String id="REQUEST_0_FAILURE">Тобі не вдалося виконати вимоги Рима, і його ласка до тебе знизилась.</String>
+        
+        <String id="REQUEST_1_TITLE">ORD_E ладан</String>
+        <String id="REQUEST_1_HEADING">Рим вимагає вислати ладан</String>
+        <String id="REQUEST_1_BODY">Римські патриції просять вислати партію ладану.</String>
+        <String id="REQUEST_1_FAILURE">Тобі не вдалося виконати вимоги Рима, і його ласка до тебе знизилась.</String>
+        
+        <String id="REQUEST_2_TITLE">REQ_B скло</String>
+        <String id="REQUEST_2_HEADING">Запит на скло</String>
+        <String id="REQUEST_2_BODY">Рим зростає, і місцевим мешканцям не вистачає навіть найнеобхіднішого. Надішли, будь ласка, скло.</String>
+        <String id="REQUEST_2_FAILURE">Тобі не вдалося вгодити Риму і добитися його ласки.</String>
+
+        <!---->
+        <!-- INVASIONS-->
+        <!---->
+        <String id="INVASION_0_TITLE">Розбійники-бедуїни</String>
+        <String id="INVASION_0_YEAR"></String>
+        <String id="INVASION_0_THREE_MONTH">Останнім часом напади на мирних жителів загострилися. Розбійники наближаються до нашого міста.</String>
+        <String id="INVASION_0_ONE_MONTH">Вороги осадили наше місто. Кожен день ми чекаємо нападу.</String>
+        <String id="INVASION_0_ARRIVAL">Час взяти мечі в руки і дати відсіч ворогам! Захистимо наше місто!</String>
+
+        <String id="INVASION_1_TITLE">Розбійники-бедуїни</String>
+        <String id="INVASION_1_YEAR"></String>
+        <String id="INVASION_1_THREE_MONTH">Останнім часом напади на мирних жителів загострилися. Розбійники наближаються до нашого міста.</String>
+        <String id="INVASION_1_ONE_MONTH">Вороги осадили наше місто. Кожен день ми чекаємо нападу.</String>
+        <String id="INVASION_1_ARRIVAL">Час взяти мечі в руки і дати відсіч ворогам! Захистимо наше місто!</String>
+
+        <String id="INVASION_2_TITLE">Внутрішні розбрати</String>
+        <String id="INVASION_2_YEAR"></String>
+        <String id="INVASION_2_THREE_MONTH"></String>
+        <String id="INVASION_2_ONE_MONTH">Вороги осадили наше місто. Кожен день ми чекаємо нападу.</String>
+        <String id="INVASION_2_ARRIVAL">Час взяти мечі в руки і дати відсіч ворогам! Захистимо наше місто!</String>
+
+        <!---->
+        <!-- DISASTERS -->
+        <!---->
+        <!-- Added 08.04.2006 -->
+        <String id="EVENT_Earthquake_Title">Землетрус!</String>
+        <String id="EVENT_Earthquake_Message">Землетрус прокотився по місту, зруйнувавши кілька будівель.</String>
+
+        <String id="SITE_0_LABEL">Лацій</String>
+        <String id="SITE_0_FULLNAME">Лацій</String>
+        <String id="SITE_0_SITETYPE">Римська провінція</String>
+        <String id="SITE_0_OPEN">!</String>
+        <String id="SITE_0_CLOSED">!</String>
+        <String id="SITE_0_HISTORY">!</String>
+        <String id="SITE_0_DEACTIVE">!</String>
+
+        <String id="SITE_1_LABEL">Ахаїя</String>
+        <String id="SITE_1_FULLNAME">Ахаїя</String>
+        <String id="SITE_1_SITETYPE">Римська провінція</String>
+        <String id="SITE_1_OPEN">!</String>
+        <String id="SITE_1_CLOSED">!</String>
+        <String id="SITE_1_HISTORY">!</String>
+        <String id="SITE_1_DEACTIVE">!</String>
+
+        <String id="SITE_4_LABEL">Месопотамія</String>
+        <String id="SITE_4_FULLNAME">Месопотамія</String>
+        <String id="SITE_4_SITETYPE">Іноземна провінція</String>
+        <String id="SITE_4_OPEN">!</String>
+        <String id="SITE_4_CLOSED">!</String>
+        <String id="SITE_4_HISTORY">!</String>
+        <String id="SITE_4_DEACTIVE">!</String>
+
+        <String id="SITE_2_LABEL">Єгипет</String>
+        <String id="SITE_2_FULLNAME">Єгипет</String>
+        <String id="SITE_2_SITETYPE">Римська провінція</String>
+        <String id="SITE_2_OPEN">!</String>
+        <String id="SITE_2_CLOSED">!</String>
+        <String id="SITE_2_HISTORY">!</String>
+        <String id="SITE_2_DEACTIVE">!</String>
+
+        <String id="SITE_3_LABEL">Норік</String>
+        <String id="SITE_3_FULLNAME">Норік</String>
+        <String id="SITE_3_SITETYPE">Римська провінція</String>
+        <String id="SITE_3_OPEN">!</String>
+        <String id="SITE_3_CLOSED">!</String>
+        <String id="SITE_3_HISTORY">!</String>
+        <String id="SITE_3_DEACTIVE">!</String>
+
+        <String id="SITE_5_LABEL">Антиохія</String>
+        <String id="SITE_5_FULLNAME">Антиохія</String>
+        <String id="SITE_5_SITETYPE">Місто гравця</String>
+        <String id="SITE_5_OPEN">Антиохія\nТвоє місто</String>
+        <String id="SITE_5_CLOSED">!</String>
+        <String id="SITE_5_HISTORY">!</String>
+        <String id="SITE_5_DEACTIVE">!</String>
+    </StringTable>
+</Antiochia>

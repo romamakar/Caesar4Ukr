@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Campaign name="Експансія Республіки" bkImage="wl_map">
+  <Description>Дні римських царів добігають кінця, але республіка продовжує зростати і зміцнювати славу Риму!</Description>
+  <!--Tier 1-->
+  <Tier>
+    <Description index="1">Твій шлях до трону починається з перших завоювань Риму.</Description>
+    <Scenario index="1" name="Syracusae" province="Sicily" capital="Syracusae">
+      <Overview index="1">Сицилії потрібен новий намісник, який буде мудро керувати її економікою.</Overview>
+    </Scenario>
+    <Scenario index="1" name="Mediolanum" province="Cisalpine Gaul" capital="Mediolanum">
+      <Overview index="1">Завдання намісника - забезпечити торгівлю в Медіолані і приборкати місцевих галлів.</Overview>
+    </Scenario>
+  </Tier>
+  <!--Tier 2-->
+  <Tier>
+    <Description index="2">Рим продовжує зміцнювати свої позиції в Південній Європі.</Description>
+    <Scenario index="2" name="Narbo" province="Narbonensis" capital="Narbo">
+      <Overview index="2">Намісник Нарбоннської Галлії повинен відправляти до Риму деревину для будівництва флоту і водночас не забувати про місцеву економіку.</Overview>
+    </Scenario>
+    <Scenario index="2" name="Thessalonica" province="Macedonia" capital="Thessalonica">
+      <Overview index="2">Доведеться мечем довести грекам, що Македонія належить Риму.</Overview>
+    </Scenario>
+  </Tier>
+  <!--Tier 3-->
+  <Tier>
+    <Description index="3">Рим продовжує війну з галлами і Карфагеном і спрямовує свій погляд на захід.</Description>
+    <Scenario index="3" name="Caralis" province="Sardinia" capital="Caralis">
+      <Overview index="3">Сардинія повинна стати одним із торгових центрів імперії.</Overview>
+    </Scenario>
+    <Scenario index="3" name="Burdigala" province="Aquitania" capital="Burdigala">
+      <Overview index="3">Аквітанські галли повинні отримати по заслугах!</Overview>
+    </Scenario>
+  </Tier>
+  <!--Tier 4-->
+  <Tier>
+    <Description index="4">Битви в Іспанії стають все запеклішими, але Рим продовжує зростати на схід.</Description>
+    <Scenario index="4" name="Corinth" province="Achaea" capital="Corinth">
+      <Overview index="4">Зроби все можливе, щоб відновити мир в Ахеї і принести туди цивілізацію.</Overview>
+    </Scenario>
+    <Scenario index="4" name="Tarraco" province="Tarraconensis" capital="Tarraco">
+      <Overview index="4">Зруйнуй Карфаген, щоб імператор став єдиним правителем Іспанії.</Overview>
+    </Scenario>
+  </Tier>
+  <!--Tier 5-->
+  <Tier>
+    <Description index="5">Республіка продовжує зміцнювати свої позиції на східних і західних кордонах.</Description>
+    <Scenario index="5" name="Narona" province="Illyricum" capital="Narona">
+      <Overview index="5">Гориста місцевість стане серйозною перешкодою для розвитку торгівлі в Іллірії.</Overview>
+    </Scenario>
+    <Scenario index="5" name="Emerita Augusta" province="Lusitania" capital="Emerita Augusta">
+      <Overview index="5">Зламай останні спроби опору в Іспанії.</Overview>
+    </Scenario>
+  </Tier>
+  <!--Tier 6-->
+  <Tier>
+    <Description index="6">Відносний мир у Галлії тим благословенніший, чим запеклішими стають війни з Карфагеном.</Description>
+    <Scenario index="6" name="Condate Riedonum" province="Lugdunensis" capital="Condate Riedonum">
+      <Overview index="6">Мир у Галлії стане першим кроком до процвітання.</Overview>
+    </Scenario>
+    <Scenario index="6" name="Hippo Regius" province="Numidia" capital="Hippo Regius">
+      <Overview index="6">Побудуй місто, яке стане оплотом війська, що бореться з карфагенянами.</Overview>
+    </Scenario>
+  </Tier>
+  <!--Tier 7-->
+  <Tier>
+    <Description index="7">Володіння Риму простягаються від Африки до Британії.</Description>
+    <Scenario index="7" name="Carthago" province="Africa Proconsularis" capital="Carthago">
+      <Overview index="7">На руїнах Карфагена має вирости нове місто, яке затмить попереднє.</Overview>
+    </Scenario>
+    <Scenario index="7" name="Londinium" province="Britannia" capital="Londinium">
+      <Overview index="7">Залишилася лише одна незавойована земля!</Overview>
+    </Scenario>
+  </Tier>
+</Campaign>

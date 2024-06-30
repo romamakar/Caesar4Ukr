@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Viminacium>
+  <StringTable>
+    <String id="OVERVIEW">Мезія ніколи не відрізнялася високим рівнем культури та торгівлі. Але Цезар втілює в життя прислів'я "З паршивої вівці хоч вовни жмут", нехай навіть такою дикою і худою, як Мезія. Йому не потрібні дива, достатньо звести невелике, але благоустроєне місто. Ввозити товари в цю глуху провінцію дорого. На щастя, тут є цінні природні ресурси, а товари, які бракують, можна підвозити зі сходу по Дунаю. Налагодиш торгівлю - і на тебе чекає успіх. І будь завжди напоготові, адже в цих землях багато бандитів і войовничих варварів. Цезар уважно стежить за твоїми успіхами, наміснику. Покажи, що ти гідний більшого – і наступне призначення стане не лише випробуванням, а й нагородою.</String>
+    <!--<String id="Many imports will be expensive">
+</String>
+<String id=" Caesar is watching you closely">
+</String>-->
+    <String id="HISTORY"></String>
+    <String id="HINTS"></String>
+    <String id="AFTERMATH"></String>
+    <String id="SCENARIONAME">Вімінацій</String>
+    <String id="WIN">Чудовий початок, намісник! Цезар задоволений тим, як ти успішно несеш культуру Риму диким народам.</String>
+    <String id="LOSE"> Цезар не думає, що вина за невдачу в Мезії лежить повністю на тобі. Цезар взагалі про тебе не думає.</String>
+    <String id="POPULATION">3,000</String>
+    <String id="FAVOR">55</String>
+    <String id="CULTURE">30</String>
+    <String id="PROSPERITY">50</String>
+    <String id="SECURITY">30</String>
+
+    <!---->
+    <!-- Custom Rome Standard Wages -->
+    <!---->
+    <!-- changed 08 16 -->
+    <String id="EVENT_Wage_Change_Title">Розмір платні змінився</String>
+    <String id="EVENT_Wage_Change_Message">Рим встановив новий розмір платні для працівників. Зверніться до радника з праці за роз'ясненнями.</String>
+
+    <!---->
+    <!-- Orders and Requests -->
+    <!---->
+    <String id="REQUEST_0_TITLE">ORD_L золото</String>
+    <String id="REQUEST_0_HEADING">Рим вимагає надіслати золото</String>
+    <String id="REQUEST_0_BODY">Промисловості Риму потрібна сировина. Терміново пішли туди золото.</String>
+    <String id="REQUEST_0_FAILURE">Тобі не вдалося виконати вимоги Риму, і його вподобання знизилося.</String>
+    <String id="REQUEST_1_TITLE">ORD_L деревина</String>
+    <String id="REQUEST_1_HEADING">Рим вимагає надіслати деревину</String>
+    <String id="REQUEST_1_BODY">Промисловості Риму потрібна сировина. Терміново пішли туди деревину.</String>
+    <String id="REQUEST_1_FAILURE">Тобі не вдалося виконати вимоги Риму, і його вподобання знизилося.</String>
+    <String id="REQUEST_2_TITLE">ORD_L залізо</String>
+    <String id="REQUEST_2_HEADING">Рим вимагає надіслати залізо</String>
+    <String id="REQUEST_2_BODY">Промисловості Риму потрібна сировина. Терміново пішли туди залізо.</String>
+    <String id="REQUEST_2_FAILURE">Тобі не вдалося виконати вимоги Риму, і його вподобання знизилося.</String>
+    <String id="REQUEST_3_TITLE">REQ_L прикраси</String>
+    <String id="REQUEST_3_HEADING">Запит на прикраси</String>
+    <String id="REQUEST_3_BODY">Римляни піклуються про красу. Прийшли, будь ласка, прикраси.</String>
+    <String id="REQUEST_3_FAILURE">Тобі не вдалося догодити Риму і домогтися його вподобання.</String>
+    <String id="REQUEST_4_TITLE">REQ_L начиння</String>
+    <String id="REQUEST_4_HEADING">Запит на начиння</String>
+    <String id="REQUEST_4_BODY">Римляни піклуються про красу. Прийшли, будь ласка, начиння.</String>
+    <String id="REQUEST_4_FAILURE">Тобі не вдалося догодити Риму і домогтися його вподобання.</String>
+    <String id="REQUEST_5_TITLE">REQ_L меблі</String>
+    <String id="REQUEST_5_HEADING">Запит на меблі</String>
+    <String id="REQUEST_5_BODY">Римляни піклуються про красу. Прийшли, будь ласка, меблі.</String>
+    <String id="REQUEST_5_FAILURE">Тобі не вдалося догодити Риму і домогтися його вподобання.</String>
+    <String id="REQUEST_6_TITLE">ORD_DN</String>
+    <String id="REQUEST_6_HEADING">Рим вимагає надіслати данину</String>
+    <String id="REQUEST_6_BODY">Рим вимагає надіслати данину, щоб поповнити свою скарбницю.</String>
+    <String id="REQUEST_6_FAILURE">Тобі не вдалося виконати вимоги Риму, і його вподобання знизилося.</String>
+    <String id="REQUEST_7_TITLE">REQ_E бурштин</String>
+    <String id="REQUEST_7_HEADING">Запит на бурштин</String>
+    <String id="REQUEST_7_BODY">Римляни ласі на екзотику. Прийшли до Риму бурштин, якщо це можливо. </String>
+    <String id="REQUEST_7_FAILURE">Тобі не вдалося догодити Риму і домогтися його вподобання.</String>
+    <String id="REQUEST_8_TITLE">REQ_E прянощі</String>
+    <String id="REQUEST_8_HEADING">Запит на прянощі</String>
+    <String id="REQUEST_8_BODY">Римляни ласі на екзотику. Прийшли до Риму прянощі, якщо це можливо. </String>
+    <String id="REQUEST_8_FAILURE">Тобі не вдалося догодити Риму і домогтися його вподобання.</String>
+
+    <!---->
+    <!-- Invasions -->
+    <!---->
+    <String id="INVASION_0_TITLE">Німецькі розбійники</String>
+    <String id="INVASION_0_YEAR"></String>
+    <String id="INVASION_0_THREE_MONTH"></String>
+    <String id="INVASION_0_ONE_MONTH">Вороги взяли в облогу наше місто. Щодня ми чекаємо на атаки.</String>
+    <String id="INVASION_0_ARRIVAL">Настав час взятися за мечі і дати відсіч ворогам! Захистимо наше місто!</String>
+
+    <String id="INVASION_1_TITLE">Німецькі розбійники</String>
+    <String id="INVASION_1_YEAR"></String>
+    <String id="INVASION_1_THREE_MONTH"></String>
+    <String id="INVASION_1_ONE_MONTH">Вороги взяли в облогу наше місто. Щодня ми чекаємо на атаки.</String>
+    <String id="INVASION_1_ARRIVAL">Настав час взятися за мечі і дати відсіч ворогам! Захистимо наше місто!</String>
+
+
+    <!---->
+    <!-- DISASTERS -->
+    <!---->
+    <!-- Added 08.04.2006 -->
+    <String id="EVENT_Earthquake_Title">Землетрус!</String>
+    <String id="EVENT_Earthquake_Message">Землетрус прокотився містом, зруйнувавши кілька будівель.</String>
+
+    <!---->
+    <!-- Empire Level Site Labels -->
+    <!---->
+    <String id="SITE_0_LABEL">Лацій</String>
+    <String id="SITE_0_FULLNAME">Лацій</String>
+    <String id="SITE_0_SITETYPE">Римська провінція</String>
+    <String id="SITE_0_OPEN">!</String>
+    <String id="SITE_0_CLOSED">!</String>
+    <String id="SITE_0_HISTORY">!</String>
+    <String id="SITE_0_DEACTIVE">!</String>
+    <String id="SITE_1_LABEL">Македонія</String>
+    <String id="SITE_1_FULLNAME">Македонія</String>
+    <String id="SITE_1_SITETYPE">Римська провінція</String>
+    <String id="SITE_1_OPEN">!</String>
+    <String id="SITE_1_CLOSED">!</String>
+    <String id="SITE_1_HISTORY">!</String>
+    <String id="SITE_1_DEACTIVE">!</String>
+    <String id="SITE_3_LABEL">Дакія</String>
+    <String id="SITE_3_FULLNAME">Дакія</String>
+    <String id="SITE_3_SITETYPE">Іноземна провінція</String>
+    <String id="SITE_3_OPEN">!</String>
+    <String id="SITE_3_CLOSED">!</String>
+    <String id="SITE_3_HISTORY">!</String>
+    <String id="SITE_3_DEACTIVE">!</String>
+    <String id="SITE_4_LABEL">Азія</String>
+    <String id="SITE_4_FULLNAME">Азія</String>
+    <String id="SITE_4_SITETYPE">Римська провінція</String>
+    <String id="SITE_4_OPEN">!</String>
+    <String id="SITE_4_CLOSED">!</String>
+    <String id="SITE_4_HISTORY">!</String>
+    <String id="SITE_4_DEACTIVE">!</String>
+    <String id="SITE_2_LABEL">Ахея</String>
+    <String id="SITE_2_FULLNAME">Ахея</String>
+    <String id="SITE_2_SITETYPE">Римська провінція</String>
+    <String id="SITE_2_OPEN">!</String>
+    <String id="SITE_2_CLOSED">!</String>
+    <String id="SITE_2_HISTORY">!</String>
+    <String id="SITE_2_DEACTIVE">!</String>
+    <String id="SITE_5_LABEL">Кіренаїка</String>
+    <String id="SITE_5_FULLNAME">Кіренаїка</String>
+    <String id="SITE_5_SITETYPE">Римська провінція</String>
+    <String id="SITE_5_OPEN">!</String>
+    <String id="SITE_5_CLOSED">!</String>
+    <String id="SITE_5_HISTORY">!</String>
+    <String id="SITE_5_DEACTIVE">!</String>
+    <String id="SITE_6_LABEL">Вімінацій</String>
+    <String id="SITE_6_FULLNAME">Вімінацій</String>
+    <String id="SITE_6_SITETYPE">Місто гравця</String>
+    <String id="SITE_6_OPEN">Вімінацій\nТвоє місто</String>
+    <String id="SITE_6_CLOSED">!</String>
+    <String id="SITE_6_HISTORY">!</String>
+    <String id="SITE_6_DEACTIVE">!</String>
+  </StringTable>
+</Viminacium>

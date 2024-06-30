@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Alexandria>
+  <StringTable>
+    <!-- Removed 8/9 - goal requirements -->
+    <String id="OVERVIEW">Плебеї просять хліба. Хліб потрібен усім, навіть патриціям. Голод не доведе до добра, о наміснику. Вирушай до Єгипту та подбай про те, щоб зерно і овочі доставлялися з Александрії прямо в житниці Риму.\n\nЦезар наказує тобі також перетворити Александрію на перлину Римської імперії. У пустелі нелегко побудувати місто. Орної землі мало - розпоряджайся нею мудро. Спокуса взяти для міста частину їжі велика, але бійся гніву голодного цезаря!</String>
+    <String id="HISTORY"></String>
+    <String id="HINTS"></String>
+    <String id="AFTERMATH"></String>
+    <String id="SCENARIONAME">Александрія</String>
+    <String id="WIN">У пустелі, наче квітка, розквітло прекрасне місто, і Цезар дякує тобі, о наміснику.</String>
+    <String id="LOSE">Піски пустелі покриють твій сором. Ніхто не захоче згадувати про найжалюгіднішого з усіх цезарів.</String>
+    <String id="POPULATION">4500</String>
+    <String id="FAVOR">40</String>
+    <String id="CULTURE">60</String>
+    <String id="PROSPERITY">35</String>
+    <String id="SECURITY">25</String>
+
+    <!---->
+    <!-- Custom Rome Standard Wages -->
+    <!---->
+    <!-- changed 08 16 -->
+    <String id="EVENT_Wage_Change_Title">Розмір зарплати змінено</String>
+    <String id="EVENT_Wage_Change_Message">Рим встановив новий розмір зарплати для працівників. Звернися до радника з праці за роз'ясненнями.</String>
+
+    <!---->
+    <!-- Orders and Requests -->
+    <!---->
+    <String id="REQUEST_0_TITLE">ORD_F зерно</String>
+    <String id="REQUEST_0_HEADING">Рим вимагає надіслати їжу</String>
+    <String id="REQUEST_0_BODY">Рим голодує. Необхідно терміново відправити туди зерно.</String>
+    <String id="REQUEST_0_FAILURE">Тобі не вдалося виконати вимоги Риму, і його прихильність зменшилася.</String>
+
+    <String id="REQUEST_1_TITLE">REQ_F овочі</String>
+    <String id="REQUEST_1_HEADING">Запит на їжу</String>
+    <String id="REQUEST_1_BODY">У Римі скоро відбудуться святкування. Просимо надіслати овочі для бенкету.</String>
+    <String id="REQUEST_1_FAILURE"></String>
+    <String id="REQUEST_2_TITLE">REQ_F овочі</String>
+    <String id="REQUEST_2_HEADING">Запит на їжу</String>
+    <String id="REQUEST_2_BODY">У Римі скоро відбудуться святкування. Просимо надіслати овочі для бенкету.</String>
+    <String id="REQUEST_2_FAILURE"></String>
+    <String id="REQUEST_3_TITLE">REQ_F овочі</String>
+    <String id="REQUEST_3_HEADING">Запит на їжу</String>
+    <String id="REQUEST_3_BODY">У Римі скоро відбудуться святкування. Просимо надіслати овочі для бенкету.</String>
+    <String id="REQUEST_3_FAILURE"></String>
+    <String id="REQUEST_4_TITLE">REQ_F овочі</String>
+    <String id="REQUEST_4_HEADING">Запит на їжу</String>
+    <String id="REQUEST_4_BODY">У Римі скоро відбудуться святкування. Просимо надіслати овочі для бенкету.</String>
+    <String id="REQUEST_4_FAILURE"></String>
+
+    <!---->
+    <!-- Invasions -->
+    <!---->
+    <String id="INVASION_0_TITLE">Внутрішні безпорядки</String>
+    <String id="INVASION_0_YEAR"></String>
+    <String id="INVASION_0_THREE_MONTH"></String>
+    <String id="INVASION_0_ONE_MONTH">Вороги оточили наше місто. Щодня ми чекаємо на атаку.</String>
+    <String id="INVASION_0_ARRIVAL">Час братися за мечі і дати відсіч ворогам! Захистимо наше місто!</String>
+
+    <!---->
+    <!-- Empire Level Sites -->
+    <!---->
+    <String id="SITE_0_LABEL">Лацій</String>
+    <String id="SITE_0_FULLNAME">Лацій</String>
+    <String id="SITE_0_SITETYPE">Римська провінція</String>
+    <String id="SITE_0_OPEN"></String>
+    <String id="SITE_0_CLOSED"></String>
+    <String id="SITE_0_HISTORY"></String>
+    <String id="SITE_0_DEACTIVE"></String>
+
+    <String id="SITE_1_LABEL">Сардинія</String>
+    <String id="SITE_1_FULLNAME">Сардинія</String>
+    <String id="SITE_1_SITETYPE">Римська провінція</String>
+    <String id="SITE_1_OPEN"></String>
+    <String id="SITE_1_CLOSED"></String>
+    <String id="SITE_1_HISTORY"></String>
+    <String id="SITE_1_DEACTIVE"></String>
+
+    <String id="SITE_2_LABEL">Ахея</String>
+    <String id="SITE_2_FULLNAME">Ахея</String>
+    <String id="SITE_2_SITETYPE">Римська провінція</String>
+    <String id="SITE_2_OPEN"></String>
+    <String id="SITE_2_CLOSED"></String>
+    <String id="SITE_2_HISTORY"></String>
+    <String id="SITE_2_DEACTIVE"></String>
+
+    <String id="SITE_3_LABEL">Нарбоннська Галлія</String>
+    <String id="SITE_3_FULLNAME">Нарбоннська Галлія</String>
+    <String id="SITE_3_SITETYPE">Римська провінція</String>
+    <String id="SITE_3_OPEN"></String>
+    <String id="SITE_3_CLOSED"></String>
+    <String id="SITE_3_HISTORY"></String>
+    <String id="SITE_3_DEACTIVE"></String>
+
+    <String id="SITE_4_LABEL">Кіренаїка</String>
+    <String id="SITE_4_FULLNAME">Кіренаїка</String>
+    <String id="SITE_4_SITETYPE">Римська провінція</String>
+    <String id="SITE_4_OPEN"></String>
+    <String id="SITE_4_CLOSED"></String>
+    <String id="SITE_4_HISTORY"></String>
+    <String id="SITE_4_DEACTIVE"></String>
+
+    <String id="SITE_5_LABEL">Африка</String>
+    <String id="SITE_5_FULLNAME">Африка</String>
+    <String id="SITE_5_SITETYPE">Римська провінція</String>
+    <String id="SITE_5_OPEN"></String>
+    <String id="SITE_5_CLOSED"></String>
+    <String id="SITE_5_HISTORY"></String>
+    <String id="SITE_5_DEACTIVE"></String>
+
+    <String id="SITE_6_LABEL">Александрія</String>
+    <String id="SITE_6_FULLNAME">Александрія</String>
+    <String id="SITE_6_SITETYPE">Місто гравця</String>
+    <String id="SITE_6_OPEN">Александрія\nТвоє місто</String>
+    <String id="SITE_6_CLOSED">!</String>
+    <String id="SITE_6_HISTORY">!</String>
+    <String id="SITE_6_DEACTIVE">!</String>
+  </StringTable>
+</Alexandria>

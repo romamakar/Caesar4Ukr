@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Brundisium>
+  <StringTable>
+    <!-- CHANGED 7/18 -->
+    <String id="OVERVIEW">Одного дня люди скажуть: "Добрий паркан - добрі сусіди". Будівництво міст на нещодавно завойованих землях - небезпечне підприємство. У місті має проживати достатня кількість жителів, і ти зобов'язаний захистити їх від загарбників.</String>
+    <String id="HISTORY">
+    </String>
+    <String id="HINTS">
+    </String>
+    <String id="AFTERMATH">
+    </String>
+    <String id="SCENARIONAME">Бриндизі</String>
+    <String id="WIN">Ти - талановитий полководець і намісник. Нехай Рим пишається тобою!</String>
+    <String id="LOSE">Захист власного міста та підтримання добрих відносин з Римом - ось основи успішної кар'єри.\nСпроба - не мука, наміснику. Спробуй взятися за справу ще раз.</String>
+    <String id="POPULATION">1,000</String>
+    <String id="FAVOR"></String>
+    <String id="CULTURE"></String>
+    <String id="PROSPERITY"></String>
+    <String id="SECURITY"></String>
+
+    <String id="INVASION_0_TITLE">Бийтеся за своє місто!</String>
+    <String id="INVASION_0_YEAR">Попередження про нашестя - 1 рік - 0</String>
+    <String id="INVASION_0_THREE_MONTH">Попередження про наступ - 3 місяці - 0</String>
+    <String id="INVASION_0_ONE_MONTH">Попередження про наступ - 1 місяць - 0</String>
+    <String id="INVASION_0_ARRIVAL">Захищайте місто!!!</String>
+    <String id="SITE_0_LABEL">Лацій</String>
+    <String id="SITE_0_FULLNAME">Лацій</String>
+    <String id="SITE_0_SITETYPE">Римська провінція</String>
+    <String id="SITE_0_OPEN">!</String>
+    <String id="SITE_0_CLOSED">!</String>
+    <String id="SITE_0_HISTORY">!</String>
+    <String id="SITE_0_DEACTIVE">!</String>
+    <String id="SITE_1_LABEL">Бриндизі</String>
+    <String id="SITE_1_FULLNAME">Бриндизі</String>
+    <String id="SITE_1_SITETYPE">Місто гравця</String>
+    <String id="SITE_1_OPEN">Бриндизі\nТвоє місто</String>
+    <String id="SITE_1_CLOSED">!</String>
+    <String id="SITE_1_HISTORY">!</String>
+    <String id="SITE_1_DEACTIVE">!</String>
+  </StringTable>
+  <Layouts>
+    <!---->
+    <!--Intermittent message strings-->
+    <!---->
+    <Layout id="TIPS_006">
+      <Header>Поради</Header>
+      <Text>- Не будуй військові споруди поруч з житловими будинками, містяни не люблять шум.\n- Якщо відправити в бій голодних солдатів, вони будуть підкорятися неохоче, скаржачись на недоїдання.\n- Військовий радник надасть тобі всю інформацію про армію.\n- Добре годуй солдатів - і їхній бойовий дух буде завжди на висоті.</Text>
+    </Layout>
+
+    <!---->
+    <!--Primary strings used for progress through the scenario-->
+    <!---->
+    <Layout id="TUTORIAL_084">
+      <Header>Стіни</Header>
+      <Text>Один з найкращих способів протистояти загарбникам - звести укріплення. Через застави жителі зможуть проходити в місто, а стіни стануть гарним захистом від ворога. Побудуй по заставі в кожній секції стіни і проклади дороги. У заставах стоять оборонні знаряддя, які будуть використовуватися у разі нападу на місто. Солдати в баштах стрілятимуть у приближаючогося до міста ворога. Башти будуються прямо на стінах. Необхідно прокласти дороги, щоб люди могли працювати тут. Огорожуй стіною свій дім та інші ділянки, які важливо захистити від ворога.</Text>
+    </Layout>
+
+    <Layout id="TUTORIAL_087">
+      <Header>Зброя</Header>
+      <Text>Солдат без зброї не страшніший за селянина, тому римські легіонери озброєні до зубів. Спочатку побудуй зброярню.\n\nВиготов не менше 10 одиниць зброї.</Text>
+    </Layout>
+
+    <Layout id="TUTORIAL_090">
+      <Header>Військові споруди</Header>
+      <Text>Твоя армія складатиметься з переселенців, які бажають служити Риму. Побудуй форт. Тобі знадобиться призовний пункт, де окрім іншого будуть зберігатися обладунки та зброя. Нарешті, побудуй їдальню, де твої солдати харчуватимуться.</Text>
+    </Layout>
+
+    <Layout id="TUTORIAL_095">
+      <Header>Загарбники</Header>
+      <Text>Якісь вискочки з сусіднього села вважають цю землю своєю. Вони готують напад, але твоя легка піхота готова відбити його. Щоб розбити ворога, клацни на кнопці "Вивести", а потім клацни правою кнопкою миші на ворожому війську. Розгроми ворогів!</Text>
+    </Layout>
+
+    <!--CHANGED 7/18 -->
+    <Layout id="TUTORIAL_097">
+      <Header>Майже на місці</Header>
+      <Text>Радник з досягнень нагадає, які умови і цілі залишилося виконати, щоб завершити призначення.</Text>
+    </Layout>
+
+  </Layouts>
+</Brundisium>

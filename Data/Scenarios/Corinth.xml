@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Corinth>
+  <StringTable>
+    <String id="OVERVIEW">Цар Пергама старий і бездітний. Радники підказують, що він волів би передати владу Риму, ніж бачити, як його царство занурюється у вир війни і злиднів.\n\nДай нове життя Коринфу, що в Ахейї, принісши туди світло Цезаря. Покажи місту всі переваги освіченого і цивілізованого правління Риму, щоб цар Пергама передав Цезарю права на трон.\n\nСхідні сусіди Імперії не бажають, щоб договір був підписаний. Приділяй однакову увагу своїй армії і просвітницькій роботі. Декілька когорт знадобиться, щоб протистояти спробам перешкодити договору.</String>
+    <String id="HISTORY"></String>
+    <String id="HINTS"></String>
+    <String id="AFTERMATH"></String>
+    <String id="SCENARIONAME">Коринф, провінція Ахейя</String>
+    <String id="WIN">Договір закріпив союз Коринфа і Риму, і доля Пергама - в руках Цезаря. Сенат задоволений тобою, о наміснику.</String>
+    <String id="LOSE">Якщо раніше Коринф з надією звертав погляд до Риму, то тепер його народ розрізнений і розчарований твоїм правлінням.</String>
+    <String id="POPULATION">1,500</String>
+    <String id="FAVOR">45</String>
+    <String id="CULTURE">40</String>
+    <String id="PROSPERITY">40</String>
+    <String id="SECURITY">20</String>
+
+    <!-- -->
+    <!-- REQUESTS-->
+    <!---->
+    <String id="REQUEST_0_TITLE">ORD_L прикраси</String>
+    <String id="REQUEST_0_HEADING">Рим вимагає надіслати прикраси</String>
+    <String id="REQUEST_0_BODY">Рим висуває нові вимоги. Терміново надішли партію прикрас.</String>
+    <String id="REQUEST_0_FAILURE">Тобі не вдалося виконати вимоги Риму, і його прихильність знизилася.</String>
+    <String id="REQUEST_1_TITLE">REQ_L вино</String>
+    <String id="REQUEST_1_HEADING">Запит на вино</String>
+    <String id="REQUEST_1_BODY">Римляни дбають про красу. Надішли, будь ласка, вино.</String>
+    <String id="REQUEST_1_FAILURE">Тобі не вдалося догодити Риму і досягти його прихильності.</String>
+    <String id="REQUEST_2_TITLE">REQ_M мармур</String>
+    <String id="REQUEST_2_HEADING">Запит на мармур</String>
+    <String id="REQUEST_2_BODY">У Римі - велика нестача сировини. Якщо ти надішлеш мармур, твій внесок не залишиться непоміченим.</String>
+    <String id="REQUEST_2_FAILURE">Тобі не вдалося догодити Риму і досягти його прихильності.</String>
+    <String id="REQUEST_3_TITLE">REQ_B скло</String>
+    <String id="REQUEST_3_HEADING">Запит на скло</String>
+    <String id="REQUEST_3_BODY">Рим зростає, містянам не вистачає навіть найнеобхіднішого. Надішли, будь ласка, скло.</String>
+    <String id="REQUEST_3_FAILURE">Тобі не вдалося догодити Риму і досягти його прихильності.</String>
+    <String id="REQUEST_4_TITLE">ORD_B скло</String>
+    <String id="REQUEST_4_HEADING">Рим вимагає надіслати скло</String>
+    <String id="REQUEST_4_BODY">Населення Риму зростає, вимоги теж. Тобі наказано надіслати скло.</String>
+    <String id="REQUEST_4_FAILURE">Тобі не вдалося виконати вимоги Риму, і його прихильність знизилася.</String>
+
+    <!---->
+    <!-- INVASIONS-->
+    <!---->
+    <String id="INVASION_0_TITLE">Фракійські загарбники</String>
+    <String id="INVASION_0_YEAR"></String>
+    <String id="INVASION_0_THREE_MONTH">Останнім часом набіги на мирних жителів почастішали. Розбійники наближаються до нашого міста.</String>
+    <String id="INVASION_0_ONE_MONTH">Вороги обложили наше місто. Кожного дня ми чекаємо на атаку.</String>
+    <String id="INVASION_0_ARRIVAL">Час взятися за мечі і дати відсіч ворогам! Захистимо наше місто!</String>
+
+    <String id="INVASION_1_TITLE">Фракійські загарбники</String>
+    <String id="INVASION_1_YEAR"></String>
+    <String id="INVASION_1_THREE_MONTH">Останнім часом набіги на мирних жителів почастішали. Розбійники наближаються до нашого міста.</String>
+    <String id="INVASION_1_ONE_MONTH">Вороги обложили наше місто. Кожного дня ми чекаємо на атаку.</String>
+    <String id="INVASION_1_ARRIVAL">Час взятися за мечі і дати відсіч ворогам! Захистимо наше місто!</String>
+
+
+    <String id="SITE_0_LABEL">Лацій</String>
+    <String id="SITE_0_FULLNAME">Лацій</String>
+    <String id="SITE_0_SITETYPE">Римська провінція</String>
+    <String id="SITE_0_OPEN"></String>
+    <String id="SITE_0_CLOSED"></String>
+    <String id="SITE_0_HISTORY"></String>
+    <String id="SITE_0_DEACTIVE"></String>
+
+    <String id="SITE_1_LABEL">Македонія</String>
+    <String id="SITE_1_FULLNAME">Македонія</String>
+    <String id="SITE_1_SITETYPE">Римська провінція</String>
+    <String id="SITE_1_OPEN"></String>
+    <String id="SITE_1_CLOSED"></String>
+    <String id="SITE_1_HISTORY"></String>
+    <String id="SITE_1_DEACTIVE"></String>
+
+    <String id="SITE_2_LABEL">Азія</String>
+    <String id="SITE_2_FULLNAME">Азія</String>
+    <String id="SITE_2_SITETYPE">Римська провінція</String>
+    <String id="SITE_2_OPEN"></String>
+    <String id="SITE_2_CLOSED"></String>
+    <String id="SITE_2_HISTORY"></String>
+    <String id="SITE_2_DEACTIVE"></String>
+
+    <String id="SITE_3_LABEL">Сардинія</String>
+    <String id="SITE_3_FULLNAME">Сардинія</String>
+    <String id="SITE_3_SITETYPE">Римська провінція</String>
+    <String id="SITE_3_OPEN"></String>
+    <String id="SITE_3_CLOSED"></String>
+    <String id="SITE_3_HISTORY"></String>
+    <String id="SITE_3_DEACTIVE"></String>
+
+    <String id="SITE_4_LABEL">Коринф</String>
+    <String id="SITE_4_FULLNAME">Коринф</String>
+    <String id="SITE_4_SITETYPE">Місто гравця</String>
+    <String id="SITE_4_OPEN">Коринф\nТвоє місто</String>
+    <String id="SITE_4_CLOSED">!</String>
+    <String id="SITE_4_HISTORY">!</String>
+    <String id="SITE_4_DEACTIVE">!</String>
+  </StringTable>
+</Corinth>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Moguntiacum>
+  <StringTable>
+    <String id="OVERVIEW">Німецькі племена не хочуть схилитися перед силою Імперії. У постійних сутичках із варварами жодна зі сторін не могла утримувати переправу через Рейн. Рим посилає тебе до Верхньої Німеччини. Заклади місто на березі Рейну - багате і надійно захищене, здатне втримати переправу. Повноводна річка – перешкода для варварів, але заспокоюватися не можна. Ресурсів у цьому краю вистачить для утримання армії, а грошей спершу Цезар тобі дасть. Вороги не сидітимуть, склавши руки, тому скоріше приготуйся до оборони Могонтіака.</String>
+    <String id="HISTORY"></String>
+    <String id="HINTS"></String>
+    <String id="AFTERMATH"></String>
+    <String id="SCENARIONAME"> Могонтіак </String>
+    <String id="WIN">Перемога над германцями принесла тобі велику славу та любов римських громадян. Сам Цезар підносив тобі хвалу під час останнього бенкету.</String>
+    <String id="LOSE">Римські громадяни зі смутком зустріли звістку про твою поразку в боротьбі проти німців. Цезар не засмутився . Він був в люті .</String>
+    <String id="POPULATION">3,000</String>
+    <String id="FAVOR">55</String>
+    <String id="CULTURE">50</String>
+    <String id="PROSPERITY">65</String>
+    <String id="SECURITY">100</String>
+
+    <String id="REQUEST_0_TITLE">ORD_M зброю </String>
+    <String id="REQUEST_0_HEADING"> Рим вимагає надіслати зброю </String>
+    <String id="REQUEST_0_BODY">Римські війська на марші. Негайно прийшла зброя.</String>
+    <String id="REQUEST_0_FAILURE">Тобі не вдалося виконати вимоги Риму, і його вподобання знизилося.</String>
+    <String id="REQUEST_1_TITLE">ORD_M обладунки </String>
+    <String id="REQUEST_1_HEADING"> Рим вимагає надіслати обладунки !</String>
+    <String id="REQUEST_1_BODY">Римські війська на марші. Негайно прийшли обладунки.</String>
+    <String id="REQUEST_1_FAILURE">Тобі не вдалося виконати вимоги Риму, і його вподобання знизилося.</String>
+    <String id="REQUEST_2_TITLE">REQ_M зброя </String>
+    <String id="REQUEST_2_HEADING"> Запит на зброю </String>
+    <String id="REQUEST_2_BODY">Римські легіони потрібно озброювати. Прийшли до Риму зброя.</String>
+    <String id="REQUEST_2_FAILURE">Тобі не вдалося догодити Риму і домогтися його вподобання.</String>
+    <String id="REQUEST_3_TITLE">REQ_M обладунки </String>
+    <String id="REQUEST_3_HEADING"> Запит на обладунки </String>
+    <String id="REQUEST_3_BODY">Римські легіони потрібно озброювати. Прийшли до Риму обладунки.</String>
+    <String id="REQUEST_3_FAILURE">Тобі не вдалося догодити Риму і домогтися його вподобання.</String>
+
+    <!---->
+    <!-- INVASIONS-->
+    <!---->
+    <String id="INVASION_0_TITLE"> Загроза вторгнення германців </String>
+    <String id="INVASION_0_YEAR">Ворог збирає війська на кордоні нашої провінції.</String>
+    <String id="INVASION_0_THREE_MONTH">Вороги перетнули кордон і наближаються до нашого міста.</String>
+    <String id="INVASION_0_ONE_MONTH">Вороги розташувалися прямо за стінами нашого міста. Вони готуються до нападу.</String>
+    <String id="INVASION_0_ARRIVAL">Ворог настає! Настав час піднятися на захист міста.</String>
+
+    <String id="INVASION_1_TITLE"> Вторгнення германців </String>
+    <String id="INVASION_1_YEAR">Ворог збирає війська на кордоні нашої провінції.</String>
+    <String id="INVASION_1_THREE_MONTH">Вороги перетнули кордон і наближаються до нашого міста.</String>
+    <String id="INVASION_1_ONE_MONTH">Вороги розташувалися прямо за стінами нашого міста. Вони готуються до нападу.</String>
+    <String id="INVASION_1_ARRIVAL">Ворог настає! Настав час піднятися на захист міста.</String>
+
+
+    <String id="SITE_0_LABEL"> Лацій </String>
+    <String id="SITE_0_FULLNAME"> Лацій </String>
+    <String id="SITE_0_SITETYPE"> Римська провінція </String>
+    <String id="SITE_0_OPEN">!</String>
+    <String id="SITE_0_CLOSED">!</String>
+    <String id="SITE_0_HISTORY">!</String>
+    <String id="SITE_0_DEACTIVE">!</String>
+    <String id="SITE_1_LABEL"> Нарбоннська Галія </String>
+    <String id="SITE_1_FULLNAME"> Нарбоннська Галія </String>
+    <String id="SITE_1_SITETYPE"> Римська провінція </String>
+    <String id="SITE_1_OPEN">!</String>
+    <String id="SITE_1_CLOSED">!</String>
+    <String id="SITE_1_HISTORY">!</String>
+    <String id="SITE_1_DEACTIVE">!</String>
+    <String id="SITE_2_LABEL"> Дакія </String>
+    <String id="SITE_2_FULLNAME"> Дакія </String>
+    <String id="SITE_2_SITETYPE"> Римська провінція </String>
+    <String id="SITE_2_OPEN">!</String>
+    <String id="SITE_2_CLOSED">!</String>
+    <String id="SITE_2_HISTORY">!</String>
+    <String id="SITE_2_DEACTIVE">!</String>
+    <String id="SITE_3_LABEL"> Британія </String>
+    <String id="SITE_3_FULLNAME"> Британія </String>
+    <String id="SITE_3_SITETYPE"> Римська провінція </String>
+    <String id="SITE_3_OPEN">!</String>
+    <String id="SITE_3_CLOSED">!</String>
+    <String id="SITE_3_HISTORY">!</String>
+    <String id="SITE_3_DEACTIVE">!</String>
+    <String id="SITE_4_LABEL"> Могонтіак </String>
+    <String id="SITE_4_FULLNAME"> Могонтіак </String>
+    <String id="SITE_4_SITETYPE"> Місто гравця </String>
+    <String id="SITE_4_OPEN"> Могонтіак \n Твій місто </String>
+    <String id="SITE_4_CLOSED">!</String>
+    <String id="SITE_4_HISTORY">!</String>
+    <String id="SITE_4_DEACTIVE">!</String>
+  </StringTable>
+</Moguntiacum>

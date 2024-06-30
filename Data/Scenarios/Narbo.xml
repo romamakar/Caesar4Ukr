@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Narbo>
+  <StringTable>
+    <String id="OVERVIEW">Республіка розростається, з'явилася потреба в кораблях. Флот необхідний для торгівлі, війни та, звичайно, щоб сенатори могли відпочивати на власних яхтах. А якщо якийсь намісник не впорається з обов'язками, його можна заслати весляром на галеру. У Нарбоннській Галлії великі ліси. Побудуй місто і створи запаси будівельного лісу. На жаль, торгівля в цій провінції мізерна. Проте навколо міста є багато природних ресурсів. Рим вірить у тебе, наміснику! У разі успіху на тебе чекає блискуча кар'єра.</String>
+    <String id="HISTORY"></String>
+    <String id="HINTS"></String>
+    <String id="AFTERMATH"></String>
+    <String id="SCENARIONAME"> Нарбон </String>
+    <String id="WIN">Який успіх, наміснику! Під твоїм мудрим керівництвом римський флот зміцнів. Кораблі борознять простори Середземного моря, а наші торгові судна можна побачити у будь-якому порту світу!</String>
+    <String id="LOSE">Флотом ти майже не займався, але місце серед веслярів на галері для тебе знайдеться.</String>
+    <String id="POPULATION">1,000</String>
+    <String id="FAVOR">45</String>
+    <String id="CULTURE">15</String>
+    <String id="PROSPERITY">20</String>
+    <String id="SECURITY">10</String>
+
+    <!-- -->
+    <!-- REQUESTS-->
+    <!---->
+
+    <String id="REQUEST_0_TITLE">ORD_L деревина </String>
+    <String id="REQUEST_0_HEADING"> Рим вимагає надіслати деревину </String>
+    <String id="REQUEST_0_BODY">Промисловості Риму потрібна сировина. Терміново пішли туди деревину.</String>
+    <String id="REQUEST_0_FAILURE">Тобі не вдалося виконати вимоги Риму, і його вподобання знизилося.</String>
+    <String id="REQUEST_1_TITLE">REQ_M зброя </String>
+    <String id="REQUEST_1_HEADING"> Запит на зброю </String>
+    <String id="REQUEST_1_BODY">Римські легіони потрібно озброювати. Прийшли до Риму зброя.</String>
+    <String id="REQUEST_1_FAILURE">Тобі не вдалося догодити Риму і домогтися його вподобання.</String>
+    <String id="REQUEST_2_TITLE">REQ_M зброя </String>
+    <String id="REQUEST_2_HEADING"> Запит на зброю </String>
+    <String id="REQUEST_2_BODY">Римські легіони потрібно озброювати. Прийшли до Риму зброя.</String>
+    <String id="REQUEST_2_FAILURE">Тобі не вдалося догодити Риму і домогтися його вподобання.</String>
+
+    <!---->
+    <!-- INVASIONS-->
+    <!---->
+    <String id="INVASION_0_TITLE"> Галльські розбійники </String>
+    <String id="INVASION_0_YEAR"></String>
+    <String id="INVASION_0_THREE_MONTH"></String>
+    <String id="INVASION_0_ONE_MONTH"> Вороги обложили наш Місто . Щодня ми чекаємо на атаки.</String>
+    <String id="INVASION_0_ARRIVAL">Настав час взятися за мечі і дати відсіч ворогам! Захистимо наш місто !</String>
+
+    <String id="INVASION_1_TITLE"> Галльські розбійники </String>
+    <String id="INVASION_1_YEAR"></String>
+    <String id="INVASION_1_THREE_MONTH">Останнім часом нальоти на мирних жителів почастішали. Розбійники наближаються до нашого міста.</String>
+    <String id="INVASION_1_ONE_MONTH">Вороги взяли в облогу наше місто. Щодня ми чекаємо на атаки.</String>
+    <String id="INVASION_1_ARRIVAL">Настав час взятися за мечі і дати відсіч ворогам! Захистимо наш місто !</String>
+
+
+    <String id="SITE_0_LABEL"> Лацій </String>
+    <String id="SITE_0_FULLNAME"> Лацій </String>
+    <String id="SITE_0_SITETYPE"> Римська провінція </String>
+    <String id="SITE_0_OPEN">!</String>
+    <String id="SITE_0_CLOSED">!</String>
+    <String id="SITE_0_HISTORY">!</String>
+    <String id="SITE_0_DEACTIVE">!</String>
+    <String id="SITE_1_LABEL"> Цизальпінська Галія </String>
+    <String id="SITE_1_FULLNAME"> Цизальпінська Галія </String>
+    <String id="SITE_1_SITETYPE"> Римська провінція </String>
+    <String id="SITE_1_OPEN">!</String>
+    <String id="SITE_1_CLOSED">!</String>
+    <String id="SITE_1_HISTORY">!</String>
+    <String id="SITE_1_DEACTIVE">!</String>
+    <String id="SITE_2_LABEL"> Апулія </String>
+    <String id="SITE_2_FULLNAME"> Апулія </String>
+    <String id="SITE_2_SITETYPE"> Римська провінція </String>
+    <String id="SITE_2_OPEN">!</String>
+    <String id="SITE_2_CLOSED">!</String>
+    <String id="SITE_2_HISTORY">!</String>
+    <String id="SITE_2_DEACTIVE">!</String>
+    <String id="SITE_3_LABEL"> Нарбон </String>
+    <String id="SITE_3_FULLNAME"> Нарбон </String>
+    <String id="SITE_3_SITETYPE"> Місто гравця </String>
+    <String id="SITE_3_OPEN"> Нарбон \n Твій місто </String>
+    <String id="SITE_3_CLOSED">!</String>
+    <String id="SITE_3_HISTORY">!</String>
+    <String id="SITE_3_DEACTIVE">!</String>
+  </StringTable>
+</Narbo>

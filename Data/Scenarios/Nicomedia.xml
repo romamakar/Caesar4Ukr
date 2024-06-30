@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Nicomedia>
+  <StringTable>
+    <String id="OVERVIEW">Цезар хоче отримати Анатолію і землі, що лежать за Чорним морем. Він послав тебе, успішного правителя, до Віфінії. Збудуй місто на перехресті доріг із заходу, де розкинулася імперія, на схід, де чекають нові землі. Квітуча Нікомедія стане твоїм чудовим внеском у будівництво імперії. Це мирна і багата провінція. Збудуй місто, по розкоші та красі здатне змагатися з самим Римом. Доведи імператору, що приказка "Ніщо не досконало" до тебе не відноситься.</String>
+    <String id="HISTORY"></String>
+    <String id="HINTS"></String>
+    <String id="AFTERMATH"></String>
+    <String id="SCENARIONAME"> Нікомедія </String>
+    <String id="WIN">Поети не в змозі передати красу та велич твого міста. Цезар висловив своє захоплення просто: незадовго до смерті він вибрав тебе своїм наступником. Аве, Цезарю! </String>
+    <String id="LOSE">Сумний фінал такої блискучої кар'єри! Коли ти прибув до Риму на чергове святкування, Цезар навіть не спромігся згадати твоє ім'я.</String>
+    <String id="POPULATION">10,000</String>
+    <String id="FAVOR">100</String>
+    <String id="CULTURE">100</String>
+    <String id="PROSPERITY">100</String>
+    <String id="SECURITY">100</String>
+
+    <String id="REQUEST_0_TITLE">ORD_DN</String>
+    <String id="REQUEST_0_HEADING"> Рим вимагає надіслати данина </String>
+    <String id="REQUEST_0_BODY">Рим вимагає надіслати данину, щоб поповнити свою скарбницю.</String>
+    <String id="REQUEST_0_FAILURE">Тобі не вдалося виконати вимоги Риму, і його вподобання знизилося.</String>
+    <String id="REQUEST_1_TITLE">ORD_L прикраси </String>
+    <String id="REQUEST_1_HEADING"> Рим вимагає надіслати прикраси </String>
+    <String id="REQUEST_1_BODY"> Рим висуває нові вимоги . Терміново прийшла партія прикрас.</String>
+    <String id="REQUEST_1_FAILURE">Тобі не вдалося виконати вимоги Риму, і його вподобання знизилося.</String>
+    <String id="REQUEST_2_TITLE">ORD_B кераміка </String>
+    <String id="REQUEST_2_HEADING"> Рим вимагає надіслати кераміку </String>
+    <String id="REQUEST_2_BODY">Населення Риму зростає, запити теж. Тобі наказано надіслати кераміку.</String>
+    <String id="REQUEST_2_FAILURE">Тобі не вдалося виконати вимоги Риму, і його вподобання знизилося.</String>
+    <String id="REQUEST_3_TITLE">REQ_L меблі </String>
+    <String id="REQUEST_3_HEADING"> Запит на меблі </String>
+    <String id="REQUEST_3_BODY">Римляни піклуються про красу. Прийшли, будь ласка, меблі.</String>
+    <String id="REQUEST_3_FAILURE">Тобі не вдалося догодити Риму і домогтися його вподобання.</String>
+    <String id="REQUEST_4_TITLE">REQ_B скло </String>
+    <String id="REQUEST_4_HEADING"> Запит на скло </String>
+    <String id="REQUEST_4_BODY">Рим росте, городянам не вистачає навіть найнеобхіднішого. Прийшли, будь ласка, скло.</String>
+    <String id="REQUEST_4_FAILURE">Тобі не вдалося догодити Риму і домогтися його вподобання.</String>
+    <String id="REQUEST_5_TITLE">REQ_L начиння </String>
+    <String id="REQUEST_5_HEADING"> Запит на начиння </String>
+    <String id="REQUEST_5_BODY">Римляни піклуються про красу. Прийшли, будь ласка, начиння.</String>
+    <String id="REQUEST_5_FAILURE">Тобі не вдалося догодити Риму і домогтися його вподобання.</String>
+    <String id="REQUEST_6_TITLE">REQ_M зброя </String>
+    <String id="REQUEST_6_HEADING"> Запит на зброю </String>
+    <String id="REQUEST_6_BODY">Римські легіони потрібно озброювати. Прийшли до Риму зброя.</String>
+    <String id="REQUEST_6_FAILURE">Тобі не вдалося догодити Риму і домогтися його вподобання.</String>
+
+    <!---->
+    <!-- INVASIONS-->
+    <!---->
+    <String id="INVASION_0_TITLE"> Розбійники з сходу </String>
+    <String id="INVASION_0_YEAR"></String>
+    <String id="INVASION_0_THREE_MONTH"></String>
+    <String id="INVASION_0_ONE_MONTH"> Вороги обложили наш Місто . Щодня ми чекаємо на атаки.</String>
+    <String id="INVASION_0_ARRIVAL">Настав час взятися за мечі і дати відсіч ворогам! Захистимо наш місто !</String>
+
+    <String id="SITE_0_LABEL"> Лацій </String>
+    <String id="SITE_0_FULLNAME"> Лацій </String>
+    <String id="SITE_0_SITETYPE"> Римська провінція </String>
+    <String id="SITE_0_OPEN">!</String>
+    <String id="SITE_0_CLOSED">!</String>
+    <String id="SITE_0_HISTORY">!</String>
+    <String id="SITE_0_DEACTIVE">!</String>
+    <String id="SITE_1_LABEL"> Сардинія </String>
+    <String id="SITE_1_FULLNAME"> Сардинія </String>
+    <String id="SITE_1_SITETYPE"> Римська провінція </String>
+    <String id="SITE_1_OPEN">!</String>
+    <String id="SITE_1_CLOSED">!</String>
+    <String id="SITE_1_HISTORY">!</String>
+    <String id="SITE_1_DEACTIVE">!</String>
+    <String id="SITE_4_LABEL"> Месопотамія </String>
+    <String id="SITE_4_FULLNAME"> Месопотамія </String>
+    <String id="SITE_4_SITETYPE"> Іноземна провінція </String>
+    <String id="SITE_4_OPEN">!</String>
+    <String id="SITE_4_CLOSED">!</String>
+    <String id="SITE_4_HISTORY">!</String>
+    <String id="SITE_4_DEACTIVE">!</String>
+    <String id="SITE_3_LABEL"> Мезія </String>
+    <String id="SITE_3_FULLNAME"> Мезія </String>
+    <String id="SITE_3_SITETYPE"> Римська провінція </String>
+    <String id="SITE_3_OPEN">!</String>
+    <String id="SITE_3_CLOSED">!</String>
+    <String id="SITE_3_HISTORY">!</String>
+    <String id="SITE_3_DEACTIVE">!</String>
+    <String id="SITE_2_LABEL"> Єгипет </String>
+    <String id="SITE_2_FULLNAME"> Єгипет </String>
+    <String id="SITE_2_SITETYPE"> Римська провінція </String>
+    <String id="SITE_2_OPEN">!</String>
+    <String id="SITE_2_CLOSED">!</String>
+    <String id="SITE_2_HISTORY">!</String>
+    <String id="SITE_2_DEACTIVE">!</String>
+    <String id="SITE_5_LABEL"> Нікомедія </String>
+    <String id="SITE_5_FULLNAME"> Нікомедія </String>
+    <String id="SITE_5_SITETYPE"> Місто гравця </String>
+    <String id="SITE_5_OPEN"> Нікомедія \n Твій місто </String>
+    <String id="SITE_5_CLOSED">!</String>
+    <String id="SITE_5_HISTORY">!</String>
+    <String id="SITE_5_DEACTIVE">!</String>
+  </StringTable>
+</Nicomedia>

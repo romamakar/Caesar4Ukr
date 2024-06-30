@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Tarsus>
+  <StringTable>
+    <String id="OVERVIEW">Кілікію довгий час наповнювали бандити, пірати, мавпи та бунтівники. Тут потрібна залізна рука, здатна відродити цю провінцію. Як одного з найкращих римських намісників тебе відправили до міста Тарс. Ти маєш відбудувати багате і сильне місто і захистити провінцію на славу імперії. У пагорбах Кілікії таяться поклади заліза і мармуру, які так потрібні Риму. Ці родовища – ключ до процвітання Тарса. На жаль, ці ж багатства ваблять і ворогів імперії. На цей раз це зовсім не варварські племена. Це парфяни вкотре зазіхають на скарби Риму. Їх метою став Тарс. Парфянські вершники – добрі воїни, їхню армію не зупинять міцні стіни фортеці. Парфяни хочуть не зруйнувати місто, а захопити його! Пагорби, джерела багатства допоможуть зміцнити оборону. Якщо ти утримаєш місто, колись Тарс стане перлиною імперії!</String>
+    <String id="HISTORY"></String>
+    <String id="HINTS"></String>
+    <String id="AFTERMATH"></String>
+    <String id="SCENARIONAME">Тарс</String>
+    <String id="WIN">Ти встановив порядок і закон у дикому краї та переміг ворогів. Римські громадяни разом із Цезарем визнають, що кращого намісника немає і не буде!</String>
+    <String id="LOSE"> Цезар розуміє, що цією провінцією завжди було важко керувати, але він чекав від тебе більшого. Негаразди спустошують цей край, і твоя невдача, намісник, принесе Риму ще багато бід.</String>
+    <String id="POPULATION">2,500</String>
+    <String id="FAVOR">75</String>
+    <String id="CULTURE">40</String>
+    <String id="PROSPERITY">40</String>
+    <String id="SECURITY">80</String>
+
+    <String id="REQUEST_0_TITLE">ORD_M мармур</String>
+    <String id="REQUEST_0_HEADING">Рим вимагає надіслати мармур</String>
+    <String id="REQUEST_0_BODY">Рим будує нові храми. Терміново прийшли мармур.</String>
+    <String id="REQUEST_0_FAILURE">Тобі не вдалося виконати вимоги Риму, і його вподобання знизилося.</String>
+    <String id="REQUEST_1_TITLE">REQ_L золото</String>
+    <String id="REQUEST_1_HEADING">Запит на золото</String>
+    <String id="REQUEST_1_BODY">У Римі - велика нестача сировини. Якщо ти надішлеш золото, твій внесок не залишиться непоміченим.</String>
+    <String id="REQUEST_1_FAILURE">Тобі не вдалося догодити Риму і домогтися його вподобання.</String>
+    <String id="REQUEST_2_TITLE">REQ_L залізо</String>
+    <String id="REQUEST_2_HEADING">Запит на залізо</String>
+    <String id="REQUEST_2_BODY">У Римі - велика нестача сировини. Якщо ти надішлеш залізо, твій внесок не залишиться непоміченим.</String>
+    <String id="REQUEST_2_FAILURE">Тобі не вдалося догодити Риму і домогтися його вподобання.</String>
+
+    <!---->
+    <!-- INVASIONS-->
+    <!---->
+    <String id="INVASION_0_TITLE">Організоване повстання</String>
+    <String id="INVASION_0_YEAR">Ворог збирає війська на кордоні нашої провінції.</String>
+    <String id="INVASION_0_THREE_MONTH">Вороги перетнули кордон і наближаються до нашого міста.</String>
+    <String id="INVASION_0_ONE_MONTH">Вороги розташувалися прямо за стінами нашого міста. Вони готуються до нападу.</String>
+    <String id="INVASION_0_ARRIVAL">Ворог настає! Настав час піднятися на захист міста.</String>
+
+    <String id="INVASION_1_TITLE">Організоване повстання</String>
+    <String id="INVASION_1_YEAR">Ворог збирає війська на кордоні нашої провінції.</String>
+    <String id="INVASION_1_THREE_MONTH">Вороги перетнули кордон і наближаються до нашого міста.</String>
+    <String id="INVASION_1_ONE_MONTH">Вороги розташувалися прямо за стінами нашого міста. Вони готуються до нападу.</String>
+    <String id="INVASION_1_ARRIVAL">Ворог настає! Настав час піднятися на захист міста.</String>
+
+    <String id="INVASION_2_TITLE">Організоване повстання</String>
+    <String id="INVASION_2_YEAR">Ворог збирає війська на кордоні нашої провінції.</String>
+    <String id="INVASION_2_THREE_MONTH">Вороги перетнули кордон і наближаються до нашого міста.</String>
+    <String id="INVASION_2_ONE_MONTH">Вороги розташувалися прямо за стінами нашого міста. Вони готуються до нападу.</String>
+    <String id="INVASION_2_ARRIVAL">Ворог настає! Настав час піднятися на захист міста.</String>
+
+    <String id="INVASION_3_TITLE">Організоване повстання</String>
+    <String id="INVASION_3_YEAR">Ворог збирає війська на кордоні нашої провінції.</String>
+    <String id="INVASION_3_THREE_MONTH">Вороги перетнули кордон і наближаються до нашого міста.</String>
+    <String id="INVASION_3_ONE_MONTH">Вороги розташувалися прямо за стінами нашого міста. Вони готуються до нападу.</String>
+    <String id="INVASION_3_ARRIVAL">Ворог настає! Настав час піднятися на захист міста.</String>
+
+
+    <String id="SITE_0_LABEL">Єгипет</String>
+    <String id="SITE_0_FULLNAME">Єгипет</String>
+    <String id="SITE_0_SITETYPE">Римська провінція</String>
+    <String id="SITE_0_OPEN">!</String>
+    <String id="SITE_0_CLOSED">!</String>
+    <String id="SITE_0_HISTORY">!</String>
+    <String id="SITE_0_DEACTIVE">!</String>
+    <String id="SITE_1_LABEL">Азія</String>
+    <String id="SITE_1_FULLNAME">Азія</String>
+    <String id="SITE_1_SITETYPE">Римська провінція</String>
+    <String id="SITE_1_OPEN">!</String>
+    <String id="SITE_1_CLOSED">!</String>
+    <String id="SITE_1_HISTORY">!</String>
+    <String id="SITE_1_DEACTIVE">!</String>
+    <String id="SITE_3_LABEL">Месопотамія</String>
+    <String id="SITE_3_FULLNAME">Месопотамія</String>
+    <String id="SITE_3_SITETYPE">Іноземна провінція</String>
+    <String id="SITE_3_OPEN">!</String>
+    <String id="SITE_3_CLOSED">!</String>
+    <String id="SITE_3_HISTORY">!</String>
+    <String id="SITE_3_DEACTIVE">!</String>
+    <String id="SITE_2_LABEL">Сирія</String>
+    <String id="SITE_2_FULLNAME">Сирія</String>
+    <String id="SITE_2_SITETYPE">Римська провінція</String>
+    <String id="SITE_2_OPEN">!</String>
+    <String id="SITE_2_CLOSED">!</String>
+    <String id="SITE_2_HISTORY">!</String>
+    <String id="SITE_2_DEACTIVE">!</String>
+    <String id="SITE_4_LABEL">Тарс</String>
+    <String id="SITE_4_FULLNAME">Тарс</String>
+    <String id="SITE_4_SITETYPE">Місто гравця</String>
+    <String id="SITE_4_OPEN">Тарс\nТвоє місто</String>
+    <String id="SITE_4_CLOSED">!</String>
+    <String id="SITE_4_HISTORY">!</String>
+    <String id="SITE_4_DEACTIVE">!</String>
+  </StringTable>
+</Tarsus>
