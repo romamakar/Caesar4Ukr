@@ -278,7 +278,7 @@
     <Text>\n\n</Text>
     <Image value="help_Fac_Olive_Oil" />
     <Text>\n</Text>
-    <Link value="50832">Маслобійня</Link>
+    <Link value="50832">Олійня</Link>
     <Text>\n\n</Text>
     <Image value="help_Fac_Pottery" />
     <Text>\n</Text>
@@ -1900,7 +1900,7 @@
     <Image value="help_UI_Sand" />
     <Text> \n\n</Text>
     <Image value="help_Fac_Olive_Oil" />
-    <Text> \nМаслобійне потрібні оливки\n</Text>
+    <Text> \nОлійні потрібні оливки\n</Text>
     <Image value="help_UI_Olives" />
     <Text>\n\n</Text>
     <Image value="help_Fac_Pottery" />
@@ -1920,7 +1920,7 @@
     <Image value="help_UI_Iron" />
     <Text>\n\n</Text>
     <Image value="help_Fac_Wine" />
-    <Text>\nВиноробне потрібен виноград\n</Text>
+    <Text>\nВиноробні потрібен виноград\n</Text>
     <Image value="help_UI_Grapes" />
     <Text>\n\n</Text>
     <Image value="help_Fac_Armor" />

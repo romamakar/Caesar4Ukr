@@ -33,31 +33,31 @@
     <String id="INVASION_0_YEAR">Ворог збирає війська на кордоні нашої провінції.</String>
     <String id="INVASION_0_THREE_MONTH">Вороги перетнули кордон і наближаються до нашого міста.</String>
     <String id="INVASION_0_ONE_MONTH">Вороги розташувалися прямо за стінами нашого міста. Вони готуються до нападу.</String>
-    <String id="INVASION_0_ARRIVAL">Ворог настає! Настав час піднятися на захист міста.</String>
+    <String id="INVASION_0_ARRIVAL">Ворог наступає! Настав час піднятися на захист міста.</String>
 
     <String id="INVASION_1_TITLE">Вторгнення карфагенян</String>
     <String id="INVASION_1_YEAR">Ворог збирає війська на кордоні нашої провінції.</String>
     <String id="INVASION_1_THREE_MONTH">Вороги перетнули кордон і наближаються до нашого міста.</String>
     <String id="INVASION_1_ONE_MONTH">Вороги розташувалися прямо за стінами нашого міста. Вони готуються до нападу.</String>
-    <String id="INVASION_1_ARRIVAL">Ворог настає! Настав час піднятися на захист міста.</String>
+    <String id="INVASION_1_ARRIVAL">Ворог наступає! Настав час піднятися на захист міста.</String>
 
     <String id="INVASION_2_TITLE">Вторгнення карфагенян</String>
     <String id="INVASION_2_YEAR">Ворог збирає війська на кордоні нашої провінції.</String>
     <String id="INVASION_2_THREE_MONTH">Вороги перетнули кордон і наближаються до нашого міста.</String>
     <String id="INVASION_2_ONE_MONTH">Вороги розташувалися прямо за стінами нашого міста. Вони готуються до нападу.</String>
-    <String id="INVASION_2_ARRIVAL">Ворог настає! Настав час піднятися на захист міста.</String>
+    <String id="INVASION_2_ARRIVAL">Ворог наступає! Настав час піднятися на захист міста.</String>
 
     <String id="INVASION_3_TITLE">Вторгнення карфагенян</String>
     <String id="INVASION_3_YEAR">Ворог збирає війська на кордоні нашої провінції.</String>
     <String id="INVASION_3_THREE_MONTH">Вороги перетнули кордон і наближаються до нашого міста.</String>
     <String id="INVASION_3_ONE_MONTH">Вороги розташувалися прямо за стінами нашого міста. Вони готуються до нападу.</String>
-    <String id="INVASION_3_ARRIVAL">Ворог настає! Настав час піднятися на захист міста.</String>
+    <String id="INVASION_3_ARRIVAL">Ворог наступає! Настав час піднятися на захист міста.</String>
 
     <String id="INVASION_4_TITLE">Вторгнення карфагенян</String>
     <String id="INVASION_4_YEAR">Ворог збирає війська на кордоні нашої провінції.</String>
     <String id="INVASION_4_THREE_MONTH">Вороги перетнули кордон і наближаються до нашого міста.</String>
     <String id="INVASION_4_ONE_MONTH">Вороги розташувалися прямо за стінами нашого міста. Вони готуються до нападу.</String>
-    <String id="INVASION_4_ARRIVAL">Ворог настає! Настав час піднятися на захист міста.</String>
+    <String id="INVASION_4_ARRIVAL">Ворог наступає! Настав час піднятися на захист міста.</String>
 
     <String id="INVASION_5_TITLE">Підкріплення карфагенян</String>
     <String id="INVASION_5_YEAR"></String>
@@ -74,7 +74,7 @@
 
     <String id="SITE_0_LABEL">Калеція</String>
     <String id="SITE_0_FULLNAME">Калеція</String>
-    <String id="SITE_0_SITETYPE">Ворожній табір</String>
+    <String id="SITE_0_SITETYPE">Ворожий табір</String>
     <String id="SITE_0_OPEN">!</String>
     <String id="SITE_0_CLOSED">!</String>
     <String id="SITE_0_HISTORY">!</String>

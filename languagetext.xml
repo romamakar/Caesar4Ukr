@@ -216,7 +216,7 @@
 <String id="ONE_FACTORY_FURNITURE">Меблева майстерня</String>
 <String id="ONE_FACTORY_GLASS">Шкляна майстерня</String>
 <String id="ONE_FACTORY_JEWELRY">Ювелірна майстерня</String>
-<String id="ONE_FACTORY_OLIVE_OIL">Маслобійня</String>
+<String id="ONE_FACTORY_OLIVE_OIL">Олійня</String>
 <String id="ONE_FACTORY_POTTERY">Гончарна майстерня</String>
 <String id="ONE_FACTORY_UTENSILS">Майстерня начиння</String>
 <String id="ONE_FACTORY_WEAPONS">Кузня</String>
@@ -1282,7 +1282,7 @@
 <String id="UI_BUILD_FACT_GLASS">Шкляна майстерня</String>
 <String id="UI_HEADING_FACT_LUX_GOODS">Предмети розкоші</String>
 <String id="UI_BUILD_FACT_JEWELRY">Ювелірна майстерня</String>
-<String id="UI_BUILD_FACT_OLIVE">Маслобійня</String>
+<String id="UI_BUILD_FACT_OLIVE">Олійня</String>
 <String id="UI_BUILD_FACT_POTTERY">Гончарна майстерня</String>
 <String id="UI_HEADING_FACT_WAR">Амуніція</String>
 <String id="UI_BUILD_FACT_UTENSILS">Майстерня начиння</String>
@@ -1373,7 +1373,7 @@
 <!-- changed 8/17- removed staff 'water' mention -->
 <String id="TT_PLEBIAN_HOUSE">Будинки плебеїв:\nплебеї збирають урожай, видобувають ресурси, виробляють товари, зберігають їх і перевозять, а також працюють у префектурі та на інженерних постах</String>
 <!-- Added 8/9- \n до кінця з кожного sentence. -->
-<String id="TT_SHOPS">Ринки та склади:\n городяни купують їжу та необхідні товари на ринках. Їжа, сировина та готові товари зберігаються на складах та в житницях. \nНа торгових складах та на пристанях йде торгівля з приїжджими купцями.</String>
+<String id="TT_SHOPS">Ринки та склади:\n містяни купують їжу та необхідні товари на ринках. Їжа, сировина та готові товари зберігаються на складах та в житницях. \nНа торгових складах та на пристанях йде торгівля з приїжджими купцями.</String>
 <String id="TT_STORAGE"></String>
 <!-- 8/17 added mention of water -->
 <String id="TT_EQUITES">Будинки вершників: \nвершники - представники середнього класу. Вони працюють на водонапірих та на громадських посадах, які потребують спеціальної освіти.</String>
@@ -1384,9 +1384,9 @@
 <String id="TT_SAFETY">Армія:\nдо армійських будівель відносяться міські укріплення, форти та військові склади</String>
 <String id="TT_DECORATIVE">Прикраса міста:\nплощі та статуї роблять місто привабливішим</String>
 <String id="TT_EDUCATION">Освіта:\n мешканці міста здобувають освіту в школах та бібліотеках.</String>
-<String id="TT_RELIGION">Релігія:\n городяни приносять жертви богам у святилищах та храмах</String>
-<String id="TT_ENTERTAINMENT">Видовища:\nактори проходять навчання в школах і дають уявлення для задоволення публіки</String>
-<String id="TT_HEALTH">Лікування: інспектори стежать за здоров'ям городян, а лікарі лікують хворих</String>
+<String id="TT_RELIGION">Релігія:\n містяни приносять жертви богам у святилищах та храмах</String>
+<String id="TT_ENTERTAINMENT">Видовища:\nактори проходять навчання в школах і дають вистави для задоволення публіки</String>
+<String id="TT_HEALTH">Лікування: інспектори стежать за здоров'ям містян, а лікарі лікують хворих</String>
 <!--TT_ROAD1, "x"-->
 <String id="TT_ROAD2">xДороги можуть допомогти у плануванні міста</String>
 <String id="TT_ROAD3">xДороги можуть допомогти у плануванні міста</String>
@@ -1659,11 +1659,11 @@
 <String id="TT_HAPPINESS_EXOTIC_GOODS_SLIGHTLY_UNHAPPY">Кількість екзотичних товарів у домі: %d. Мешканцям хочеться більшої різноманітності.</String>
 <String id="TT_HAPPINESS_EXOTIC_GOODS_UNHAPPY">Кількість екзотичних товарів у будинку: %d. Мешканці скаржаться на життя.</String>
 <String id="TT_HAPPINESS_EXOTIC_GOODS_VERY_UNHAPPY">Кількість екзотичних товарів у домі: %d. Мешканцям це зовсім не подобається.</String>
-<String id="TT_HAPPINESS_UNEMPLOYMENT_HAPPY">У всіх городян є робота!</String>
-<String id="TT_HAPPINESS_UNEMPLOYMENT_NEUTRAL">Майже всі городяни мають роботу</String>
-<String id="TT_HAPPINESS_UNEMPLOYMENT_SLIGHTLY_UNHAPPY">Городцям потрібна робота</String>
-<String id="TT_HAPPINESS_UNEMPLOYMENT_UNHAPPY">Городяни вимагають забезпечити їх роботою</String>
-<String id="TT_HAPPINESS_UNEMPLOYMENT_VERY_UNHAPPY">Городяни незадоволені рівнем безробіття</String>
+<String id="TT_HAPPINESS_UNEMPLOYMENT_HAPPY">У всіх містян є робота!</String>
+<String id="TT_HAPPINESS_UNEMPLOYMENT_NEUTRAL">Майже всі містяни мають роботу</String>
+<String id="TT_HAPPINESS_UNEMPLOYMENT_SLIGHTLY_UNHAPPY">Містянам потрібна робота</String>
+<String id="TT_HAPPINESS_UNEMPLOYMENT_UNHAPPY">містяни вимагають забезпечити їх роботою</String>
+<String id="TT_HAPPINESS_UNEMPLOYMENT_VERY_UNHAPPY">містяни незадоволені рівнем безробіття</String>
 <String id="TT_HAPPINESS_WAGES_HAPPY">Робітники отримують високу платню</String>
 <String id="TT_HAPPINESS_WAGES_NEUTRAL">Робочі отримують помірну платню</String>
 <String id="TT_HAPPINESS_WAGES_SLIGHTLY_UNHAPPY">Робітники отримують невисоку платню</String>
@@ -1996,7 +1996,7 @@
 <String id="TT_OVERLAY_NORMAL">Приховати звіт</String>
 <String id="TT_OVERLAY_WATER">Темно-синім кольором позначені області, забезпечені водою.\nБлакитним кольором позначені області, які будуть забезпечені водою, якщо на найближчій цистерні працюватиме необхідна кількість працівників.</String>
 <!-- Changed Aug 14 -->
-<String id="TT_OVERLAY_RISKS">Звіти про безпеку, лояльність та стан здоров'я городян</String>
+<String id="TT_OVERLAY_RISKS">Звіти про безпеку, лояльність та стан здоров'я містян</String>
 <String id="TT_OVERLAY_ENTERTAINMENT">Звіт про видовищ</String>
 <String id="TT_OVERLAY_EDUCATION">Звіт про освіту</String>
 <String id="TT_OVERLAY_HEALTH">Звіт про охорону здоров'я та стан гігієни</String>
@@ -2048,16 +2048,16 @@
 <String id="TT_O2_RISKS_COLLAPSE">Будинки виділяються кольором, якщо їм необхідний огляд інженера\nЯкщо будівля сірого кольору, вона поки що в порядку.</String>
 <String id="TT_O2_RISKS_HEALTH">Показує будівлі, в яких великий ризик захворювання жителів\nЯкщо будівля сірого кольору, його мешканці поки що здорові.</String>
 <String id="TT_O2_ENTERTAINMENT_ALL">Дороги та будівлі пофарбовані кольором, якщо у мешканців району вистачає часу на видовища.\nРайон забарвлюється сірим кольором, якщо у розважальному закладі не вистачає працівників, щоб постійно давати вистави.</String>
-<String id="TT_O2_ENTERTAINMENT_ODEUM">Дороги та будівлі пофарбовані кольором, якщо у мешканців району вистачає часу на відвідування одеону.\nРайон забарвлюється сірим кольором, якщо в одеоні не вистачає працівників, щоб постійно давати уявлення.</String>
+<String id="TT_O2_ENTERTAINMENT_ODEUM">Дороги та будівлі пофарбовані кольором, якщо у мешканців району вистачає часу на відвідування одеону.\nРайон забарвлюється сірим кольором, якщо в одеоні не вистачає працівників, щоб постійно давати вистави.</String>
 <String id="TT_O2_ENTERTAINMENT_THEATER">Дороги та будівлі пофарбовані кольором, якщо у мешканців району вистачає часу на відвідування театру.\nРайон забарвлюється сірим кольором, якщо в театрі не вистачає працівників, щоб постійно давати вистави.</String>
 <String id="TT_O2_ENTERTAINMENT_ARENA">Дороги та будівлі пофарбовані кольором, якщо у мешканців району вистачає часу на відвідування арени.\nРайон забарвлюється сірим кольором, якщо на арені не вистачає працівників, щоб постійно давати вистави.</String>
 <!-- Aug 25, changed - changed, put in color and extra state info -->
 <!-- Added Aug 29, 'to' до першої sentence of coliseum tooltip -->
-<String id="TT_O2_ENTERTAINMENT_COLISEUM">Дороги та будівлі фарбуються коричневим кольором, якщо у мешканців району вистачає часу на відвідування одного з вистав у колізеї (бої гладіаторів або бої дресованих тварин).\nРайон фарбується малиновим кольором, якщо мешканцям уявлень.\nРайон забарвлюється сірим кольором, якщо в колізеї не вистачає працівників, щоб постійно давати уявлення.</String>
+<String id="TT_O2_ENTERTAINMENT_COLISEUM">Дороги та будівлі фарбуються коричневим кольором, якщо у мешканців району вистачає часу на відвідування одного з вистав у колізеї (бої гладіаторів або бої дресованих тварин).\nРайон фарбується малиновим кольором, якщо мешканцям бракує вистав.\nРайон забарвлюється сірим кольором, якщо в колізеї не вистачає працівників, щоб постійно давати вистави.</String>
 <String id="TT_O2_ENTERTAINMENT_CIRCUS">Будинки виділені кольором, якщо у місті працює цирк</String>
-<String id="TT_O2_EDUCATION_ALL">Дороги та будівлі пофарбовані кольором, якщо у мешканців району вистачає часу на освіту.\nРайон фарбується сірим кольором, якщо у школах та бібліотеках не вистачає працівників, щоб навчити городян.</String>
-<String id="TT_O2_EDUCATION_SCHOOL">Дороги та будівлі пофарбовані кольором, якщо мешканці району можуть відвідувати школу.\nРайон фарбується сірим кольором, якщо в школах не вистачає працівників, щоб навчити городян.</String>
-<String id="TT_O2_EDUCATION_LIBRARY">Дороги та будівлі пофарбовані кольором, якщо мешканці району можуть відвідувати бібліотеку.\nРайон фарбується сірим кольором, якщо в бібліотеках не вистачає працівників, щоб навчити городян.</String>
+<String id="TT_O2_EDUCATION_ALL">Дороги та будівлі пофарбовані кольором, якщо у мешканців району вистачає часу на освіту.\nРайон фарбується сірим кольором, якщо у школах та бібліотеках не вистачає працівників, щоб навчити містян.</String>
+<String id="TT_O2_EDUCATION_SCHOOL">Дороги та будівлі пофарбовані кольором, якщо мешканці району можуть відвідувати школу.\nРайон фарбується сірим кольором, якщо в школах не вистачає працівників, щоб навчити містян.</String>
+<String id="TT_O2_EDUCATION_LIBRARY">Дороги та будівлі пофарбовані кольором, якщо мешканці району можуть відвідувати бібліотеку.\nРайон фарбується сірим кольором, якщо в бібліотеках не вистачає працівників, щоб навчити містян.</String>
 <String id="TT_O2_HEALTH_ALL">Дороги та будівлі пофарбовані кольором, якщо мешканці району стежать за здоров'ям та гігієною.\nРайон забарвлюється сірим кольором, якщо здоров'я мешканців під загрозою.</String>
 <String id="TT_O2_HEALTH_BARBER">Дороги та будівлі пофарбовані кольором, якщо мешканці району встигають сходити до цирульні.\nРайон забарвлюється сірим кольором, якщо у цирульні не вистачає працівників.</String>
 <String id="TT_O2_HEALTH_BATHHOUSE">Дороги та будівлі пофарбовані кольором, якщо мешканці району встигають сходити в терми.\nРайон фарбується сірим кольором, якщо в термах не вистачає працівників.</String>
@@ -3244,7 +3244,7 @@
 
 <String id="WIN_STAT_HAPPINESS_LABEL">Популярність</String>
 
-<String id="TT_WIN_STAT_HAPPINESS_STRING">Твоя популярність серед городян</String>
+<String id="TT_WIN_STAT_HAPPINESS_STRING">Твоя популярність серед містян</String>
 
 <String id="WIN_STAT_CULTURE_LABEL">Культура</String>
 
@@ -4196,7 +4196,7 @@
 <String id="EVENT_V_H_PLE3">Плебеї поспішають до лікарень та лікарень</String>
 <String id="EVENT_V_ENT_PAT1">Патриції йдуть розважатися</String>
 <String id="EVENT_V_ENT_PAT2">Патриції поспішають на виставу</String>
-<String id="EVENT_V_ENT_PAT3">Городянам вистачає розваг</String>
+<String id="EVENT_V_ENT_PAT3">Містянам вистачає розваг</String>
 <String id="EVENT_V_ENT_EQ1">Вершники йдуть розважатися</String>
 <String id="EVENT_V_ENT_EQ2">Вершники поспішають на виставу</String>
 <String id="EVENT_V_ENT_EQ3">Містяни йдуть розважатися</String>
@@ -4230,12 +4230,12 @@
 <String id="EVENT_V_H_Malaria_S">На місто обрушився спалах малярії!</String>
 <String id="EVENT_V_H_Malaria_L">Місто трясе в лихоманці малярії. Містянам потрібні лікарі!</String>
 <String id="EVENT_V_H_Plague_S">Місто мучить спалах чуми!</String>
-<String id="EVENT_V_H_Plague_L">Чума забирає життя городян.</String>
+<String id="EVENT_V_H_Plague_L">Чума забирає життя містян.</String>
 <String id="EVENT_V_H_EpidemicTEST_S">На місто обрушився ТЕСТ! Це жахливе захворювання не приносить жодної шкоди.</String>
 <String id="EVENT_V_H_EpidemicTEST_L">ТЕСТ створений для того, щоб перевірити, чи справно епідемії викошують населення ігрового всесвіту.</String>
 <!-- Added 8 18 -->
 <String id="EVENT_V_H_Epidemic_End_Title">Епідемія закінчилася</String>
-<String id="EVENT_V_H_Epidemic_End_Message">Епідемія пройшла. \n\n Загинуло городян:</String>
+<String id="EVENT_V_H_Epidemic_End_Message">Епідемія пройшла. \n\n Загинуло містян:</String>
 <!-- Added 8 03 -->
 <String id="EVENT_Earthquake_Title">Землетрус!</String>
 <String id="EVENT_Earthquake_Message">Землетрусом у місті зруйнувало кілька будівель.</String>
@@ -5899,8 +5899,8 @@
 <String id="TT_CHIEFA_MIGRATION_EQUES_FEEDBACK">Який приріст населення вершників?</String>
 <String id="TT_CHIEFA_MIGRATION_PATRICIAN_FEEDBACK">Який приріст населення патрицій?</String>
 <String id="TT_CHIEFA_CRIME_FEEDBACK">Який рівень злочинності у місті?</String>
-<String id="TT_CHIEFA_HAPPINESS_FEEDBACK">Яка думка городян про правителя?</String>
-<String id="TT_CHIEFA_HEALTH_FEEDBACK">Який стан здоров'я городян?</String>
+<String id="TT_CHIEFA_HAPPINESS_FEEDBACK">Яка думка містян про правителя?</String>
+<String id="TT_CHIEFA_HEALTH_FEEDBACK">Який стан здоров'я містян?</String>
 <String id="TT_CHIEFA_RELIGION_FEEDBACK">Як Юпітер ставиться до свого міста?</String>
 <String id="TT_CHIEFA_EDUCATION_FEEDBACK">Який рівень освіти в місті?</String>
 <String id="TT_CHIEFA_ENTERTAINMENT_FEEDBACK">Чи весело жити в місті?</String>
@@ -5988,13 +5988,13 @@
 <String id="CA_EDUCATION_5">Твоє місто - столиця знань! Si hoc legere scis nimium eruditionis habes.</String>
 <!--For when entertainment feedback (migration) doesn't hit a parameter-->
 <!-- Changed 08 02 (typo citzen->citizen) -->
-<String id="CHIEFA_SUMMARY_STATUS_FALLBACK">Городянам вистачає видовищ.</String>
+<String id="CHIEFA_SUMMARY_STATUS_FALLBACK">Містянам вистачає видовищ.</String>
 <!--Note, вони потрібні для того, щоб від сервісного центру Table and not the UI advisor feedback table-->
 <String id="CA_ENTERTAINMENT_1_WORST">Ніхто не захоче переїжджати до такого нудного міста.</String>
 <String id="CA_ENTERTAINMENT_2">Мало хто захоче тут жити. У місті майже немає видовищ.</String>
 <String id="CA_ENTERTAINMENT_3">У місті недостатньо видовищ.</String>
-<String id="CA_ENTERTAINMENT_4">Городцям потрібно більше видовищ.</String>
-<String id="CA_ENTERTAINMENT_BONUS">У місті влаштовується стільки уявлень, що люди із задоволенням переїжджають сюди!</String>
+<String id="CA_ENTERTAINMENT_4">Містянам потрібно більше видовищ.</String>
+<String id="CA_ENTERTAINMENT_BONUS">У місті влаштовується стільки вистав, що люди із задоволенням переїжджають сюди!</String>
 <String id="CA_ENTERTAINMENT_ADEQUATE">У місті достатньо видовищ.</String>
 <String id="CA_LEGION_NONE">У місті та провінції все спокійно</String>
 <String id="CA_LEGION_FAR_REPORTS">Розвідники повідомляють, що в провінції збирається вороже військо</String>
@@ -6712,8 +6712,8 @@
 <!--**** Health Advisor ****-->
 <String id="HELA_SUMMARY_CITY_WIDE_HEALTH_RISK_1">Мешканці міста абсолютно здорові.</String>
 <String id="HELA_SUMMARY_CITY_WIDE_HEALTH_RISK_2">У місті є кілька хворих.</String>
-<String id="HELA_SUMMARY_CITY_WIDE_HEALTH_RISK_3">Варто подбати про здоров'я городян.</String>
-<String id="HELA_SUMMARY_CITY_WIDE_HEALTH_RISK_4">Здоров'я городян у небезпеці!</String>
+<String id="HELA_SUMMARY_CITY_WIDE_HEALTH_RISK_3">Варто подбати про здоров'я містян.</String>
+<String id="HELA_SUMMARY_CITY_WIDE_HEALTH_RISK_4">Здоров'я містян у небезпеці!</String>
 <String id="HELA_SUMMARY_CITY_WIDE_HEALTH_RISK_5">Жителям міста загрожує смерть від хвороб та епідемій.</String>
 
 <String id="HELA_SUMMARY_NUTRITION_STATUS_1">Жителям міста потрібне здорове харчування. Інакше підвищиться ризик захворювань та епідемій.</String>
@@ -6882,7 +6882,7 @@
 <String id="EDA_COVERAGE_6">Повна</String>
 
 <String id="TT_EDA_SUMMARY_STATUS">Якість освіти у місті. Освічені громадяни рідше стають злочинцями.</String>
-<String id="TT_EDA_COVERAGE_LABEL">Доступність освіти для городян</String>
+<String id="TT_EDA_COVERAGE_LABEL">Доступність освіти для містян</String>
 <String id="TT_EDA_SUMMARY_SCHOOLS_TOTAL">Кількість працюючих шкіл</String>
 <String id="TT_EDA_SUMMARY_LIBRARIES_TOTAL">Кількість працюючих бібліотек</String>
 <String id="TT_EDA_LIBRARIES_COVERAGE">Доступність бібліотек у місті. Детальна інформація – у звіті про освіту.</String>
@@ -6900,7 +6900,7 @@
 <String id="ENTA_ENTERTAINMENT_2">Мало хто захоче тут жити. У місті майже немає видовищ.</String>
 <String id="ENTA_ENTERTAINMENT_3">У місті недостатньо видовищ.</String>
 <String id="ENTA_ENTERTAINMENT_4">Містянам потрібно більше видовищ.</String>
-<String id="ENTA_ENTERTAINMENT_BONUS">У місті влаштовується стільки уявлень, що люди із задоволенням переїжджають сюди!</String>
+<String id="ENTA_ENTERTAINMENT_BONUS">У місті влаштовується стільки вистав, що люди із задоволенням переїжджають сюди!</String>
 <String id="ENTA_ENTERTAINMENT_ADEQUATE">У місті достатньо видовищ.</String>
 
 <!--Note: Це буде better if these used the singular/plural names at the top of the file-->
@@ -6938,7 +6938,7 @@
 <String id="TT_ENTA_SUMMARY_CIRCUS_TOTAL">Кількість працюючих цирків</String>
 <String id="TT_ENTA_SUMMARY_CIRCUS_ACTIVE">Кількість відкритих цирків</String>
 <String id="TT_EDA_SUMMARY_STATUS">Кількість та якість видовищ у місті. Якщо видовищ бракує, до міста не приїжджатимуть люди.</String>
-<String id="TT_EDA_COVERAGE_LABEL">Доступність видовищ для городян</String>
+<String id="TT_EDA_COVERAGE_LABEL">Доступність видовищ для містян</String>
 
 <!--****************-->
 <!--**** Legion Advisor ****-->
@@ -7178,7 +7178,7 @@
 
 <String id="EV_WIN_STAT_HAPPINESS_LABEL">Популярність</String>
 
-<String id="TT_EV_WIN_STAT_HAPPINESS_STRING">Твоя популярність серед городян</String>
+<String id="TT_EV_WIN_STAT_HAPPINESS_STRING">Твоя популярність серед містян</String>
 
 <String id="EV_WIN_STAT_CULTURE_LABEL">Культура</String>
 
@@ -7207,7 +7207,7 @@
 <String id="TT_EV_WIN_STAT_RANK_ONLINE_STRING">Ваші останні досягнення завантажені в розділ "Ранг"!</String>
 <String id="TT_EV_WIN_STAT_PERSONAL_FUNDS_ONLINE_VALUE">Ваші останні досягнення завантажені в розділ "Особисті заощадження"!</String>
 <String id="TT_EV_WIN_STAT_POPULATION_ONLINE_VALUE">Ваші останні досягнення завантажені в розділ "Населення"!</String>
-<String id="TT_EV_WIN_STAT_HAPPINESS_ONLINE_STRING">Останні досягнення занесені до розділу "Лояльність городян"</String>
+<String id="TT_EV_WIN_STAT_HAPPINESS_ONLINE_STRING">Останні досягнення занесені до розділу "Лояльність містян"</String>
 <String id="TT_EV_WIN_STAT_CULTURE_ONLINE_VALUE">Останні досягнення занесені до розділу "Рівень культури"</String>
 <String id="TT_EV_WIN_STAT_SECURITY_ONLINE_VALUE">Останні досягнення занесені до розділу "Безпека"</String>
 <String id="TT_EV_WIN_STAT_PROSPERITY_ONLINE_VALUE">Останні досягнення занесені до розділу "Рівень процвітання"</String>

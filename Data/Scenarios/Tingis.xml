@@ -32,7 +32,7 @@
     <String id="REQUEST_3_FAILURE">Тобі не вдалося виконати вимоги Риму, і його вподобання знизилося.</String>
     <String id="REQUEST_4_TITLE">ORD_L вино</String>
     <String id="REQUEST_4_HEADING">Рим вимагає надіслати вино</String>
-    <String id="REQUEST_4_BODY">Рим висуває нові вимоги. Терміново прийшла партія вина.</String>
+    <String id="REQUEST_4_BODY">Рим висуває нові вимоги. Терміново прийшли партію вина.</String>
     <String id="REQUEST_4_FAILURE">Тобі не вдалося виконати вимоги Риму, і його вподобання знизилося.</String>
     <String id="REQUEST_5_TITLE">REQ_F зерно</String>
     <String id="REQUEST_5_HEADING">Запит на їжу</String>
