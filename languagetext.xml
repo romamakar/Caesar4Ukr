@@ -218,7 +218,7 @@
 <String id="ONE_FACTORY_JEWELRY">Ювелірна майстерня</String>
 <String id="ONE_FACTORY_OLIVE_OIL">Маслобійня</String>
 <String id="ONE_FACTORY_POTTERY">Гончарна майстерня</String>
-<String id="ONE_FACTORY_UTENSILS">Скоб'яна майстерня</String>
+<String id="ONE_FACTORY_UTENSILS">Майстерня начиння</String>
 <String id="ONE_FACTORY_WEAPONS">Кузня</String>
 <String id="ONE_FACTORY_WINE">Виноробня</String>
 <String id="ONE_BRIDGE_ARCH">Арковий фрагмент мосту</String>
@@ -243,12 +243,12 @@
 <String id="MANY_GRAPE_FARMER_HOUSE">Виноградні ферми</String>
 <String id="ONE_IRON_MINER_HOUSE">Табір рудокопів</String>
 <String id="MANY_IRON_MINER_HOUSE">Табори рудокопів</String>
-<String id="ONE_LIVESTOCK_FARMER_HOUSE">Скотний двір</String>
-<String id="MANY_LIVESTOCK_FARMER_HOUSE">Скотські двори</String>
+<String id="ONE_LIVESTOCK_FARMER_HOUSE">Ферма худоби</String>
+<String id="MANY_LIVESTOCK_FARMER_HOUSE">Ферми худоби</String>
 <String id="ONE_OLIVES_FARMER_HOUSE">Оливкова ферма</String>
 <String id="MANY_OLIVES_FARMER_HOUSE">Оливкові ферми</String>
-<String id="ONE_SAND_COLLECTOR_HOUSE">Табір землекопів</String>
-<String id="MANY_SAND_COLLECTOR_HOUSE">Табори землекопів</String>
+<String id="ONE_SAND_COLLECTOR_HOUSE">Табір піскокопів</String>
+<String id="MANY_SAND_COLLECTOR_HOUSE">Табори піскокопів</String>
 <String id="ONE_TIMBER_MILLER_HOUSE">Табір дроворубів</String>
 <String id="MANY_TIMBER_MILLER_HOUSE">Табори дроворубів</String>
 <String id="ONE_VEGETABLE_FARMER_HOUSE">Овочева ферма</String>
@@ -364,7 +364,7 @@
 <String id="ONE_SHRINE_MARS">Святилище Марса</String>
 <String id="ONE_TEMPLE_MARS">Храм Марсу</String>
 <String id="ONE_SHRINE_MERCURY">Святилище Меркурія</String>
-<String id="ONE_TEMPLE_MERCURY">Храм Меркурію</String>
+<String id="ONE_TEMPLE_MERCURY">Храм Меркурія</String>
 <String id="ONE_SHRINE_CERES">Святилище Церери</String>
 <String id="ONE_TEMPLE_CERES">Храм Церери</String>
 <String id="ONE_SHRINE_BACCHUS">Святилище Бахуса</String>
@@ -383,18 +383,18 @@
 <String id="ONE_FORT_AUXILIA">Форт лучників</String>
 <String id="ONE_FORT_INFANTRY_HVY">Форт важкої піхоти</String>
 <String id="ONE_FORT_INFANTRY_LT">Форт легкої піхоти</String>
-<String id="ONE_DRILL_YARD">Армія</String>
+<String id="ONE_DRILL_YARD">Плац</String>
 <String id="ONE_MESS_HALL">Їдальня</String>
 <String id="ONE_ARMORY">Призовний пункт</String>
-<String id="ONE_FORT_AUXILIA_CAVALRY">Форт сп. кавалерії</String>
-<String id="ONE_FORT_CONT">Форт всп. кавалерії</String>
+<String id="ONE_FORT_AUXILIA_CAVALRY">Форт кавалерії</String>
+<String id="ONE_FORT_CONT">Форт кавалерії</String>
 <String id="MANY_FORT_AUXILIA">Форти лучників</String>
 <String id="MANY_FORT_INFANTRY_HVY">Форти важкої піхоти</String>
 <String id="MANY_FORT_INFANTRY_LT">Форти легкої піхоти</String>
 <String id="MANY_DRILL_YARD">Плаци</String>
 <String id="MANY_MESS_HALL">Столові</String>
 <String id="MANY_ARMORY">Призовні пункти</String>
-<String id="MANY_FORT_AUXILIA_CAVALRY">Форти сп. кавалерії</String>
+<String id="MANY_FORT_AUXILIA_CAVALRY">Форти кавалерії</String>
 <String id="ONE_OFFICE_PRAEFECT">Префектура</String>
 <String id="ONE_OFFICE_ENGINEER">Інженерний пост</String>
 <String id="ONE_OFFICE_TAX_COLLECTOR">Пост митаря</String>
@@ -415,7 +415,7 @@
 <String id="EDIT_TRAINING_ACTOR">Актор на навчанні</String>
 <String id="EDIT_TRAINING_GLADIATOR">Гладіатор на навчанні</String>
 <String id="EDIT_TRAINING_ANIMAL">Тварина на дресируванні</String>
-<String id="EDIT_TRAINING_CHARIOTEER">Колесничий на навчанні</String>
+<String id="EDIT_TRAINING_CHARIOTEER">Колісничий на навчанні</String>
 <String id="ONE_RUBBLE_EQUITE_2">Будинок вершників</String>
 <String id="ONE_RUBBLE_EQUITE_1">Будинок вершників</String>
 <String id="ONE_RUBBLE_VILLA_1">Вілла 1</String>
@@ -457,18 +457,18 @@
 <String id="ONE_SCHOLAR">Вчений</String>
 <String id="ONE_TAX_COLLECTOR">Митар</String>
 <String id="ONE_GOVERNOR">Правитель</String>
-<String id="ONE_HARVESTER_DIGGER_CLAY">Здобувач глини</String>
-<String id="ONE_HARVESTER_MINER_GOLD">Старий</String>
-<String id="ONE_HARVESTER_FARMER_GRAIN">Ората</String>
+<String id="ONE_HARVESTER_DIGGER_CLAY">Видобувач глини</String>
+<String id="ONE_HARVESTER_MINER_GOLD">Видобувач золотв</String>
+<String id="ONE_HARVESTER_FARMER_GRAIN">Орач</String>
 <String id="ONE_HARVESTER_FARMER_GRAPE">Виноградар</String>
 <String id="ONE_HARVESTER_MINER_IRON">Рудокоп</String>
-<String id="ONE_HARVESTER_FARMER_LIVESTOCK">Скотник</String>
+<String id="ONE_HARVESTER_FARMER_LIVESTOCK">Скотар</String>
 <String id="ONE_HARVESTER_FARMER_OLIVE">Збирач оливок</String>
-<String id="ONE_HARVESTER_DIGGER_SAND">Землекоп</String>
+<String id="ONE_HARVESTER_DIGGER_SAND">Піскокоп</String>
 <String id="ONE_HARVESTER_CUTTER_TIMBER">Дровосік</String>
 <String id="ONE_HARVESTER_FARMER_VEGETABLE">Огородник</String>
-<String id="ONE_HARVESTER_FARMER_WOOL">Вівчарь</String>
-<String id="ONE_HARVESTER_MARBLE">Каменотес</String>
+<String id="ONE_HARVESTER_FARMER_WOOL">Вівчар</String>
+<String id="ONE_HARVESTER_MARBLE">Каменяр</String>
 <String id="ONE_PATRICIAN">Патрицій</String>
 <String id="ONE_PATRICIAN_WIFE">Матрона</String>
 <String id="ONE_PLEBIAN">Плебей</String>
@@ -481,55 +481,55 @@
 <String id="PATRICIAN_MIGRATING">Патрицій-іммігрант</String>
 <!--ONE_PLEBE_MIGRATING, "xPleb Migrant"-->
 <!--ONE_PATRICIAN_MIGRATING, "xPatrician Migrant"-->
-<String id="ONE_PLEB_MAKER_ARMOR">Робочий майстерень обладунків</String>
-<String id="ONE_PLEB_MAKER_CLOTHING">Робочий ткацької майстерні</String>
-<String id="ONE_PLEB_MAKER_FURNITURE">Робочий меблевий майстерень</String>
-<String id="ONE_PLEB_MAKER_GLASS">Робочий скляній майстерні</String>
-<String id="ONE_PLEB_MAKER_JEWELRY">Робочий ювелірний майстерень</String>
-<String id="ONE_PLEB_MAKER_OIL">Робочий олійниці</String>
-<String id="ONE_PLEB_MAKER_POTTERY">Робочий гончарної майстерні</String>
-<String id="ONE_PLEB_MAKER_UTENSILS">Робочий майстерень начиння</String>
-<String id="ONE_PLEB_MAKER_WEAPONS">Робочий кузні</String>
-<String id="ONE_PLEB_MAKER_WINE">Робочий виноробні</String>
-<String id="ONE_PLEB_RETRIEVER">xРозвізник</String>
-<String id="ONE_PLEB_RETRIEVER_GRANARY">Робочий житниці</String>
-<String id="ONE_PLEB_RETRIEVER_WEREHOUSE">Робочий склад</String>
-<String id="ONE_PLEB_RETRIEVER_DOCK">Робочий пристані</String>
-<String id="ONE_PLEB_RETRIEVER_DEPOT">Робочий торговельний склад</String>
-<String id="ONE_PLEB_RETRIEVER_MIL_MESS_HALL">Робочий їдальні</String>
-<String id="ONE_PLEB_RETRIEVER_MIL_ARMORY">Робочий призовний пункт</String>
-<String id="ONE_PLEB_RETRIEVER_MARKET">Робочий ринок</String>
-<String id="ONE_PLEB_RETRIEVER_MARKET_FOOD">Робочий ринок</String>
+<String id="ONE_PLEB_MAKER_ARMOR">Робітник майстерень обладунків</String>
+<String id="ONE_PLEB_MAKER_CLOTHING">Робітник ткацької майстерні</String>
+<String id="ONE_PLEB_MAKER_FURNITURE">Робітник меблевої майстерні</String>
+<String id="ONE_PLEB_MAKER_GLASS">Робітник скляної майстерні</String>
+<String id="ONE_PLEB_MAKER_JEWELRY">Робітник ювелірної майстерні</String>
+<String id="ONE_PLEB_MAKER_OIL">Робітник олійниці</String>
+<String id="ONE_PLEB_MAKER_POTTERY">Робітник гончарної майстерні</String>
+<String id="ONE_PLEB_MAKER_UTENSILS">Робітник майстерні начиння</String>
+<String id="ONE_PLEB_MAKER_WEAPONS">Робітник кузні</String>
+<String id="ONE_PLEB_MAKER_WINE">Робітник виноробні</String>
+<String id="ONE_PLEB_RETRIEVER">Розвізник</String>
+<String id="ONE_PLEB_RETRIEVER_GRANARY">Робітник житниці</String>
+<String id="ONE_PLEB_RETRIEVER_WEREHOUSE">Робітник складу</String>
+<String id="ONE_PLEB_RETRIEVER_DOCK">Робітник пристані</String>
+<String id="ONE_PLEB_RETRIEVER_DEPOT">Комірник</String>
+<String id="ONE_PLEB_RETRIEVER_MIL_MESS_HALL">Робітник їдальні</String>
+<String id="ONE_PLEB_RETRIEVER_MIL_ARMORY">Військом</String>
+<String id="ONE_PLEB_RETRIEVER_MARKET">Робітник ринку</String>
+<String id="ONE_PLEB_RETRIEVER_MARKET_FOOD">Робітник ринку</String>
 <!-- Aug 18 Повернуті гроші до шортен name -->
-<String id="ONE_PLEB_RETRIEVER_MARKET_BASIC">Робочий базар</String>
-<String id="ONE_PLEB_RETRIEVER_MARKET_LUXURY">Робочий торгових рядів</String>
-<String id="ONE_PLEB_RETRIEVER_MARKET_EXOTIC">Робочий купецький базар</String>
-<String id="MANY_PLEB_RETRIEVER_MARKET">Робочі ринки</String>
-<String id="ONE_TRAIN_RETRIEVER">Робочий</String>
-<String id="ONE_TRAIN_RETRIEVER_ACTOR">Робочі школи</String>
-<String id="ONE_TRAIN_RETRIEVER_GLADIATOR">Робочі школи</String>
-<String id="ONE_TRAIN_RETRIEVER_CHARIOTEER">Робочі школи</String>
-<String id="ONE_TRAIN_RETRIEVER_ANIMAL">Робочі школи</String>
+<String id="ONE_PLEB_RETRIEVER_MARKET_BASIC">Робітник базару</String>
+<String id="ONE_PLEB_RETRIEVER_MARKET_LUXURY">Робітник торгових рядів</String>
+<String id="ONE_PLEB_RETRIEVER_MARKET_EXOTIC">Робітник купецький базар</String>
+<String id="MANY_PLEB_RETRIEVER_MARKET">Робітники ринків</String>
+<String id="ONE_TRAIN_RETRIEVER">Робітник</String>
+<String id="ONE_TRAIN_RETRIEVER_ACTOR">Робітник школи</String>
+<String id="ONE_TRAIN_RETRIEVER_GLADIATOR">Робітник школи</String>
+<String id="ONE_TRAIN_RETRIEVER_CHARIOTEER">Робітник школи</String>
+<String id="ONE_TRAIN_RETRIEVER_ANIMAL">Робітник школи</String>
 <String id="ONE_FORT_GATHERER">Наглядач форту</String>
 <String id="ONE_EQUES_RETRIEVER">xВершник</String>
 <String id="MANY_EQUES_RETRIEVER">xВершники</String>
 <String id="EDIT_EQUES_RETRIEVER">xВершник</String>
-<String id="ONE_PLEB_SERVICE_ODEUM">Робочий одеона</String>
-<String id="ONE_PLEB_SERVICE_ARENA">Робочий арени</String>
-<String id="ONE_PLEB_SERVICE_BARBER">Робочий цирульні</String>
-<String id="ONE_PLEB_SERVICE_BASILICA">Робочий базилік</String>
-<String id="ONE_PLEB_SERVICE_BATHHOUSE">Робочий терм</String>
-<String id="ONE_PLEB_SERVICE_CIRCUS">Робочий цирок</String>
-<String id="ONE_PLEB_SERVICE_FORUM">Робочий форум</String>
-<String id="ONE_PLEB_SERVICE_HOSPITAL">Робочий лікарні</String>
-<String id="ONE_PLEB_SERVICE_LIBRARY">Робочий бібліотеки</String>
-<String id="ONE_PLEB_SERVICE_RESERVOIR">Робочий цистерни</String>
-<String id="ONE_PLEB_SERVICE_SCHOOL">Робочі школи</String>
-<String id="ONE_PLEB_SERVICE_SHRINE">Робочий святилища</String>
-<String id="ONE_PLEB_SERVICE_TEMPLE">Робочий храм</String>
-<String id="ONE_PLEB_SERVICE_THEATER">Робочий театр</String>
+<String id="ONE_PLEB_SERVICE_ODEUM">Робітник одеона</String>
+<String id="ONE_PLEB_SERVICE_ARENA">Робітник арени</String>
+<String id="ONE_PLEB_SERVICE_BARBER">Робітник цирульні</String>
+<String id="ONE_PLEB_SERVICE_BASILICA">Робітник базилік</String>
+<String id="ONE_PLEB_SERVICE_BATHHOUSE">Робітник терм</String>
+<String id="ONE_PLEB_SERVICE_CIRCUS">Робітник цирку</String>
+<String id="ONE_PLEB_SERVICE_FORUM">Робітник форуму</String>
+<String id="ONE_PLEB_SERVICE_HOSPITAL">Робітник лікарні</String>
+<String id="ONE_PLEB_SERVICE_LIBRARY">Робітник бібліотеки</String>
+<String id="ONE_PLEB_SERVICE_RESERVOIR">Робітник цистерни</String>
+<String id="ONE_PLEB_SERVICE_SCHOOL">Робітники школи</String>
+<String id="ONE_PLEB_SERVICE_SHRINE">Робітник святилища</String>
+<String id="ONE_PLEB_SERVICE_TEMPLE">Робітник храм</String>
+<String id="ONE_PLEB_SERVICE_THEATER">Робітник театр</String>
 <String id="ONE_PLEB_SERVICE_TOWER">Стражник</String>
-<String id="ONE_PLEB_WORKER_CLINIC">Робочий лікарні</String>
+<String id="ONE_PLEB_WORKER_CLINIC">Робітник лікарні</String>
 
 <String id="ONE_BEGGAR">Жебрак</String>
 <String id="ONE_BURGLAR">Злодій</String>
@@ -549,55 +549,55 @@
 <String id="MANY_ENGINEER">Інженери</String>
 <String id="MANY_GLADIATOR">Гладіатори</String>
 <String id="MANY_GOVERNOR">Правителі</String>
-<String id="MANY_HARVESTER_CUTTER_TIMBER">Дровосіки</String>
-<String id="MANY_HARVESTER_DIGGER_CLAY">Здобувачі глини</String>
-<String id="MANY_HARVESTER_DIGGER_SAND">Землекопи</String>
-<String id="MANY_HARVESTER_FARMER_GRAIN">Ораті</String>
+<String id="MANY_HARVESTER_CUTTER_TIMBER">Дроворуби</String>
+<String id="MANY_HARVESTER_DIGGER_CLAY">Видобувачі глини</String>
+<String id="MANY_HARVESTER_DIGGER_SAND">Піскокопи</String>
+<String id="MANY_HARVESTER_FARMER_GRAIN">Орачі</String>
 <String id="MANY_HARVESTER_FARMER_GRAPE">Виноградарі</String>
-<String id="MANY_HARVESTER_FARMER_LIVESTOCK">Скотодиводи</String>
+<String id="MANY_HARVESTER_FARMER_LIVESTOCK">Скотарі</String>
 <String id="MANY_HARVESTER_FARMER_OLIVE">Збирачі оливок</String>
 <String id="MANY_HARVESTER_FARMER_VEGETABLE">Огородники</String>
 <String id="MANY_HARVESTER_FARMER_WOOL">Вівчарі</String>
-<String id="MANY_HARVESTER_MARBLE">Каменотеси</String>
-<String id="MANY_HARVESTER_MINER_GOLD">Старотники</String>
+<String id="MANY_HARVESTER_MARBLE">Каменярі</String>
+<String id="MANY_HARVESTER_MINER_GOLD">Золотокопачі</String>
 <String id="MANY_HARVESTER_MINER_IRON">Рудокопи</String>
-<String id="MANY_HARVESTER_MARBLE">Каменотеси</String>
+<String id="MANY_HARVESTER_MARBLE">Каменярі</String>
 <String id="MANY_HYGIENIST">Інспектори</String>
 <String id="MANY_MAGISTRATE">Судді</String>
 <String id="MANY_MC_WIFE">Дружини вершників</String>
 <String id="MC_MIGRATING">Вершники-іммігранти</String>
-<String id="MANY_PATRICIAN_WIFE">Матрони</String>
+<String id="MANY_PATRICIAN_WIFE">Дружини патрицій</String>
 <String id="MANY_PATRICIAN">Патриції</String>
 <String id="PATRICIAN_MIGRATING">Патриції-іммігранти</String>
 <String id="MANY_SOLDIER_MIGRATING">Рекрути</String>
 <String id="MANY_PHYSICIAN">Лікарі</String>
-<String id="MANY_PLEB_MAKER_ARMOR">Робочі майстерні обладунків</String>
-<String id="MANY_PLEB_MAKER_CLOTHING">Робочі ткацької майстерні</String>
-<String id="MANY_PLEB_MAKER_FURNITURE">Робочі меблевої майстерні</String>
-<String id="MANY_PLEB_MAKER_GLASS">Робочі скляні майстерні</String>
-<String id="MANY_PLEB_MAKER_JEWELRY">Робочі ювелірні майстерні</String>
-<String id="MANY_PLEB_MAKER_OIL">Робочі олійниці</String>
-<String id="MANY_PLEB_MAKER_POTTERY">Робочі гончарні майстерні</String>
-<String id="MANY_PLEB_MAKER_UTENSILS">Робочі майстерні начиння</String>
-<String id="MANY_PLEB_MAKER_WEAPONS">Робочі кузні</String>
-<String id="MANY_PLEB_MAKER_WINE">Робочі виноробні</String>
+<String id="MANY_PLEB_MAKER_ARMOR">Робітники майстерні обладунків</String>
+<String id="MANY_PLEB_MAKER_CLOTHING">Робітники ткацької майстерні</String>
+<String id="MANY_PLEB_MAKER_FURNITURE">Робітники меблевої майстерні</String>
+<String id="MANY_PLEB_MAKER_GLASS">Робітники скляної майстерні</String>
+<String id="MANY_PLEB_MAKER_JEWELRY">Робітники ювелірної майстерні</String>
+<String id="MANY_PLEB_MAKER_OIL">Робітники олійниці</String>
+<String id="MANY_PLEB_MAKER_POTTERY">Робітники гончарні</String>
+<String id="MANY_PLEB_MAKER_UTENSILS">Робітники майстерні начиння</String>
+<String id="MANY_PLEB_MAKER_WEAPONS">Робітники кузні</String>
+<String id="MANY_PLEB_MAKER_WINE">Робітники виноробні</String>
 <String id="PLEBE_MIGRATING">Плебеї-іммігранти</String>
 <String id="MANY_PLEB_RETRIEVER">Робочі</String>
-<String id="MANY_PLEB_SERVICE_ARENA">Робочі арени</String>
-<String id="MANY_PLEB_SERVICE_BARBER">Робочі цирульні</String>
-<String id="MANY_PLEB_SERVICE_BASILICA">Робочі базиліки</String>
-<String id="MANY_PLEB_SERVICE_BATHHOUSE">Робочі терм</String>
-<String id="MANY_PLEB_SERVICE_CIRCUS">Робочі цирки</String>
-<String id="MANY_PLEB_WORKER_CLINIC">Робочі лікарні</String>
-<String id="MANY_PLEB_SERVICE_FORUM">Робочі форуми</String>
-<String id="MANY_PLEB_SERVICE_HOSPITAL">Робочі лікарні</String>
-<String id="MANY_PLEB_SERVICE_LIBRARY">Робочі бібліотеки</String>
+<String id="MANY_PLEB_SERVICE_ARENA">Робітники арени</String>
+<String id="MANY_PLEB_SERVICE_BARBER">Робітники цирульні</String>
+<String id="MANY_PLEB_SERVICE_BASILICA">Робітники базиліки</String>
+<String id="MANY_PLEB_SERVICE_BATHHOUSE">Робітники терм</String>
+<String id="MANY_PLEB_SERVICE_CIRCUS">Робітники цирків</String>
+<String id="MANY_PLEB_WORKER_CLINIC">Робітники лікарні</String>
+<String id="MANY_PLEB_SERVICE_FORUM">Робітники форуму</String>
+<String id="MANY_PLEB_SERVICE_HOSPITAL">Робітники лікарні</String>
+<String id="MANY_PLEB_SERVICE_LIBRARY">Робітники бібліотеки</String>
 <String id="MANY_PLEB_SERVICE_RESERVOIR">Робочі цистерни</String>
-<String id="MANY_PLEB_SERVICE_SCHOOL">Робочі школи</String>
-<String id="MANY_PLEB_SERVICE_SHRINE">Робочі святилища</String>
-<String id="MANY_PLEB_SERVICE_TEMPLE">Робочі храми</String>
-<String id="MANY_PLEB_SERVICE_THEATER">Робочі театри</String>
-<String id="MANY_PLEB_SERVICE_TOWER">Робочі вежі</String>
+<String id="MANY_PLEB_SERVICE_SCHOOL">Робітники школи</String>
+<String id="MANY_PLEB_SERVICE_SHRINE">Робітники святилища</String>
+<String id="MANY_PLEB_SERVICE_TEMPLE">Робітники храму</String>
+<String id="MANY_PLEB_SERVICE_THEATER">Робітники театру</String>
+<String id="MANY_PLEB_SERVICE_TOWER">Робітники вежі</String>
 <String id="MANY_PLEB_WIFE">Плебейки</String>
 <String id="MANY_PLEBIAN">Плебеї</String>
 <String id="MANY_PRAEFECT">Префекти</String>
@@ -607,7 +607,7 @@
 
 <!--*****Description Resource Harvest Sites ************-->
 <String id="R_SITE_CLAY">Глиняні копальні</String>
-<String id="R_SITE_GOLD">Золотий копальня</String>
+<String id="R_SITE_GOLD">Золота копальня</String>
 <String id="R_SITE_GRAIN">Пшеничне поле</String>
 <String id="R_SITE_GRAPE">Виноградник</String>
 <String id="R_SITE_IRON">Залізна копальня</String>
@@ -619,7 +619,7 @@
 <String id="R_SITE_SHEEP">Пасовище для овець</String>
 <String id="R_SITE_MARBLE">Мармуровий кар'єр</String>
 <String id="R_SITE_CLAY_PLURAL">Глиняні копальні</String>
-<String id="R_SITE_GOLD_PLURAL">Золоті копальня</String>
+<String id="R_SITE_GOLD_PLURAL">Золоті копальні</String>
 <String id="R_SITE_GRAIN_PLURAL">Пшеничні поля</String>
 <String id="R_SITE_GRAPE_PLURAL">Виноградники</String>
 <String id="R_SITE_IRON_PLURAL">Залізні рудники</String>
@@ -730,10 +730,10 @@
 <String id="ONE_CATAPULT_AMMO">Снаряд</String>
 
 <!--***** C4 Terrain Names ***********-->
-<String id="C4_ARABLE">Оорна земля</String>
+<String id="C4_ARABLE">Орна земля</String>
 <String id="PL_ARABLE">Рілля</String>
 <String id="C4_TERRAIN_GRASS">C4 Базовий ландшафт</String>
-<String id="C4_PLOWED">Ролота</String>
+<String id="C4_PLOWED">Рілля</String>
 <String id="C4_GRASS">Трава</String>
 <String id="C4_GRASS_TO_DESERT">Трава та пустеля</String>
 <String id="C4_GRASS_TO_DESERT_2">Трава та пустеля 2</String>
@@ -741,9 +741,9 @@
 <String id="C4_GRASS_TO_SCRUB">Трава та чагарник</String>
 <String id="C4_DESERT">Пустеля</String>
 <String id="C4_MUD">Бруд</String>
-<String id="C4_SCRUB">Чарівник</String>
-<String id="C4_CLIFF">Кут</String>
-<String id="C4_CLIFFB">Крута Б</String>
+<String id="C4_SCRUB">Чагарник</String>
+<String id="C4_CLIFF">Бескиж</String>
+<String id="C4_CLIFFB">Бескид Б</String>
 <String id="C4_ROAD_TOP_LEFT">Верхній поворот ліворуч</String>
 <String id="C4_ROAD_TOP_T">Відгалуження вниз</String>
 <String id="C4_ROAD_TOP_RIGHT">Верхній поворот праворуч</String>
@@ -761,12 +761,12 @@
 <String id="C4_AMBIENT_FOREST">Ділянка лісу</String>
 <String id="C4_AMBIENT_FOREST_LT">Ділянка рідкісного лісу</String>
 <String id="C4_AMBIENT_GRASS">Дільниця галявини</String>
-<String id="C4_AMBIENT_GRASS_LT">Ділянка рідкісного лужка</String>
+<String id="C4_AMBIENT_GRASS_LT">Ділянка рідкісної галявини</String>
 <String id="C4_AMBIENT_ROCKY">Ділянка скель</String>
 <String id="C4_AMBIENT_MARSH">Ділянка болота</String>
 <String id="C4_AMBIENT_MARSH_LT">Дільниця дрібного болота</String>
 <String id="C4_AMBIENT_SCRUB_DARK">Зарості</String>
-<String id="C4_AMBIENT_SCRUB">Хущник</String>
+<String id="C4_AMBIENT_SCRUB">Чагарник</String>
 <String id="PL_AMBIENT_FOREST">Ліс</String>
 <String id="PL_AMBIENT_FOREST_LT">Рідкісний ліс</String>
 <String id="PL_AMBIENT_GRASS">Трава</String>
@@ -777,7 +777,7 @@
 
 <!--***** EXTRA TERRAIN NAMES*******-->
 <!--might be legacy-->
-<String id="41995">Релянка</String>
+<String id="41995">Рілля</String>
 <String id="41996">Родюча земля</String>
 <String id="41997">Грунт (декор.)</String>
 <String id="41998">Глина (декор.)</String>
@@ -786,8 +786,8 @@
 <!--************* AMBIENT TERRAIN SPRITES ********-->
 <!--*** Цей розділ використовується в editor-->
 <String id="ONE_AMB_CLOUD">Хмара</String>
-<String id="ONE_AMB_SCRUB_DARK_1">Чарівник 1</String>
-<String id="ONE_AMB_SCRUB_DARK_2">Чарівник 2</String>
+<String id="ONE_AMB_SCRUB_DARK_1">Чагарник 1</String>
+<String id="ONE_AMB_SCRUB_DARK_2">Чагарник 2</String>
 <String id="ONE_AMB_DEEP_WATER">Глибоководні рослини</String>
 <String id="ONE_AMB_WEEDS_1">Бур'яни</String>
 <String id="ONE_AMB_WEEDS_EDGE_1">Ворості - кордон</String>
@@ -795,8 +795,8 @@
 <String id="ONE_AMB_GRASS_EDGE_1">Трава - кордон</String>
 <String id="ONE_AMB_BUSH_1">Кущі</String>
 <String id="ONE_AMB_BUSH_EDGE_1">Кущі - кордон</String>
-<String id="ONE_AMB_TREE_CYPRESSGROVE_1">Кіпариси</String>
-<String id="ONE_AMB_TREE_CYPRESS_1">Кіпаріс</String>
+<String id="ONE_AMB_TREE_CYPRESSGROVE_1">Кипариси</String>
+<String id="ONE_AMB_TREE_CYPRESS_1">Кипарис</String>
 <String id="ONE_AMB_TREE_1">Дерева листяні</String>
 <String id="ONE_AMB_COAST_1">Узбережжя 1 Скелі 2</String>
 <String id="ONE_AMB_COAST_THIN_1">Узбережжя 0 Скелі 1</String>
@@ -847,10 +847,10 @@
 <!--**** Цей розділ використовується в game-->
 <String id="ONE_AMB_WATERFALL_IN_GAME">Водоспад</String>
 <String id="ONE_AMB_BUSH_1_IN_GAME">Кущі</String>
-<String id="ONE_AMB_BUSH_EDGE_1_IN_GAME">Кусти</String>
-<String id="ONE_AMB_CLIFF_LARGE_IN_GAME">Крута висока</String>
-<String id="ONE_AMB_CLIFF_MEDIUM_IN_GAME">Кут</String>
-<String id="ONE_AMB_CLIFF_SMALL_IN_GAME">Книга низька</String>
+<String id="ONE_AMB_BUSH_EDGE_1_IN_GAME">Кущі</String>
+<String id="ONE_AMB_CLIFF_LARGE_IN_GAME">Високий кущ</String>
+<String id="ONE_AMB_CLIFF_MEDIUM_IN_GAME">Кущ</String>
+<String id="ONE_AMB_CLIFF_SMALL_IN_GAME">Низький кущ</String>
 <String id="ONE_AMB_CLOUD_IN_GAME">Хмара</String>
 <String id="ONE_AMB_COAST_1_IN_GAME">Берег</String>
 <String id="ONE_AMB_COAST_THIN_1_IN_GAME">Берег</String>
@@ -874,8 +874,8 @@
 <String id="ONE_AMB_ROCKS_DESERT_CORE_IN_GAME">Скелі</String>
 <String id="ONE_AMB_ROCKS_DESERT_EDGE_IN_GAME">Скелі</String>
 <String id="AMB_ROCKS_EDGE_IN_GAME">Скелі</String>
-<String id="ONE_AMB_SCRUB_DARK_1_IN_GAME">Зарості</String>
-<String id="ONE_AMB_SCRUB_DARK_2_IN_GAME">Зарості</String>
+<String id="ONE_AMB_SCRUB_DARK_1_IN_GAME">Хащі</String>
+<String id="ONE_AMB_SCRUB_DARK_2_IN_GAME">Хащі</String>
 <String id="ONE_AMB_TREE_1_IN_GAME">Дерево</String>
 <String id="ONE_AMB_TREE_CYPRESS_1_IN_GAME">Дерево</String>
 <String id="ONE_AMB_TREE_CYPRESSGROVE_1_IN_GAME">Дерево</String>
@@ -927,17 +927,17 @@
 <String id="UNIT_SET_COMMERCE_BUILDINGS">Будівлі: торгівля</String>
 <String id="UNIT_SET_INDUSTRY_BUILDINGS">Будівлі: виробництво</String>
 <String id="UNIT_SET_SHOP_BUILDINGS">Будинки: ринок</String>
-<String id="UNIT_SET_COMMON_SHOP_BUILDINGS">Магазини: начиння</String>
+<String id="UNIT_SET_COMMON_SHOP_BUILDINGS">Магазини: товари для дому</String>
 <String id="UNIT_SET_LUXURY_SHOP_BUILDINGS">Магазини: предмети розкоші</String>
 <String id="UNIT_SET_EXOTIC_SHOP_BUILDINGS">Магазини: екзотичні товари</String>
 <String id="UNIT_SET_FOOD_SHOPS">Покупки: їжа</String>
-<String id="UNIT_SET_FACTORY_BUILDINGS">Будинки: всі факторії</String>
+<String id="UNIT_SET_FACTORY_BUILDINGS">Будинки: всі майстерні</String>
 <String id="UNIT_SET_PLEBEIAN_HOMES">Будинки: плебеї</String>
 <String id="UNIT_SET_VILLA_HOMES">Будинки: патриції</String>
 <String id="UNIT_SET_ACTIVATORS_HOMES">Будинки: мешканці</String>
 <String id="UNIT_SET_ALL_HOMES">Будинки: все</String>
 <String id="UNIT_SET_EQUITES_HOMES">Будинки: вершники</String>
-<String id="UNIT_SET_STORAGE_BUILDINGS">Будинки: зберігання</String>
+<String id="UNIT_SET_STORAGE_BUILDINGS">Будинки: склади</String>
 <String id="UNIT_SET_SECURITY_BUILDINGS">Будинки: безпека</String>
 <String id="UNIT_SET_GOVERNOR_HOMES">Будинки: влада</String>
 <String id="UNIT_SET_ALL_HOMES_NO_HEALTH">Будинки: всі будинки, погана охорона здоров'я</String>
@@ -952,7 +952,7 @@
 <String id="UNIT_SET_CATAPULTS">Всі катапульти</String>
 <String id="UNIT_SET_AMBIENT_SPRITES">Об'єкти середовища</String>
 <String id="UNIT_SET_ENTERTAINMENT_ACTIVATOR_BUILDINGS">Будинки: актори</String>
-<String id="UNIT_SET_WALL_GUARDS">Остіарії</String>
+<String id="UNIT_SET_WALL_GUARDS">Вартові</String>
 
 
 <!--****** Cohort text-->
@@ -972,7 +972,7 @@
 <String id="COHORT_CARTH_CAV">Африканська кавалерія</String>
 <String id="COHORT_CARTH_HVY">Африканська важка піхота</String>
 <String id="COHORT_CARTH_LT">Африканська легка піхота</String>
-<String id="COHORT_GAUL_AUX">Галльські всп. війська</String>
+<String id="COHORT_GAUL_AUX">Галльські дод. війська</String>
 <String id="COHORT_GAUL_BALLISTA">Галльська баліста</String>
 <String id="COHORT_GAUL_CAV">Галльські вершники</String>
 <String id="COHORT_GAUL_HVY">Галльська важка піхота</String>
@@ -997,7 +997,7 @@
 <String id="ONE_BATTLE_CATAPULT">Катапульта</String>
 <!--ONE_COWHORT, "Moo"-->
 <!--COHORT_COWHORT, "Moo"-->
-<String id="ONE_STANDARD_BEARER">Знамєносець</String>
+<String id="ONE_STANDARD_BEARER">Прапороносець</String>
 <!-- Changed Standard Bearer Text 8/17 -->
 <String id="ONE_STANDARD_BEARER_FRIENDLY_HEAVY">Важкі піхотинці</String>
 <String id="ONE_STANDARD_BEARER_FRIENDLY_LIGHT">Легкі піхотинці</String>
@@ -1010,14 +1010,14 @@
 <String id="ONE_INFANTRY_HVY">Важкий піхотинець</String>
 <String id="ONE_INFANTRY_LT">Легкий піхотинець</String>
 <String id="ONE_AUXILIA">Лучник</String>
-<String id="ONE_AUXILIA_CAVALRY">Конник</String>
+<String id="ONE_AUXILIA_CAVALRY">Кавалер</String>
 <String id="MANY_INFANTRY_HVY">Важкі піхотинці</String>
 <String id="MANY_INFANTRY_LT">Легкі піхотинці</String>
 <String id="MANY_AUXILIA">Лучники</String>
 <String id="MANY_AUXILIA_CAVALRY">Кавалерія</String>
-<String id="ONE_ENEMY_SOLDIER_1">Ворожній легкий піхотинець</String>
-<String id="ONE_ENEMY_SOLDIER_2">Ворожній лучник</String>
-<String id="ONE_ENEMY_SOLDIER_3">Ворожній важкий піхотинець</String>
+<String id="ONE_ENEMY_SOLDIER_1">Ворожий легкий піхотинець</String>
+<String id="ONE_ENEMY_SOLDIER_2">Ворожий лучник</String>
+<String id="ONE_ENEMY_SOLDIER_3">Ворожий важкий піхотинець</String>
 <String id="EDIT_INFANTRY_HVY">Важка піхота</String>
 <String id="EDIT_INFANTRY_LT">Легка піхота</String>
 <String id="EDIT_AUXILIA">Лучники</String>
@@ -1026,12 +1026,12 @@
 <String id="ONE_GAUL_LT_INFANTRY">Галльська легка піхота</String>
 <String id="ONE_GAUL_LT_INFANTRY_ALT">Галльська легка піхота</String>
 <String id="ONE_GAUL_HVY_INFANTRY">Галльська важка піхота</String>
-<String id="ONE_GAUL_AUXILIA">Галльські всп. війська</String>
+<String id="ONE_GAUL_AUXILIA">Галльські дод. війська</String>
 <String id="ONE_GAUL_CAVALRY">Галльська кіннота</String>
 <String id="ONE_GERMANIA_LT_INFANTRY">Німецька легка піхота</String>
 <String id="ONE_GERMANIA_LT_INFANTRY">Німецька легка піхота</String>
 <String id="ONE_GERMANIA_HVY_INFANTRY">Німецька важка піхота</String>
-<String id="ONE_GERMANIA_AUXILIA">Німецькі всп. війська</String>
+<String id="ONE_GERMANIA_AUXILIA">Німецькі дод. війська</String>
 <String id="ONE_PARTHIAN_LT_INFANTRY">Парфянська легка піхота</String>
 <String id="ONE_PARTHIAN_HVY_INFANTRY">Парфянська важка піхота</String>
 <String id="ONE_PARTHIAN_AUXILIA">Парфянські доп. війська</String>
@@ -1075,48 +1075,48 @@
 
 <!--***** Region sets names-->
 <String id="REGION_NORTH_EUROPE">Північна Європа</String>
-<String id="REGION_NORTH_EUROPE_1">C4_Местн_СЕ_01</String>
-<String id="REGION_NORTH_EUROPE_2">C4_Местн_СЕ_02</String>
-<String id="REGION_NORTH_EUROPE_3">C4_Местн_СЕ_03</String>
-<String id="REGION_NORTH_EUROPE_4">C4_Местн_СЕ_04</String>
-<String id="REGION_NORTH_EUROPE_5">C4_Местн_СЕ_05</String>
-<String id="REGION_NORTH_EUROPE_6">C4_Местн_СЕ_06</String>
-<String id="REGION_NORTH_EUROPE_7">C4_Местн_СЕ_07</String>
-<String id="REGION_SOUTH_EUROPE">C4_Местн_Средизем_01</String>
-<String id="REGION_SOUTH_EUROPE_2">C4_Местн_Средизем_02</String>
-<String id="REGION_SOUTH_EUROPE_3">C4_Местн_Средизем_03</String>
-<String id="REGION_SOUTH_EUROPE_4">C4_Местн_Средизем_04</String>
-<String id="REGION_SOUTH_EUROPE_5">C4_Местн_Средизем_05</String>
-<String id="REGION_SOUTH_EUROPE_6">C4_Местн_Средизем_06</String>
-<String id="REGION_SOUTH_EUROPE_7">C4_Местн_Средизем_07</String>
-<String id="REGION_SOUTH_EUROPE_8">C4_Местн_Средизем_08</String>
-<String id="REGION_SOUTH_EUROPE_9">C4_Местн_Средизем_09</String>
-<String id="REGION_SOUTH_EUROPE_10">C4_Местн_Средизем_10</String>
-<String id="REGION_SOUTH_EUROPE_11">C4_Местн_Средизем_11</String>
-<String id="REGION_SOUTH_EUROPE_12">C4_Местн_Средизем_12</String>
-<String id="REGION_SOUTH_EUROPE_13">C4_Местн_Средизем_13</String>
-<String id="REGION_SOUTH_EUROPE_14">C4_Местн_Средизем_14</String>
-<String id="REGION_SOUTH_EUROPE_15">C4_Местн_Средизем_15</String>
-<String id="REGION_SOUTH_EUROPE_16">C4_Местн_Средизем_16</String>
-<String id="REGION_SOUTH_EUROPE_17">C4_Местн_Средизем_17</String>
-<String id="REGION_SOUTH_EUROPE_18">C4_Местн_Средизем_18</String>
+<String id="REGION_NORTH_EUROPE_1">C4_Місц_СЕ_01</String>
+<String id="REGION_NORTH_EUROPE_2">C4_Місц_СЕ_02</String>
+<String id="REGION_NORTH_EUROPE_3">C4_Місц_СЕ_03</String>
+<String id="REGION_NORTH_EUROPE_4">C4_Місц_СЕ_04</String>
+<String id="REGION_NORTH_EUROPE_5">C4_Місц_СЕ_05</String>
+<String id="REGION_NORTH_EUROPE_6">C4_Місц_СЕ_06</String>
+<String id="REGION_NORTH_EUROPE_7">C4_Місц_СЕ_07</String>
+<String id="REGION_SOUTH_EUROPE">C4_Місц_Середзем_01</String>
+<String id="REGION_SOUTH_EUROPE_2">C4_Місц_Середзем_02</String>
+<String id="REGION_SOUTH_EUROPE_3">C4_Місц_Середзем_03</String>
+<String id="REGION_SOUTH_EUROPE_4">C4_Місц_Середзем_04</String>
+<String id="REGION_SOUTH_EUROPE_5">C4_Місц_Середзем_05</String>
+<String id="REGION_SOUTH_EUROPE_6">C4_Місц_Середзем_06</String>
+<String id="REGION_SOUTH_EUROPE_7">C4_Місц_Середзем_07</String>
+<String id="REGION_SOUTH_EUROPE_8">C4_Місц_Середзем_08</String>
+<String id="REGION_SOUTH_EUROPE_9">C4_Місц_Середзем_09</String>
+<String id="REGION_SOUTH_EUROPE_10">C4_Місц_Середзем_10</String>
+<String id="REGION_SOUTH_EUROPE_11">C4_Місц_Середзем_11</String>
+<String id="REGION_SOUTH_EUROPE_12">C4_Місц_Середзем_12</String>
+<String id="REGION_SOUTH_EUROPE_13">C4_Місц_Середзем_13</String>
+<String id="REGION_SOUTH_EUROPE_14">C4_Місц_Середзем_14</String>
+<String id="REGION_SOUTH_EUROPE_15">C4_Місц_Середзем_15</String>
+<String id="REGION_SOUTH_EUROPE_16">C4_Місц_Середзем_16</String>
+<String id="REGION_SOUTH_EUROPE_17">C4_Місц_Середзем_17</String>
+<String id="REGION_SOUTH_EUROPE_18">C4_Місц_Середзем_18</String>
 <String id="REGION_ASIA">Азія</String>
-<String id="REGION_ASIA_01">C4_Местн_Азія_01</String>
-<String id="REGION_ASIA_02">C4_Местн_Азія_02</String>
-<String id="REGION_ASIA_03">C4_Местн_Азія_03</String>
-<String id="REGION_ASIA_04">C4_Местн_Азія_04</String>
-<String id="REGION_ASIA_05">C4_Местн_Азія_05</String>
+<String id="REGION_ASIA_01">C4_Місц_Азія_01</String>
+<String id="REGION_ASIA_02">C4_Місц_Азія_02</String>
+<String id="REGION_ASIA_03">C4_Місц_Азія_03</String>
+<String id="REGION_ASIA_04">C4_Місц_Азія_04</String>
+<String id="REGION_ASIA_05">C4_Місц_Азія_05</String>
 <String id="REGION_DESERT">Пустеля</String>
-<String id="REGION_DESERT_2">C4_Местн_Пустыня_02</String>
-<String id="REGION_DESERT_3">C4_Местн_Пустыня_03</String>
-<String id="REGION_DESERT_4">C4_Местн_Пустыня_04</String>
+<String id="REGION_DESERT_2">C4_Місц_Пустеля_02</String>
+<String id="REGION_DESERT_3">C4_Місц_Пустеля_03</String>
+<String id="REGION_DESERT_4">C4_Місц_Пустеля_04</String>
 <String id="REGION_NORTH_AFRICA">Північна Африка</String>
-<String id="REGION_NORTH_AFRICA_1">C4_Местн_СА_01</String>
-<String id="REGION_NORTH_AFRICA_2">C4_Местн_СА_02</String>
-<String id="REGION_NORTH_AFRICA_3">C4_Местн_СА_03</String>
-<String id="REGION_NORTH_AFRICA_4">C4_Местн_СА_04</String>
-<String id="REGION_NORTH_AFRICA_5">C4_Местн_СА_05</String>
-<String id="REGION_NORTH_AFRICA_6">C4_Местн_СА_06</String>
+<String id="REGION_NORTH_AFRICA_1">C4_Місц_СА_01</String>
+<String id="REGION_NORTH_AFRICA_2">C4_Місц_СА_02</String>
+<String id="REGION_NORTH_AFRICA_3">C4_Місц_СА_03</String>
+<String id="REGION_NORTH_AFRICA_4">C4_Місц_СА_04</String>
+<String id="REGION_NORTH_AFRICA_5">C4_Місц_СА_05</String>
+<String id="REGION_NORTH_AFRICA_6">C4_Місц_СА_06</String>
 <String id="21000">Декорації: болота</String>
 <String id="21002">Трава</String>
 <String id="21003">Скелі</String>
@@ -1218,12 +1218,12 @@
 <String id="TT_HELP_GENERIC">Довідка</String>
 <String id="TT_EMPIRE_LEVEL">Карта імперії</String>
 <String id="TT_CITY_LEVEL">Мапа міста</String>
-<String id="TT_FORUMS_ADVISOR">Зала поради</String>
+<String id="TT_FORUMS_ADVISOR">Зала ради</String>
 <String id="TT_HERE_CITY">Перед тобою мапа міста</String>
 <String id="TT_HERE_ADVISOR">Ти перебуваєш у Залі ради</String>
 <String id="TT_HERE_EMPIRE">Перед тобою карта імперії</String>
 <String id="41027">хРозчистити територію: знести будівлі, зрубати дерева</String>
-<String id="41043">Скасування</String>
+<String id="41043">Відміна</String>
 <String id="41044">Home</String>
 <String id="41045">У ресурсі</String>
 <String id="41046">Що цей мешканець робить</String>
@@ -1255,15 +1255,15 @@
 <String id="UI_HEADING_FOOD">Їжа</String>
 <String id="UI_BUILD_FARM_GRAIN">Зернова ферма</String>
 <String id="UI_BUILD_FARM_GRAPE">Виноградна ферма</String>
-<String id="UI_BUILD_FARM_CATTLE">Скотний двір</String>
+<String id="UI_BUILD_FARM_CATTLE">Скотарня</String>
 <String id="UI_BUILD_FARM_OLIVE">Оливкова ферма</String>
 <String id="UI_BUILD_FARM_VEGE">Овочева ферма</String>
 <String id="UI_BUILD_FARM_SHEEP">Вівчарня</String>
-<String id="UI_BUILD_GOLD">Табір старателів</String>
+<String id="UI_BUILD_GOLD">Табір видобувачів золота</String>
 <String id="UI_BUILD_IRON">Табір рудокопів</String>
 <String id="UI_BUILD_WOOD">Табір дроворубів</String>
 <String id="UI_BUILD_CLAY">Табір видобувачів глини</String>
-<String id="UI_BUILD_SAND">Табір землекопів</String>
+<String id="UI_BUILD_SAND">Табір піскокопів</String>
 <String id="UI_BUILD_MARBLE">Табір каменярів</String>
 <String id="UI_BUILD_GARDEN">Сад</String>
 <String id="UI_BUILD_STATUE_PRE_SALE">Обеліск</String>
@@ -1275,7 +1275,7 @@
 <String id="UI_BUILD_STATUE_6">Крилатий колісничий</String>
 <String id="UI_BUILD_BRIDGE">Міст</String>
 <String id="UI_BUILD_BRIDGE_SHIP">Високий міст</String>
-<String id="UI_BUILD_HEADING_COMMON">Домашнє начиння</String>
+<String id="UI_BUILD_HEADING_COMMON">Товари для дому</String>
 <String id="UI_BUILD_FACT_ARMOR">Обладункова майстерня</String>
 <String id="UI_BUILD_FACT_CLOTHING">Ткацька майстерня</String>
 <String id="UI_BUILD_FACT_FURNITURE">Меблева майстерня</String>
@@ -1285,7 +1285,7 @@
 <String id="UI_BUILD_FACT_OLIVE">Маслобійня</String>
 <String id="UI_BUILD_FACT_POTTERY">Гончарна майстерня</String>
 <String id="UI_HEADING_FACT_WAR">Амуніція</String>
-<String id="UI_BUILD_FACT_UTENSILS">Скоб'яна майстерня</String>
+<String id="UI_BUILD_FACT_UTENSILS">Майстерня начиння</String>
 <String id="UI_BUILD_FACT_WEAPONS">Кузня</String>
 <String id="UI_BUILD_FACT_WINE">Виноробня</String>
 <String id="UI_BUILD_MARKET_FOOD">Ринок</String>
@@ -1317,7 +1317,7 @@
 <String id="UI_BUILD_GOV_HEADING">Суд</String>
 <String id="UI_BUILD_BASILICA">Базиліка</String>
 <String id="UI_BUILD_FORUM">Форум</String>
-<String id="UI_BUILD_WELL">Колодець</String>
+<String id="UI_BUILD_WELL">Колодязь</String>
 <String id="UI_BUILD_FOUNTAIN">Фонтан</String>
 <String id="UI_BUILD_AQUEDUCT">Акведук</String>
 <String id="UI_BUILD_RESERVOIR">Цистерна</String>
@@ -1325,7 +1325,7 @@
 <String id="4536">Школа</String>
 <String id="4537">Бібліотека</String>
 <String id="UI_BUILD_MIL_SUPPORT">Військова допомога</String>
-<String id="UI_BUILD_GATE">Застава</String>
+<String id="UI_BUILD_GATE">Ворота</String>
 <String id="UI_BUILD_TOWER">Вежа</String>
 <String id="UI_BUILD_WALL">Стіна</String>
 <String id="UI_BUILD_MIL_FORTS">Форти</String>
@@ -1339,7 +1339,7 @@
 <String id="UI_BUILD_SHRINE_JUPITER">Святилище Юпітера</String>
 <String id="UI_BUILD_TEMPLE_JUPITER">Храм Юпітера</String>
 <String id="UI_BUILD_SHRINE_MARS">Святилище Марса</String>
-<String id="UI_BUILD_TEMPLE_MARS">Храм Марсу</String>
+<String id="UI_BUILD_TEMPLE_MARS">Храм Марса</String>
 <String id="UI_BUILD_SHRINE_MERCURY">Святилище Меркурія</String>
 <String id="UI_BUILD_TEMPLE_MERCURY">Храм Меркурія</String>
 <String id="UI_BUILD_SHRINE_CERES">Святилище Церери</String>
@@ -1355,7 +1355,7 @@
 <String id="UI_ROAD6">Площа 3</String>
 <String id="UI_ROAD7">Площа 4</String>
 <String id="NOT_ENOUGH_DENARII">У скарбниці недостатньо грошей.</String>
-<String id="NOT_ENOUGH_MARBLE">Тобі не вистачає мармуру, щоб звести цю будову.</String>
+<String id="NOT_ENOUGH_MARBLE">Тобі не вистачає мармуру, щоб звести цю будівлю.</String>
 <String id="NOT_NEXT_TO_FORTIFICATION">Цю будівлю не можна будувати поряд з укріпленнями.</String>
 <!-- Edited 8 18 -->
 <String id="NOT_NEXT_TO_CIVILIAN_STRUCTURES">Можна встановити лише поряд з іншими укріпленнями.</String>
@@ -1376,7 +1376,7 @@
 <String id="TT_SHOPS">Ринки та склади:\n городяни купують їжу та необхідні товари на ринках. Їжа, сировина та готові товари зберігаються на складах та в житницях. \nНа торгових складах та на пристанях йде торгівля з приїжджими купцями.</String>
 <String id="TT_STORAGE"></String>
 <!-- 8/17 added mention of water -->
-<String id="TT_EQUITES">Будинки вершників: \nвершники - представники середнього класу. Вони працюють на водокачках та на громадських посадах, які потребують спеціальної освіти.</String>
+<String id="TT_EQUITES">Будинки вершників: \nвершники - представники середнього класу. Вони працюють на водонапірих та на громадських посадах, які потребують спеціальної освіти.</String>
 <String id="TT_HARVESTING">Сировина:\nсировина надходить на склади і в житниці міста з полів, городів, скотарів та з таборів здобувачів</String>
 <String id="TT_FACTORIES">Виробництво:\nпрацівники цієї галузі виготовляють із сировини їжу та товари</String>
 <String id="TT_WATER">Вода:\nмісто потребує свіжої води. Через вузькі канали можна перекинути мости.</String>
@@ -1401,14 +1401,14 @@
 <String id="TT_BLDG_FACT_FURNITURE">Тут з дерева збирають меблі</String>
 <String id="TT_BLDG_FACT_JEWELRY">Тут із золота роблять прикраси</String>
 <String id="TT_BLDG_FACT_UTENSILS">Тут із заліза роблять начиння</String>
-<String id="TT_BLDG_FACT_WINE">Тут із винограду варять вино</String>
+<String id="TT_BLDG_FACT_WINE">Тут із винограду роблять вино</String>
 <String id="TT_BLDG_FACT_ARMOR">Тут із заліза та вовни роблять обладунки</String>
 <String id="TT_BLDG_FACT_WEAPONS">Тут із заліза та дерева роблять зброю</String>
 <String id="TT_BLDG_GRAIN">Працівники однієї ферми можуть обробляти два поля</String>
-<String id="TT_BLDG_GRAIN_FIELD">Має розташовуватися на родючому грунті. Вирощується селянами.</String>
+<String id="TT_BLDG_GRAIN_FIELD">Має розташовуватися на родючому грунті. Обробляєтья хліборобами.</String>
 <String id="TT_BLDG_VEGETABLES">Працівники однієї ферми можуть обробляти два городи</String>
-<String id="TT_BLDG_VEGETABLE_FIELD">Має розташовуватися на родючому грунті. Вирощується городниками.</String>
-<String id="TT_BLDG_LIVESTOCK">Працівники одного скотарня можуть пасти два стада</String>
+<String id="TT_BLDG_VEGETABLE_FIELD">Має розташовуватися на родючому грунті. Обробляєтья городниками.</String>
+<String id="TT_BLDG_LIVESTOCK">Працівники однієї скотарні можуть пасти два стада</String>
 <String id="TT_BLDG_LIVESTOCK_PASTURE">Має розташовуватися на родючому грунті. Знаходиться під наглядом скотарів.</String>
 <String id="TT_BLDG_OLIVES">Працівники однієї ферми можуть обробляти два оливкові гаї</String>
 <String id="TT_BLDG_OLIVE_OIL_GROVE">Має розташовуватися на родючому грунті. Вирощується збирачами оливок.</String>
@@ -1416,19 +1416,19 @@
 <String id="TT_BLDG_GRAPE_VINYARD">Має розташовуватися на родючому грунті. Вирощується виноградарями.</String>
 <String id="TT_BLDG_WOOL">Працівники однієї кошари можуть пасти два стада</String>
 <String id="TT_BLDG_SHEEP_PASTURE">Має розташовуватися на родючому грунті. Знаходиться під наглядом пастухів.</String>
-<String id="TT_BLDG_GOLD">Стародавці добувають золото в копальнях</String>
+<String id="TT_BLDG_GOLD">Видобувачі добувають золото в копальнях</String>
 <String id="TT_BLDG_IRON">Рудокопи добувають залізо в копальнях</String>
-<String id="TT_BLDG_IMBER">Дровосіки рубають ліс</String>
-<String id="TT_BLDG_CLAY">Здобувники глини працюють у глиняних списах</String>
-<String id="TT_BLDG_SAND">Землекопи працюють на піщаних кар'єрах</String>
+<String id="TT_BLDG_IMBER">Дроворуби рубають ліс</String>
+<String id="TT_BLDG_CLAY">Видобувачі глини працюють у глиняних списах</String>
+<String id="TT_BLDG_SAND">Піскокопи працюють на піщаних кар'єрах</String>
 <String id="TT_BLDG_MARBLE">Робочі видобувають мармур на мармурових кар'єрах</String>
 <String id="TT_BLDG_GRANARY">У житницях зберігаються надлишки їжі</String>
 <String id="TT_BLDG_WAREHOUSE">На складах зберігається сировина та готові товари</String>
 <String id="TT_BLDG_DEPOT">Тут ведеться торгівля з купцями</String>
 <String id="TT_BUILD_DEPOT_WITH_DOCK">Тут ведеться торгівля з купцями, що припливли морем</String>
-<String id="TT_BUILD_MARKET_FOOD">Тут городяни купують зерно, овочі та м'ясо</String>
-<String id="TT_BUILD_MARKET_COMMON">Тут городяни купують оливкову олію, скло, кераміку та одяг</String>
-<String id="TT_BUILD_MARKET_LUXURY">Тут городяни купують начиння, вино, меблі та прикраси</String>
+<String id="TT_BUILD_MARKET_FOOD">Тут містяни купують зерно, овочі та м'ясо</String>
+<String id="TT_BUILD_MARKET_COMMON">Тут містяни купують оливкову олію, скло, кераміку та одяг</String>
+<String id="TT_BUILD_MARKET_LUXURY">Тут містяни купують начиння, вино, меблі та прикраси</String>
 <String id="TT_BUILD_MARKET_EXOTIC">Тут патриції набувають екзотичних товарів</String>
 <String id="TT_BLDG_ACTORS">У школах акторів вершники навчаються акторському ремеслу</String>
 <String id="TT_BLDG_ODEUM">У одеоні виступають поети та музиканти</String>
@@ -1439,21 +1439,21 @@
 <String id="TT_BLDG_ARENA">На арену виходять десятки гладіаторів. Одиниці залишають її живими.</String>
 <String id="TT_BLDG_COLISEUM">Тут на славу Риму б'ються навчені гладіатори та дресовані тварини</String>
 <String id="TT_BLDG_CIRCUS">Тут колісницькі змагаються у швидкості на потіху публіці</String>
-<String id="TT_SHRINE_JUPITER">Мало святилище Юпітера</String>
+<String id="TT_SHRINE_JUPITER">Святилище Юпітера</String>
 <String id="TT_TEMPLE_JUPITER">Храм Юпітера, для будівництва потрібен мармур</String>
 <String id="TT_SHRINE_MARS">Мала святиня Марса</String>
 <String id="TT_TEMPLE_MARS">Храм Марса, для будівництва потрібний мармур</String>
-<String id="TT_SHRINE_MERCURY">Мало святилище Меркурія</String>
+<String id="TT_SHRINE_MERCURY">Святилище Меркурія</String>
 <String id="TT_TEMPLE_MERCURY">Храм Меркурія, для будівництва потрібний мармур</String>
-<String id="TT_SHRINE_CERES">Мало святилище Церери</String>
+<String id="TT_SHRINE_CERES">Святилище Церери</String>
 <String id="TT_TEMPLE_CERES">Храм Церери, для будівництва потрібен мармур</String>
 <String id="TT_SHRINE_BACCHUS">Мала святиня Бахуса</String>
 <String id="TT_TEMPLE_BACCHUS">Храм Бахуса, для будівництва потрібен мармур</String>
-<String id="TT_BLDG_BATHHOUSE">Тут городяни миються. Для роботи необхідна вода із цистерни.</String>
+<String id="TT_BLDG_BATHHOUSE">Тут містяни миються. Для роботи необхідна вода із цистерни.</String>
 <String id="TT_BLDG_CLINIC">Тут лікар може приймати та лікувати хворих</String>
 <String id="TT_BLDG_HOSPITAL">Просторий госпіталь, здатна поставити на ноги безліч хворих</String>
 <String id="TT_BLDG_BARBER_SHOP">Ця будівля робить свій скромний внесок у гігієну мешканців</String>
-<String id="TT_BLDG_TAX_COLLECTOR">Митці збирають податки з торгівлі та майна</String>
+<String id="TT_BLDG_TAX_COLLECTOR">Митарі збирають податки з торгівлі та майна</String>
 <!-- Aug 31, added "Потрібно magistrate від Governor's residence" -->
 <String id="TT_BLDG_BASILICA">Урядова будівля. Тут вершиться правосуддя\nДля роботи необхідний суддя з резиденції правителя.</String>
 <String id="TT_BLDG_FORUM">Тут правитель вершить правосуддя</String>
@@ -1472,8 +1472,8 @@
 <String id="TT_BLDG_BRIDGE_SHIP">Високий міст:\n720-1200 денаріїв\nПобудуй мости вище, щоб кораблі могли проходити під ним.</String>
 <String id="TT_BUILD_BRIDGE">Міст:\200-500 денаріїв\nПобудуй мости через річки. Кораблі не можуть проходити під ними.</String>
 
-<String id="TT_BLDG_SCHOOL">У школах городяни здобувають освіту</String>
-<String id="TT_BLDG_LIBRARY">У бібліотеках городяни здобувають освіту</String>
+<String id="TT_BLDG_SCHOOL">У школах містяни здобувають освіту</String>
+<String id="TT_BLDG_LIBRARY">У бібліотеках містяни здобувають освіту</String>
 <String id="TT_BLDG_WALL">Стіна:\n3 денарія\nКам'яні стіни стримують варварів</String>
 <String id="TT_BLDG_TOWER">Вежі покращують захист міста</String>
 <String id="TT_BLDG_GATE_HOUSE">Ворота пропускають мирних жителів у місто і закриваються перед носом ворогів</String>
@@ -1481,9 +1481,9 @@
 <String id="TT_ARMORY">Тут новобранцям видається зброя та обладунки</String>
 <String id="TT_DRILL_YARD">Тут солдати відточують бойове мистецтво</String>
 <String id="TT_FORT_INFANTRY_LT">Форт легкої піхоти. Солдатам потрібна лише зброя.</String>
-<String id="TT_FORT_INFANTRY_HVY">Форт важкої піхоти. Солдатам потрібна зброя та зброя.</String>
-<String id="TT_FORT_AUXILIA_CAVALRY">Форт кавалерії допоміжних військ. Солдатам потрібна зброя та зброя.</String>
-<String id="TT_FORT_AUXILIA">Форт стрільців допоміжних військ. Солдатам потрібна лише зброя.</String>
+<String id="TT_FORT_INFANTRY_HVY">Форт важкої піхоти. Солдатам потрібні обладунки та зброя.</String>
+<String id="TT_FORT_AUXILIA_CAVALRY">Форт кавалерії додаткових військ. Солдатам потрібні обладунки та зброя.</String>
+<String id="TT_FORT_AUXILIA">Форт стрільців додаткових військ. Солдатам потрібна лише зброя.</String>
 <String id="TT_BUILD_GARDEN">Маленький затишний садок</String>
 <String id="TT_BUILD_STATUE_PRE_SALE">Кам'яна колона</String>
 <String id="TT_BUILD_STATUE_1">Статуетка</String>
@@ -1495,7 +1495,7 @@
 <String id="TT_BUILD_HEDGE_SMALL">Огорожа мала</String>
 <String id="TT_BUILD_HEDGE_LARGE">Загорожа велика</String>
 <!-- Added Aug 24 -->
-<String id="TT_BUILD_HEDGE_ROW">Натисніть на ліву кнопку і переміщуй мишу, щоб розмістити огорожу</String>
+<String id="TT_BUILD_HEDGE_ROW">Натисніть на ліву кнопку і переміщуйте мишу, щоб розмістити огорожу</String>
 <String id="TT_BUILD_BUSH_SMALL">Кущ</String>
 <String id="TT_BUILD_BUSH_LARGE">Великий кущ</String>
 <String id="TT_BUILD_TREE_SMALL">Мало дерево</String>
@@ -1534,10 +1534,10 @@
 <String id="TT_UI_VILLA_EVOLUTION_STABLE">Щось заважає підвищенню статусу цього будинку</String>
 <String id="TT_UI_VILLA_EVOLUTION_DANGER">Статус будинку скоро знизиться</String>
 <String id="TT_UI_VILLA_EVOLUTION_FEEDBACK">Щось заважає підвищенню статусу цього будинку</String>
-<String id="UI_VILLA_EVOLUTION_REASONS_DESIREABILITY">Зручність</String>
+<String id="UI_VILLA_EVOLUTION_REASONS_DESIREABILITY">Привабливість</String>
 <String id="UI_VILLA_EVOLUTION_REASONS_WATER">Вода з фонтану</String>
 <String id="UI_VILLA_EVOLUTION_REASONS_FOOD">Види їжі</String>
-<String id="UI_VILLA_EVOLUTION_REASONS_COMMON">Домашнє начиння</String>
+<String id="UI_VILLA_EVOLUTION_REASONS_COMMON">Товари для дому</String>
 <String id="UI_VILLA_EVOLUTION_REASONS_LUXURY">Предмети розкоші</String>
 <String id="UI_VILLA_EVOLUTION_REASONS_EXOTIC">Екзот. товари</String>
 <String id="UI_VILLA_EVOLUTION_REASONS_HEALTH">Здоров'я</String>
@@ -1550,7 +1550,7 @@
 <String id="TT_UI_VILLA_EVOLUTION_REASONS_DESIREABILITY">Недостатньо приваблива місцевість</String>
 <String id="TT_UI_VILLA_EVOLUTION_REASONS_WATER">Немає доступу до води</String>
 <String id="TT_UI_VILLA_EVOLUTION_REASONS_FOOD">Недостатньо видів їжі</String>
-<String id="TT_UI_VILLA_EVOLUTION_REASONS_COMMON">Недостатньо домашнього начиння</String>
+<String id="TT_UI_VILLA_EVOLUTION_REASONS_COMMON">Недостатньо товарів для дому</String>
 <String id="TT_UI_VILLA_EVOLUTION_REASONS_LUXURY">Недостатньо предметів розкоші</String>
 <String id="TT_UI_VILLA_EVOLUTION_REASONS_EXOTIC">Недостатньо екзотичних товарів</String>
 <String id="TT_UI_VILLA_EVOLUTION_REASONS_HEALTH">Недостатня охорона здоров'я</String>
@@ -1583,7 +1583,7 @@
 <String id="C4_COHORT_TRAINING_LABEL">Місяці підготовки:</String>
 <String id="C4_COHORT_TRAINING_TEXT">Підсумки навчання</String>
 <!-- Changed 8/10 -->
-<String id="C4_COHORT_MISSED_UPKEEP">Якщо в когорту вчасно не постачається їжа, бойовий дух солдатів падає, і набір новобранців припиняється.</String>
+<String id="C4_COHORT_MISSED_UPKEEP">Якщо в когорту вчасно не постачається їжа, бойовий дух солдат падає, і набір новобранців припиняється.</String>
 <String id="C4_COHORT_MORALE_LABEL">Бойовий дух:</String>
 <String id="C4_COHORT_MORALE_FEEDBACK"></String>
 <String id="C4_COHORT_MORALE_FEEDBACK_1">Вірогідно втеча</String>
@@ -1617,7 +1617,7 @@
 <String id="COHORT_CONFIDENT">Високий</String>
 <String id="COHORT_VERY_CONFIDENT">Дуже високий</String>
 
-<String id="TT_COHORT_MORE_INFO">Клацніть на форті, щоб переглянути відомості на ньому</String>
+<String id="TT_COHORT_MORE_INFO">Клацніть на форті, щоб переглянути відомості по ньому</String>
 
 
 <!--***** C4 Activator House Orders********-->
@@ -1667,8 +1667,8 @@
 <String id="TT_HAPPINESS_WAGES_HAPPY">Робітники отримують високу платню</String>
 <String id="TT_HAPPINESS_WAGES_NEUTRAL">Робочі отримують помірну платню</String>
 <String id="TT_HAPPINESS_WAGES_SLIGHTLY_UNHAPPY">Робітники отримують невисоку платню</String>
-<String id="TT_HAPPINESS_WAGES_UNHAPPY">Робочим мало платять</String>
-<String id="TT_HAPPINESS_WAGES_VERY_UNHAPPY">Робочим замало платять</String>
+<String id="TT_HAPPINESS_WAGES_UNHAPPY">Робітникам мало платять</String>
+<String id="TT_HAPPINESS_WAGES_VERY_UNHAPPY">Робітникам замало платять</String>
 <String id="TT_HAPPINESS_SALARY_HAPPY">Вершники отримують високу платню</String>
 <String id="TT_HAPPINESS_SALARY_NEUTRAL">Вершники отримують помірну платню</String>
 <String id="TT_HAPPINESS_SALARY_SLIGHTLY_UNHAPPY">Вершники отримують невисоку платню</String>
@@ -1687,7 +1687,7 @@
 <String id="TT_HAPPINESS_EVENT_FOOD">Їжа</String>
 <String id="TT_HAPPINESS_EVENT_NO_FOOD">Немає постачання їжі</String>
 <String id="TT_HAPPINESS_EVENT_GOODS">Товари</String>
-<String id="TT_HAPPINESS_EVENT_GOODS_COMMON">xНе бракує товарів:</String>
+<String id="TT_HAPPINESS_EVENT_GOODS_COMMON">xБракує товарів:</String>
 <String id="TT_HAPPINESS_EVENT_GOODS_LUXURY">Не вистачає предметів розкоші:</String>
 <String id="TT_HAPPINESS_EVENT_GOODS_EXOTIC">Не вистачає екзотичних товарів:</String>
 <String id="TT_HAPPINESS_EVENT_COMMON">xТовари для дому:</String>
@@ -1890,7 +1890,7 @@
 <!-- Changed Aug 19, better clarity -->
 <String id="TT_HOME_PATRICIAN_LOW_HAPPINESS_FOOD">Занадто багато незадоволених патрицій, нові мешканці не поспішають в'їжджати до міста</String>
 <String id="UI_HOME_INVADERS">Загарбники у місті</String>
-<String id="TT_HOME_INVADERS">Захист місто! До обложеного міста ніхто не переїде.</String>
+<String id="TT_HOME_INVADERS">Захисти місто! До міста в облозі ніхто не переїде.</String>
 
 <String id="UI_PRODUCTION_FACTORY_MOTHBALLED">Будівля закрита</String>
 <String id="UI_PRODUCTION_FACTORY_NO_LABOR">Немає працівників</String>
@@ -1923,8 +1923,8 @@
 <String id="TT_UI_PRODUCTION_FARM_INVENTORY_FULL">Не вистачає місця для зібраного врожаю</String>
 <String id="TT_UI_PRODUCTION_FARM_WORKING">Господарство працює</String>
 <String id="TT_UI_PRODUCTION_HARVESTER_MOTHBALLED">Будівля тимчасово закрита</String>
-<String id="TT_UI_PRODUCTION_HARVESTER_CANNOT_GET_RESOURCE">Здобувачі не можуть дістатися місця видобування ресурсів</String>
-<String id="TT_UI_PRODUCTION_HARVESTER_NOT_ENOUGH_LABOR">Потрібно більше працівників, щоб здобувачі могли розпочати роботу</String>
+<String id="TT_UI_PRODUCTION_HARVESTER_CANNOT_GET_RESOURCE">Видобувачі не можуть дістатися місця видобування ресурсів</String>
+<String id="TT_UI_PRODUCTION_HARVESTER_NOT_ENOUGH_LABOR">Потрібно більше працівників, щоб видобувачі могли розпочати роботу</String>
 <String id="TT_UI_PRODUCTION_HARVESTER_INVENTORY_FULL">Немає місця для сировини</String>
 <String id="TT_UI_PRODUCTION_HARVESTER_WORKING">Будівля працює</String>
 
@@ -1932,38 +1932,38 @@
 <!--********** Entertainment shows-->
 
 <String id="UI_VENUE_FEEDBACK"></String>
-<String id="TT_VENUE_FEEDBACK_SHOW">Дають уявлення:</String>
+<String id="TT_VENUE_FEEDBACK_SHOW">Дають виставу:</String>
 <String id="ENT_SHOW_ODEUM_POETRY">Поет читає свої вірші.</String>
 <String id="ENT_SHOW_ODEUM_MUSIC">Послухайте чудову музику!</String>
 <String id="ENT_SHOW_THEATER_ILIAD">У театрі дають "Іліаду".</String>
 <String id="ENT_SHOW_THEATER_ODYSSEY">У театрі йде "Одіссея".</String>
 <String id="ENT_SHOW_ARENA_WGE">Коринфік проти галлів!</String>
-<String id="ENT_SHOW_ARENA_TRIDENT">Битва титанів! Поспішайте бачити!</String>
+<String id="ENT_SHOW_ARENA_TRIDENT">Битва титанів! Спішіть бачити!</String>
 <String id="ENT_SHOW_COL_GLADIATOR_CHAMPION">Фінал кубка Федерації гладіаторів!</String>
 <String id="ENT_SHOW_COL_GLADIATOR_MELEE">Кулачний бій! Заморська забава – стінка на стінку!</String>
 <String id="ENT_SHOW_COL_ANIMAL_LION">Леви на арені! Рррр!</String>
 <String id="ENT_SHOW_COL_ANIMAL_BEAR">Бурий ведмідь проти берберського ведмедя!</String>
 <String id="ENT_SHOW_COL_BOTH_TIGER_VS_MEN">Хто кого з'їсть - тигр гладіатора чи гладіатор тигра?</String>
 <String id="ENT_SHOW_COL_BOTH_ELEPHANT_FIGHT">Чи може людина подолати слона голими руками? Не пропустіть!</String>
-<String id="ENT_SHOW_CIRCUS_RACE">Коні, наче вітер. Колісниці, мов буря. Колесничі, наче леви.</String>
+<String id="ENT_SHOW_CIRCUS_RACE">Коні, наче вітер. Колісниці, мов буря. Колісничі, наче леви.</String>
 <String id="ENT_SHOW_CIRCUS_TRICKS">Кубок імператора по ралі на колісницях!</String>
-<String id="ENT_SHOW_ODEUM_NONE">Артисти готуються до представлення</String>
-<String id="ENT_SHOW_THEATER_NONE">Актори готуються до представлення</String>
+<String id="ENT_SHOW_ODEUM_NONE">Артисти готуються до вистави</String>
+<String id="ENT_SHOW_THEATER_NONE">Актори готуються до вистави</String>
 <String id="ENT_SHOW_ARENA_NONE">Гладіатори готуються до бою</String>
 <String id="ENT_SHOW_COLISEUM_NONE">Готується вистава</String>
-<String id="ENT_SHOW_CIRCUS_NONE">Колесничі готуються до гонки</String>
-<String id="TT_MOTHBALL_STATE_ON">Ця будівля закрита. Клацніть мишею, щоб відкрити його.</String>
-<String id="TT_MOTHBALL_STATE_OFF">Ця будівля відкрита. Клацніть, щоб закрити його.</String>
+<String id="ENT_SHOW_CIRCUS_NONE">Колісничі готуються до гонки</String>
+<String id="TT_MOTHBALL_STATE_ON">Ця будівля закрита. Клацніть мишею, щоб відкрити її.</String>
+<String id="TT_MOTHBALL_STATE_OFF">Ця будівля відкрита. Клацніть, щоб закрити її.</String>
 <String id="TT_LIVING_STATE_OFF">У цей будинок дозволено в'їзд. Клацніть мишею, щоб заборонити в'їзд та виселити мешканців.</String>
 <String id="TT_LIVING_STATE_ON">У цей будинок заборонено в'їзд. Клацніть мишею, щоб дозволити в'їзд.</String>
 <String id="UI_MOTHBALL_STATE_ON">Призупинено</String>
 <String id="UI_MOTHBALL_STATE_OFF">Працює</String>
 <!-- Changed 08 03 -->
 <String id="UI_PREVENT_PLEBEIANS_NO">Закрито плебеям</String>
-<String id="UI_PREVENT_PLEBEIANS_YES">Плебеям не можна</String>
+<String id="UI_PREVENT_PLEBEIANS_YES">Плебеям дзволено</String>
 <!-- Changed 08 03 -->
 <String id="TT_PREVENT_PLEBEIANS_NO">Вимкніть параметр, щоб дозволити всім доступ до будівлі.\nАктивуйте параметр, щоб заборонити плебеям вхід до будівлі.</String>
-<String id="TT_PREVENT_PLEBEIANS_YES">Плебеї не можу тут купувати. Клацніть, щоб плебеї робили тут покупки.</String>
+<String id="TT_PREVENT_PLEBEIANS_YES">Плебеї не можуть тут купувати. Клацніть, щоб плебеї робили тут покупки.</String>
 <String id="UI_FORT_DEPLOY">Вивести</String>
 <String id="TT_FORT_DEPLOY">Вивести когорту на побудову</String>
 <String id="UI_FORT_UNDEPLOY">Повернути</String>
@@ -1971,8 +1971,8 @@
 <!-- Додано 8 21 -->
 <String id="TT_TOWER_GUARDS_MAX">Максимально можлива кількість вартових</String>
 <String id="TT_TOWER_GUARDS_Current">Кількість вартових</String>
-<String id="UI_TOWER_DAMAGE">Структура:</String>
-<String id="TT_TOWER_DAMAGE">Структура не пошкоджена</String>
+<String id="UI_TOWER_DAMAGE">Вежа:</String>
+<String id="TT_TOWER_DAMAGE">Вежа пошкоджена</String>
 
 <!--****************** Overlays ***-->
 <String id="TT_OVERLAY">Інформація про умови життя у місті</String>
@@ -2078,7 +2078,7 @@
 <!-- Changes Aug 27 'homes' to 'villas' -->
 <String id="TT_O2_LAW_BASILICA">Вілли виділяються кольором, якщо в місті працює базиліка</String>
 <String id="TT_O2_LAW_FORUM">Дороги та будівлі пофарбовані кольором, якщо мешканці можуть брати участь у форумі.\nРайон фарбується сірим кольором, якщо на форумі не вистачає працівників.</String>
-<String id="UI_ORDERS_FARMER_TEND">Працювати</String>
+<String id="UI_ORDERS_FARMER_TEND">Працює</String>
 <String id="UI_ORDERS_FARMER_TEND_CURRENT">Йде на роботу</String>
 <String id="UI_ORDERS_FACTORY_CLOTHING">Одяг</String>
 <String id="UI_ORDERS_FACTORY_CLOTHING_CURRENT">Йде до ткацької майстерні</String>
@@ -2148,7 +2148,7 @@
 <String id="40023">Висока складність</String>
 <String id="7213">Почати заново</String>
 <String id="7221">(Назва сценарію)</String>
-<String id="7224">Скасування</String>
+<String id="7224">Відміна</String>
 <String id="7226">Закрити</String>
 <String id="UI_ACCEPT_ASSIGNMENT">Почати</String>
 <String id="7230">Наступна гра</String>
@@ -2201,7 +2201,7 @@
 <String id="TT_SAVE_GAME_SAVE">Зберегти зміни у місті</String>
 <String id="7002">Зберегти як</String>
 <String id="7003">Видалити</String>
-<String id="7004">Скасування</String>
+<String id="7004">Відміна</String>
 <String id="TT_SAVE_GAME_CANCEL">Повернутися до міста без збереження змін</String>
 <String id="TT_LOAD_GAME_FE_CANCEL">Вихід у головне меню</String>
 <String id="TT_LOAD_GAME_IG_CANCEL">Повернутися до міста без завантаження нового міста</String>
@@ -2242,7 +2242,7 @@
 <String id="7046">Редактор кампаній</String>
 <String id="7047">Управління</String>
 <String id="7048">Кнопки миші</String>
-<String id="7049">Для правшої</String>
+<String id="7049">Для правші</String>
 <String id="7050">Для шульги</String>
 <String id="7051">Швидкість прокручування</String>
 <String id="7052">Низька</String>
@@ -2401,7 +2401,7 @@
 <String id="VERTICAL_SYNC">Синхронізація кадрів</String>
 <String id="HI_RES_FILTER">Фільтрування текстур</String>
 <String id="HI_RES_LIGHTING">Ефекти освітлення</String>
-<String id="HI_RES_TEXTURES">Докладні текстури</String>
+<String id="HI_RES_TEXTURES">Детальні текстури</String>
 <String id="FULLSCREEN_ANTIALIASING">Повноекранне згладжування</String>
 <!--ANTIALIAS_SLIDER_HELP, "Multisampling quality for selected type"-->
 <String id="TT_ANTIALIAS_COMBO">Різкі контури будуть згладжуватися за рахунок зменшення продуктивності гри</String>
@@ -2575,8 +2575,8 @@
 <String id="8507">Підвищення</String>
 <String id="8508">Ландшафт</String>
 <String id="8511">Вихід</String>
-<String id="8512">Швидкий. загр.</String>
-<String id="8513">Швидкий. сохр.</String>
+<String id="8512">Швидке завант.</String>
+<String id="8513">Швидке зберіг.</String>
 <String id="8514">Перевірка</String>
 <String id="8515">Текст</String>
 <String id="8516">Обертання</String>
@@ -2639,7 +2639,7 @@
 <!--***** Пропонуємо Tool tips for settings*************-->
 <String id="8602">Повноекранне згладжування дозволяє підвищити якість зображення. Деякі відеокарти не підтримують цієї можливості.</String>
 <String id="8615">Зазвичай. масштабування</String>
-<String id="8616">Масштабір.+ ракурс</String>
+<String id="8616">Масштабув.+ ракурс</String>
 <String id="8617">Вільна камера</String>
 <String id="8621">Журнал повідомлень</String>
 <!--***** 9900~9900**********-->
@@ -2791,7 +2791,7 @@
 <String id="20503">Середній</String>
 <String id="20504">Великий</String>
 <String id="20505">Великий</String>
-<String id="20506">СКАСУВАННЯ</String>
+<String id="20506">ВІДМІНА</String>
 <String id="20507">ПОВТОР</String>
 <String id="20508">Рослинність</String>
 <String id="20509">Кольори</String>
@@ -2821,7 +2821,7 @@
 <String id="20541">Порядок</String>
 <String id="20542">Відтінок</String>
 <String id="20543">Фонове зображення</String>
-<String id="20544">Ролік</String>
+<String id="20544">Ролик</String>
 <String id="20545">Фоновий звук</String>
 <String id="20546">Параметри</String>
 <String id="20548">Фінальна епоха</String>
@@ -2934,7 +2934,7 @@
 <!--***** 29565~29566 ~ scenario editor scenario requirements **********-->
 <String id="29565">x</String>
 <String id="29566">Необхідний рівень імперії</String>
-<String id="UI_E4_EMPIRE_LEVEL_REQUIRED">Треб. Рівень Імп.</String>
+<String id="UI_E4_EMPIRE_LEVEL_REQUIRED">Потрібно Рівень Імп.</String>
 <String id="TT_E4_EMPIRE_LEVEL_REQUIRED">Активуйте параметр, щоб включити до сценарію карту імперії</String>
 <String id="UI_E4_ALLOW_RANDOM_SPRITE_ROTATION">Дозволити випадкове обертання</String>
 <String id="TT_E4_ALLOW_RANDOM_SPRITE_ROTATION">Активуйте параметр, щоб під час розміщення на карті об'єкти цього виду поверталися під довільним кутом</String>
@@ -2968,7 +2968,7 @@
 <String id="29705">Максимальний</String>
 <!--***** 30000's****-->
 <!--***** 30198~30492************-->
-<String id="CANCEL">Скасування</String>
+<String id="CANCEL">Відміна</String>
 <String id="OK">ОК</String>
 <String id="YES">Так</String>
 <String id="NO">Ні</String>
@@ -3156,7 +3156,7 @@
 <String id="30652">Вигляд спереду</String>
 <String id="30653">Вигляд ззаду</String>
 <String id="30654">Стеження</String>
-<String id="30655">Скор. прокр.</String>
+<String id="30655">Швидк. прокр.</String>
 <String id="30656">Низька</String>
 <String id="30657">Висока</String>
 <String id="30658">дуже</String>
@@ -3352,7 +3352,7 @@
 <String id="40126">Опис</String>
 <String id="40127">Доступні кампанії</String>
 <String id="40128">Відкрити</String>
-<String id="40129">Скасування</String>
+<String id="40129">Відміна</String>
 <!--***** 40150~40155*******GAME TOOLS (EDITOR) MENU*******-->
 <String id="40150">Завантаження та редагування сценарію</String>
 <String id="40151">Новий сценарій</String>
@@ -3522,7 +3522,7 @@
 <String id="UI_E4_START_WEEK">Тиждень:</String>
 <String id="UI_E4_START_RANK">Ранг:</String>
 <String id="UI_E4_START_CREDIT">Макс. кредит:</String>
-<String id="UI_E4_START_FAVOR">Добровільність:</String>
+<String id="UI_E4_START_FAVOR">Думка Риму:</String>
 <String id="UI_E4_START_MAP_SIZE">Розмір</String>
 <String id="UI_E4_START_APRON">Місце:</String>
 <String id="UI_E4_START_APRON_SET">Налаштування</String>
@@ -3809,7 +3809,7 @@
 <String id="40482">Вкажіть точку...</String>
 <String id="40483">Цегли на початку</String>
 <String id="40484">Пищі на початку</String>
-<String id="40485">Динарієв на початку</String>
+<String id="40485">Динаріїв на початку</String>
 <String id="40486">Максимальний розмір кредиту</String>
 <!--40500~40599 **** SCENARIO EDITOR WORLD LEVEL ****-->
 <String id="ENTRANCE_WAYPOINT">Вхід</String>
@@ -3877,7 +3877,7 @@
 <String id="40594">Текст спливаючої підказки</String>
 <String id="40595">Відкрито</String>
 <String id="40596">Не відкрито</String>
-<String id="40597">Брошено</String>
+<String id="40597">Кинуто</String>
 <String id="40598">Текст</String>
 <String id="40599">Розбійники</String>
 
@@ -3931,7 +3931,7 @@
 <String id="ORD_WARNING_HALF">Терміни виконання запиту близькі. Перше попередження.</String>
 <String id="ORD_WARNING_THREE_QUARTER">Час закінчується. Друге попередження</String>
 <String id="ORD_HEADLINES">Запити та накази</String>
-<String id="ORD_RESOURCE_GOAL">Мета:</String>
+<String id="ORD_RESOURCE_GOAL">Ціль:</String>
 <String id="ORD_RESOURCE_ON_HAND">У наявності:</String>
 <String id="ORD_RESOURCE"></String>
 <String id="ORD_GOTO_TRADE">Торгівельні відносини</String>
@@ -3963,8 +3963,8 @@
 <String id="ORD_BATTLE_CHANCE_TITLE">Вірогідність перемоги:</String>
 <String id="ORD_BATTLE_CHANCE_TERRIBLE">Жахливо</String>
 <String id="ORD_BATTLE_CHANCE_POOR">Мало</String>
-<String id="ORD_BATTLE_CHANCE_EVEN">рівні</String>
-<String id="ORD_BATTLE_CHANCE_GOOD">Висока</String>
+<String id="ORD_BATTLE_CHANCE_EVEN">Порівно</String>
+<String id="ORD_BATTLE_CHANCE_GOOD">Високо</String>
 <String id="ORD_BATTLE_CHANCE_EXCELLENT">Прекрасно</String>
 <String id="ORD_BATTLE_RESULT_VICTORY_TITLE">Твоє військо перемогло у далекій битві!</String>
 <String id="ORD_BATTLE_RESULT_VICTORY_TEXT">Весь Рим святкує нашу перемогу!</String>
@@ -3974,12 +3974,12 @@
 <String id="ORD_BATTLE_RETURN_VICTORIOUS_TITLE">Армія повертається</String>
 <String id="ORD_BATTLE_RETURN_VICTORIOUS_TEXT">Твоя армія повернулася з перемогою!</String>
 <String id="ORD_BATTLE_RETURN_DEFEATED_TITLE">Армія повертається</String>
-<String id="ORD_BATTLE_RETURN_DEFEATED_TEXT">Твоя армія несе вести та поразку</String>
+<String id="ORD_BATTLE_RETURN_DEFEATED_TEXT">Твоя армія повернулася з поразкою</String>
 <String id="ORD_WORLDMAP_ON_WAY_TO_BATTLE_HELP">Твоє військо йде в місцевість %s, щоб боротися з ворогом.</String>
 <String id="ORD_WORLDMAP_RETURN_VICTORIOUS_HELP">Твоя армія повертається з перемогою з місцевості %s.</String>
 <String id="ORD_WORLDMAP_RETURN_DEFEATED_HELP">Твоя армія зазнала поразки в місцевості %s.</String>
 <String id="ORD_WORLDMAP_GENERIC_BATTLE_LOCATION">битва за межами міста</String>
-<String id="UI_SHIP_IT">У РИМ</String>
+<String id="UI_SHIP_IT">У Рим</String>
 <!-- 8/15 Changed placeholder text -->
 <String id="TT_SHIP_IT">Надсилання необхідних ресурсів до Риму</String>
 
@@ -4023,8 +4023,8 @@
 <!--***** Descriptive strings for message boxes-->
 <String id="REQ_MESSAGE_GENERIC">Цезар просить своїх намісників про допомогу. Відгукнешся на прохання - і твою кмітливість не забудуть.</String>
 <String id="REQ_MESSAGE_FAMINE">В імперії голод. Цезар просить надіслати партію продуктів.</String>
-<String id="REQ_MESSAGE_QUAKE">Землетрус тряс саме серце імперії. Цезар просить надіслати будівельні матеріали, щоб Рим зміг стати тим самим.</String>
-<String id="REQ_MESSAGE_EMBARGO">Щоб згладити наслідки недавнього ембарго, Цезар просить надіслати партію домашнього начиння.</String>
+<String id="REQ_MESSAGE_QUAKE">Землетрус трясе саме серце імперії. Цезар просить надіслати будівельні матеріали, щоб Рим зміг стати тим самим.</String>
+<String id="REQ_MESSAGE_EMBARGO">Щоб згладити наслідки недавнього ембарго, Цезар просить надіслати партію товарів для дому.</String>
 <!-- -->
 <String id="REQ_MESSAGE_FESTIVAL">Незабаром відбудеться свято на честь великого Цезаря. Найкращим внеском може стати партія предметів розкоші.</String>
 <String id="REQ_MESSAGE_AID">Цезар кинув клич, сподіваючись отримати грошову допомогу. А може він перевіряє фінансові справи своїх намісників?</String>
@@ -4058,7 +4058,7 @@
 <String id="SINGLE_MONTH">Місяць</String>
 <String id="MANY_MONTH">Місяці</String>
 <String id="SINGLE_WEEK">Тиждень</String>
-<String id="MANY_WEEK">Тижня</String>
+<String id="MANY_WEEK">Тижні</String>
 <String id="SE_IMPORT_SCRIPT">Імпортувати скрипт у сценарій</String>
 <String id="SE_EXPORT_SCRIPT">Експортувати скрипт у сценарій</String>
 <String id="SE_IMPORT_ERROR">Товар %s не проданий. Не знайдено.</String>
@@ -4151,7 +4151,7 @@
 <String id="FAVOR_DOWN_TITLE">Знизилося благовоління Риму</String>
 <String id="FAVOR_DOWN_TO_0">У Римі тебе зневажають. Ще трохи – і тебе звільнять.</String>
 <String id="FAVOR_DOWN_TO_1">У Римі ти славишся невдахою. Швидше виправ становище.</String>
-<String id="FAVOR_DOWN_TO_2">Ти прогримів по всьому Риму - як запеклий невдаха.</String>
+<String id="FAVOR_DOWN_TO_2">Ти прогримів по всьому Риму - як повний невдаха.</String>
 <String id="FAVOR_DOWN_TO_3">На вулицях Риму твоє ім'я згадують дедалі рідше.</String>
 <String id="FAVOR_DOWN_TO_4">Ти опускаєшся до рівня пересічного правителя. Потрібно змінювати стан справ.</String>
 <String id="FAVOR_DOWN_TO_5">Справи йдуть непогано, але не так, як у старі добрі часи.</String>
@@ -4166,7 +4166,7 @@
 <String id="41643">Назріває бунт!</String>
 <String id="41644">Хтось розпускає чутки про те, що життя у твоєму місті стає дедалі гіршим.</String>
 <String id="41645">Деякі жителі незадоволені твоїм правлінням.</String>
-<String id="41646">Старі зітхають про старі добрі часи, що були до того, як ти зійшов на трон.</String>
+<String id="41646">Старі жителі зітхають про старі добрі часи, що були до того, як ти зійшов на трон.</String>
 <String id="41647">Багато хто сумнівається у твоєму вмінні керувати містом.</String>
 <String id="41648">Мешканці міста перемивають тобі кістки та критикують твоє правління.</String>
 <String id="41649">Жалюгідні залишки прихильників все ще вірять у тебе.</String>
@@ -4187,11 +4187,11 @@
 <!--***** event names as used in scenario editor **************-->
 <String id="EVENT_V_H_PAT1">Патриції вирушають у терми та цирульні</String>
 <String id="EVENT_V_H_PAT2">Патриції вирушають до лікарень та лікарень</String>
-<String id="EVENT_V_H_PAT3">Городяни вирушають у терми та цирульні</String>
-<String id="EVENT_V_H_EQ1">Городяни беруть в облогу лікарні та лікарні</String>
+<String id="EVENT_V_H_PAT3">Містяни вирушають у терми та цирульні</String>
+<String id="EVENT_V_H_EQ1">Містяни беруть в облогу лікарні та лікарні</String>
 <String id="EVENT_V_H_EQ2">Вершники вирушають у терми та цирульні</String>
 <String id="EVENT_V_H_EQ3">Вершники вирушають до лікарень та лікарень</String>
-<String id="EVENT_V_H_PLE1">Городяни миються та голяться цілими днями</String>
+<String id="EVENT_V_H_PLE1">Містяни миються та голяться цілими днями</String>
 <String id="EVENT_V_H_PLE2">Плебеї направляються до лікарень та лікарень</String>
 <String id="EVENT_V_H_PLE3">Плебеї поспішають до лікарень та лікарень</String>
 <String id="EVENT_V_ENT_PAT1">Патриції йдуть розважатися</String>
@@ -4199,10 +4199,10 @@
 <String id="EVENT_V_ENT_PAT3">Городянам вистачає розваг</String>
 <String id="EVENT_V_ENT_EQ1">Вершники йдуть розважатися</String>
 <String id="EVENT_V_ENT_EQ2">Вершники поспішають на виставу</String>
-<String id="EVENT_V_ENT_EQ3">Городяни йдуть розважатися</String>
+<String id="EVENT_V_ENT_EQ3">Містяни йдуть розважатися</String>
 <String id="EVENT_V_ENT_PLE1">Плебеї йдуть розважатися</String>
 <String id="EVENT_V_ENT_PLE2">Плебеї поспішають на виставу</String>
-<String id="EVENT_V_ENT_PLE3">Городяни поспішають на виставу</String>
+<String id="EVENT_V_ENT_PLE3">Містяни поспішають на виставу</String>
 <String id="EVENT_V_ED_PAT1">Патриції прагнуть освіти</String>
 <String id="EVENT_V_ED_PAT2">Патриції прагнуть знань</String>
 <String id="EVENT_V_ED_PAT3">Патриції бажають навчатися</String>
@@ -4215,18 +4215,18 @@
 <String id="EVENT_V_REL_PAT1">Патриції звернули погляди до Марса</String>
 <String id="EVENT_V_REL_PAT2">Патриції звернули погляди до Меркурія</String>
 <String id="EVENT_V_REL_PAT3">Патриції звернули погляди до Юпітера</String>
-<String id="EVENT_V_REL_EQ1">Городяни звернули погляди до Церери</String>
-<String id="EVENT_V_REL_EQ2">Городяни прямують до святилищ та храмів</String>
-<String id="EVENT_V_REL_EQ3">Городяни славлять богів</String>
-<String id="EVENT_V_REL_PLE1">Городяни поспішають у святилища та храми</String>
-<String id="EVENT_V_REL_PLE2">Городяни підносять хвали богам</String>
-<String id="EVENT_V_REL_PLE3">Городяни славлять Марса</String>
+<String id="EVENT_V_REL_EQ1">Містяни звернули погляди до Церери</String>
+<String id="EVENT_V_REL_EQ2">Містяни прямують до святилищ та храмів</String>
+<String id="EVENT_V_REL_EQ3">Містяни славлять богів</String>
+<String id="EVENT_V_REL_PLE1">Містяни поспішають у святилища та храми</String>
+<String id="EVENT_V_REL_PLE2">Містяни підносять хвали богам</String>
+<String id="EVENT_V_REL_PLE3">Містяни славлять Марса</String>
 <String id="EVENT_V_JUS_PAT1">Патриції звернулися до правосуддя</String>
 <String id="EVENT_V_JUS_PAT2">Патриції вимагають правосуддя</String>
 <String id="EVENT_V_JUS_PAT3">Патриції в один голос вимагають правосуддя</String>
 <String id="EVENT_V_H_Epidemic">Спалах епідемії!</String>
-<String id="EVENT_V_H_Influenza_S">На місто обрушився спалах інфлюєнцы!</String>
-<String id="EVENT_V_H_Influenza_L">Місто трясе в лихоманці інфлюенці. Містянам потрібні лікарі!</String>
+<String id="EVENT_V_H_Influenza_S">На місто обрушився спалах інфлюєнції!</String>
+<String id="EVENT_V_H_Influenza_L">Місто трясе в лихоманці інфлюенції. Містянам потрібні лікарі!</String>
 <String id="EVENT_V_H_Malaria_S">На місто обрушився спалах малярії!</String>
 <String id="EVENT_V_H_Malaria_L">Місто трясе в лихоманці малярії. Містянам потрібні лікарі!</String>
 <String id="EVENT_V_H_Plague_S">Місто мучить спалах чуми!</String>
@@ -4244,7 +4244,7 @@
 <String id="EVENT_Fire_Title">Місто палає у вогні!</String>
 <String id="EVENT_Fire">Одна з будівель згоріла вщент.</String>
 <String id="EVENT_Collapse_Title">Будинкам завдано шкоди.</String>
-<String id="EVENT_Collapse">Через поганий догляд одна з будівель обрушилася.</String>
+<String id="EVENT_Collapse">Через поганий догляд одна з будівель обвалилася.</String>
 <!-- Re-Added 8 07 -->
 <!-- population milestone messages -->
 <String id="EVENT_Population_Milestone_Title">Населення міста зростає</String>
@@ -4315,7 +4315,7 @@
 <String id="PROVINCE_014">Нижня Німеччина</String>
 <String id="PROVINCE_015">Верхня Німеччина</String>
 <String id="PROVINCE_016">Іллірія (Далмація)</String>
-<String id="PROVINCE_017">Іудея</String>
+<String id="PROVINCE_017">Юдея</String>
 <String id="PROVINCE_018">Лацій</String>
 <String id="PROVINCE_019">Лугдунська Галія</String>
 <String id="PROVINCE_020">Лузитання</String>
@@ -4529,7 +4529,7 @@
 <String id="80001">Ім'я:</String>
 <String id="80002">Прізвище:</String>
 <String id="80003">ОК</String>
-<String id="80004">Скасування</String>
+<String id="80004">Відміна</String>
 <String id="80005">Перейменувати сім'ю</String>
 <String id="80006">будинок</String>
 <!--80007, "Family history"-->
@@ -4539,7 +4539,7 @@
 <String id="80011">Перейменувати мешканця</String>
 <String id="80012">Нове прізвище:</String>
 <String id="80013">Прийняти зміни та закрити це вікно</String>
-<String id="80014">Скасування</String>
+<String id="80014">Відміна</String>
 <!--*****Equite First Names-->
 <String id="FIRST_MALE_1">Аппій</String>
 <String id="FIRST_MALE_2">Аул</String>
@@ -4761,7 +4761,7 @@
 <String id="PRIEST_FEMALE_7">Квінція</String>
 <String id="PRIEST_MALE_8">Ромилій</String>
 <String id="PRIEST_FEMALE_8">Ромілія</String>
-<String id="PRIEST_MALE_9">Салюстий</String>
+<String id="PRIEST_MALE_9">Салюстій</String>
 <String id="PRIEST_FEMALE_9">Салюстія</String>
 <String id="PRIEST_MALE_10">Сальвій</String>
 <String id="PRIEST_FEMALE_10">Сальвія</String>
@@ -5966,15 +5966,15 @@
 <String id="CA_CRIME_LOW">У місті вчинено кілька злочинів.</String>
 <String id="CA_CRIME_NONE">У місті не скоюються злочини.</String>
 <String id="CA_POPULARITY_1">Люди їдуть із твого міста в пошуках кращого життя.</String>
-<String id="CA_POPULARITY_2">Багато городян незадоволені твоїм правлінням.</String>
-<String id="CA_POPULARITY_3">Деякі городяни не задоволені твоїм правлінням.</String>
-<String id="CA_POPULARITY_4">Городяни задоволені твоїм правлінням.</String>
+<String id="CA_POPULARITY_2">Багато містян незадоволені твоїм правлінням.</String>
+<String id="CA_POPULARITY_3">Деякі містяни не задоволені твоїм правлінням.</String>
+<String id="CA_POPULARITY_4">Містяни задоволені твоїм правлінням.</String>
 <String id="CA_POPULARITY_5">Ти дуже популярний у місті!</String>
-<String id="CA_HEALTH_1">Здоров'ю городян нічого не загрожує</String>
+<String id="CA_HEALTH_1">Здоров'ю містян нічого не загрожує</String>
 <String id="CA_HEALTH_2">У місті є невеликі проблеми зі здоров'ям.</String>
 <String id="CA_HEALTH_3">У місті є проблеми зі здоров'ям.</String>
 <String id="CA_HEALTH_4">У місті серйозні проблеми зі здоров'ям.</String>
-<String id="CA_HEALTH_5">У разі епідемії городянам загрожує смерть.</String>
+<String id="CA_HEALTH_5">У разі епідемії містянам загрожує смерть.</String>
 <String id="CA_RELIGION_1">Юпітер задоволений подарунками</String>
 <String id="CA_RELIGION_2">Юпітеру поклоняються дедалі менше</String>
 <String id="CA_RELIGION_3">Юпітер незадоволений тим, що в нього так мало шанувальників</String>
@@ -6005,7 +6005,7 @@
 <!--**** Labor ****-->
 <String id="LA_EQUITES">Вершники</String>
 <String id="LA_PLEBS">Плебеї</String>
-<String id="LA_PLEBE_TOTAL">Необхідний плебеїв</String>
+<String id="LA_PLEBE_TOTAL">Необхідно плебеїв</String>
 <!--LA_PLEBE_FULL, "Plebs required"-->
 <!--LA_PLEBE_WORK, "Plebs Currently Working"-->
 <String id="LA_PLEBE_IDLE">Безробітні плебеї</String>
@@ -6235,7 +6235,7 @@
 <String id="IA_CHANGE_SALARY_BUTTON">Змінити платню</String>
 <String id="IA_CHANGE_SALARY_LABEL">Зарплата намісника твого рангу складає:</String>
 <String id="IA_CHANGE_SALARY_COMBO_BOX"></String>
-<String id="IA_CHANGE_SALARY_CANCEL">Скасування</String>
+<String id="IA_CHANGE_SALARY_CANCEL">Відміна</String>
 <String id="IA_CHANGE_SALARY_ACCEPT">ОК</String>
 <String id="IA_APPROPRIATE_SALARY_FEEDBACK"></String>
 <String id="IA_CHANGE_SALARY_REACTION_PLACEHOLDER">затичка</String>
@@ -6251,7 +6251,7 @@
 <String id="IA_DONATE_MONEY_VALUE">100</String>
 <String id="IA_DONATE_MONEY_FEEDBACK">Подарувати місту цю суму з особистих заощаджень</String>
 <String id="IA_DONATE_MONEY_SEND_BUTTON">Подарувати</String>
-<String id="IA_DONATE_MONEY_CANCEL">Скасування</String>
+<String id="IA_DONATE_MONEY_CANCEL">Відміна</String>
 <String id="TT_IA_DONATE_MONEY_SEND_BUTTON">Підтвердити вартість та зробити пожертву</String>
 <String id="TT_IA_DONATE_MONEY_INCREASE">Підвищити вартість на 100</String>
 <String id="TT_IA_DONATE_MONEY_DECREASE">Зменшити вартість на 100</String>
@@ -6261,7 +6261,7 @@
 <!-- Gifts to Caesar-->
 <String id="IA_GIFT_TO_ROME_BUTTON">Надіслати дар до Риму</String>
 <String id="IMPA_GIFT_SEND">Надіслати</String>
-<String id="IMPA_GIFT_CANCEL">Скасування</String>
+<String id="IMPA_GIFT_CANCEL">Відміна</String>
 <String id="IMPA_GIFT_CHOOSE_LABEL">Вибрати дар</String>
 
 <String id="TT_IA_GIFT_TO_ROME_BUTTON">Вибери дар і відправ його в Рим для зміцнення відносин з цезарем</String>
@@ -6416,7 +6416,7 @@
 
 <String id="UI_GIFT_FAVOR_FEEDBACK_1"></String>
 <String id="UI_GIFT_FAVOR_FEEDBACK_2">Кого можуть потішити однакові подарунки?</String>
-<String id="UI_GIFT_FAVOR_FEEDBACK_3">Ти не відрізняєшся фантазією, намісник.</String>
+<String id="UI_GIFT_FAVOR_FEEDBACK_3">Ти не відрізняєшся фантазією, наміснику.</String>
 <String id="UI_GIFT_FAVOR_FEEDBACK_10">Імператорові набридли однакові подарунки. Як би тобі не втратити його милість!</String>
 
 <!-- Festivals -->
@@ -6425,10 +6425,10 @@
 <String id="IMPA_FESTIVALS_CERES">Церера</String>
 <String id="IMPA_FESTIVALS_MARS">Марс</String>
 <String id="IMPA_FESTIVALS_MERCURY">Меркурій</String>
-<String id="IMPA_FESTIVALS_BACCHUS">Вакх</String>
+<String id="IMPA_FESTIVALS_BACCHUS">Бахус</String>
 
 <String id="IMPA_FESTIVALS_DECLARE">Оголосити</String>
-<String id="IMPA_FESTIVALS_CANCEL">Скасування</String>
+<String id="IMPA_FESTIVALS_CANCEL">Відміна</String>
 <String id="IMPA_FESTIVALS_DESCRIPTION_FEEDBACK"></String>
 <String id="IMPA_FESTIVALS_TITLE_COST_EXTRA_FEEDBACK">Назва свята</String>
 
@@ -6453,7 +6453,7 @@
 <String id="TT_IMPA_FESTIVALS_MAIN_DECLARE">Вибрати та проголосити свято</String>
 <String id="TT_IMPA_FESTIVALS_JUPITER">Велика жертва Юпітеру</String>
 <String id="TT_IMPA_FESTIVALS_CERES">Цереалії</String>
-<String id="TT_IMPA_FESTIVALS_MARS">Ход Марса</String>
+<String id="TT_IMPA_FESTIVALS_MARS">Парад Марса</String>
 <String id="TT_IMPA_FESTIVALS_MERCURY">Свято Меркурія</String>
 <String id="TT_IMPA_FESTIVALS_BACCHUS">Вакханалія</String>
 <String id="TT_IMPA_FESTIVALS_DECLARE">Клацніть, щоб проголосити свято</String>
@@ -6466,7 +6466,7 @@
 <String id="FD_DENARII">%d днів</String>
 <String id="FD_COOLDOWN">Це свято можна знову провести через %d міс.</String>
 <String id="FD_DECLARE">Оголосити свято</String>
-<String id="FD_CANCEL">Скасування</String>
+<String id="FD_CANCEL">Відміна</String>
 <String id="FD_JUPITER">Велика жертва Юпітеру</String>
 <String id="FD_CERES">Цереалії</String>
 <String id="FD_MARS">Хода Марса</String>
@@ -6753,7 +6753,7 @@
 <String id="TT_HELA_SUMMARY_BATHHOUSES_TOTAL_VALUE">Кількість відкритих терм</String>
 <String id="TT_HELA_SUMMARY_CLINICS_TOTAL_VALUE">Кількість відкритих лікарень</String>
 <String id="TT_HELA_SUMMARY_HOSPITALS_TOTAL_VALUE">Кількість відкритих лікарень</String>
-<String id="TT_HELA_SUMMARY_BARBERSHOPS_TOTAL_VALUE">Кількість відкритих цирюлен</String>
+<String id="TT_HELA_SUMMARY_BARBERSHOPS_TOTAL_VALUE">Кількість відкритих цирюлень</String>
 
 <!--**************************-->
 <!--**** Religion Advisor ****-->
@@ -6849,9 +6849,9 @@
 <String id="RELA_SUMMARY_MERCURY_ONE">Спритність Меркурія</String>
 <String id="RELA_SUMMARY_MERCURY_TWO">Кмітливість Меркурія</String>
 <String id="RELA_SUMMARY_MERCURY_THREE">Нагорода Меркурія</String>
-<String id="RELA_SUMMARY_BACCHUS_ONE">Вплив Вакха</String>
-<String id="RELA_SUMMARY_BACCHUS_TWO">Чари Вакха</String>
-<String id="RELA_SUMMARY_BACCHUS_THREE">Свята Вакха</String>
+<String id="RELA_SUMMARY_BACCHUS_ONE">Вплив Бахуса</String>
+<String id="RELA_SUMMARY_BACCHUS_TWO">Чари Бахуса</String>
+<String id="RELA_SUMMARY_BACCHUS_THREE">Свята Бахуса</String>
 
 <String id="TT_RELA_BENE_JUPITER">Милість Юпітера</String>
 <String id="TT_RELA_BENE_MARS">Милість Марса</String>
@@ -6894,12 +6894,12 @@
 <String id="ENTA_SUMMARY_STATUS_DEFAULT"></String>
 <!-- For when entertainment feedback (migration) doesn't hit a parameter-->
 <!-- Changed 08 02 (typo citzen->citizen) -->
-<String id="ENTA_SUMMARY_STATUS_FALLBACK">Городянам вистачає видовищ.</String>
+<String id="ENTA_SUMMARY_STATUS_FALLBACK">Містянам вистачає видовищ.</String>
 <!-- Потрібно використовувати text strings від "Service Bonus Migration table" до облікового запису для введення data matrix. Can use the same string in multiple enties. -->
 <String id="ENTA_ENTERTAINMENT_1_WORST">Ніхто не захоче переїжджати до такого нудного міста.</String>
 <String id="ENTA_ENTERTAINMENT_2">Мало хто захоче тут жити. У місті майже немає видовищ.</String>
 <String id="ENTA_ENTERTAINMENT_3">У місті недостатньо видовищ.</String>
-<String id="ENTA_ENTERTAINMENT_4">Городцям потрібно більше видовищ.</String>
+<String id="ENTA_ENTERTAINMENT_4">Містянам потрібно більше видовищ.</String>
 <String id="ENTA_ENTERTAINMENT_BONUS">У місті влаштовується стільки уявлень, що люди із задоволенням переїжджають сюди!</String>
 <String id="ENTA_ENTERTAINMENT_ADEQUATE">У місті достатньо видовищ.</String>
 
@@ -6946,7 +6946,7 @@
 <!--* threat status messages-->
 <!-- Aug 18, added real text -->
 <String id="TT_LEGA_CURRENT_THREAT_STATUS">Інформація про поточні або майбутні збройні конфлікти</String>
-<String id="THREAT_STATUS_NO_THREAT">Місто ніхто не загрожує</String>
+<String id="THREAT_STATUS_NO_THREAT">Місту ніхто не загрожує</String>
 <String id="THREAT_STATUS_YEAR_OR_LESS">Протягом року можливі напади</String>
 <String id="THREAT_STATUS_THREE_MONTHS_OR_LESS">Вороги будуть біля стін нашого міста менше, ніж через 3 місяці.</String>
 <String id="THREAT_STATUS_ONE_MONTH_OR_LESS">Вороги будуть біля стін нашого міста менше, ніж за місяць.</String>
@@ -6985,8 +6985,8 @@
 <!-- morale-->
 <String id="LEGA_MORALE_FEEDBACK_PLACHOLDER">Затичка</String>
 <String id="LEGA_MORALE_FEEDBACK_NO_FOOD">Потрібна їжа</String>
-<String id="LEGA_MORALE_FEEDBACK_1">Можливі пагони</String>
-<String id="LEGA_MORALE_FEEDBACK_2">Вірогідні пагони</String>
+<String id="LEGA_MORALE_FEEDBACK_1">Можлива втеча</String>
+<String id="LEGA_MORALE_FEEDBACK_2">Вірогідна втеча</String>
 <String id="LEGA_MORALE_FEEDBACK_3">Відмова битися</String>
 <String id="LEGA_MORALE_FEEDBACK_4">Невпевненість</String>
 <String id="LEGA_MORALE_FEEDBACK_5">Впевнений у собі</String>
@@ -7005,7 +7005,7 @@
 <String id="LEGION_FOOD_EATEN">Кількість споживаної легіоном їжі: %d</String>
 
 <!-- Tooltips-->
-<String id="TT_LEGA_CURRENT_THREAT_STATUS_NONE">Місто ніхто не загрожує</String>
+<String id="TT_LEGA_CURRENT_THREAT_STATUS_NONE">Місту ніхто не загрожує</String>
 <String id="TT_LEGA_CURRENT_THREAT_STATUS_REPORTS">Розвідники повідомляють, що за межами міста збирається військо</String>
 <String id="TT_LEGA_CURRENT_THREAT_STATUS_IMMINENT">Розвідники повідомляють, що вороже військо збирається напасти на місто!</String>
 <String id="TT_LEGA_CURRENT_THREAT_STATUS_INCITY">Готуйся до війни! На місто напали!</String>
@@ -7235,7 +7235,7 @@
 <!--Arena Scenario Choices -->
 <String id="OA_PLAYER_NAME">~Ім'я гравця~</String>
 <!-- Changed Aug 18 -->
-<String id="OA_ARENA_TITLE">Цезарева завдання</String>
+<String id="OA_ARENA_TITLE">Цезареве завдання</String>
 <String id="OA_SCENARIOS_LABEL">Сценарії</String>
 <String id="OA_CONDITION_LABEL">Умови</String>
 
@@ -7620,18 +7620,18 @@
 <!--*************** Warning Messages **************************-->
 <!--********************************************** *************-->
 <String id="WM_SAND_NEEDED">потрібний пісок</String>
-<String id="WM_SAND_HARVEST">збудувати табір землекопів</String>
+<String id="WM_SAND_HARVEST">збудувати табір піскокопів</String>
 <String id="WM_TRADE">купити ресурс</String>
 <String id="WM_TIMBER_NEEDED">потрібна деревина</String>
 <String id="WM_TIMBER_HARVEST">збудувати табір дроворубів</String>
 <String id="WM_IRON_NEEDED">потрібно залізо</String>
 <String id="WM_IRON_HARVEST">збудувати табір рудокопів</String>
 <String id="WM_WOOL_NEEDED">потрібна шерсть</String>
-<String id="WM_WOOL_HARVEST">будувати кошару</String>
+<String id="WM_WOOL_HARVEST">будувати вівчарню</String>
 <String id="WM_CLAY_NEEDED">потрібна глина</String>
 <String id="WM_CLAY_HARVEST">збудувати табір видобувачів глини</String>
 <String id="WM_GOLD_NEEDED">потрібно золото</String>
-<String id="WM_GOLD_HARVEST">збудувати табір старателів</String>
+<String id="WM_GOLD_HARVEST">збудувати табір добувачів золота</String>
 <String id="WM_GRAPES_NEEDED">потрібний виноград</String>
 <String id="WM_GRAPES_HARVEST">посадити виноградник</String>
 <String id="WM_OLIVES_NEEDED">потрібні оливки</String>
@@ -7657,7 +7657,7 @@
 <String id="WM_ANIMAL_NEEDED">потрібна школа дресирувальників</String>
 <String id="WM_CHARIOTEER_NEEDED">потрібна школа колісничих</String>
 <String id="WM_WEAPONS_NEEDED">потрібна зброя</String>
-<String id="WM_WEAPONS_HARVEST">будувати збройову</String>
+<String id="WM_WEAPONS_HARVEST">будувати зброярню</String>
 <String id="WM_ARMOR_NEEDED">потрібні обладунки</String>
 <String id="WM_ARMOR_HARVEST">збудувати кузню обладунків</String>
 <String id="WM_ARMORY_LIGHT_NEEDED">потрібна зброя із призовного пункту</String>
@@ -7666,10 +7666,10 @@
 <String id="WM_HARVESTER_NEEDED">потрібна житниця</String>
 <String id="WM_GRAIN_HARVEST">будувати зернову ферму</String>
 <String id="WM_VEGETABLE_HARVEST">будувати овочеву ферму</String>
-<String id="WM_LIVESTOCK_HARVEST">будувати скотарня</String>
+<String id="WM_LIVESTOCK_HARVEST">будувати скотарню</String>
 <String id="WM_FOUNTAIN_NEEDED">необхідний фонтан</String>
 <String id="WM_MEAT_NEEDED">потрібне м'ясо</String>
-<String id="WM_MEAT_HARVEST">будувати скотарня</String>
+<String id="WM_MEAT_HARVEST">будувати скотарню</String>
 <String id="WM_ROAD_ACCESS">необхідно провести дорогу</String>
 <String id="WM_NO_SUGGESTION">%s: %s</String>
 <String id="WM_BUILD_DURING_INVASION">Цю будівлю не можна будувати під час війни</String>
@@ -7686,19 +7686,19 @@
 <String id="WMG_PLEBE_WORKERS_PLEBE_JOBS_3">Плебеям потрібна робота!</String>
 <String id="WMG_PLEBE_WORKERS_PLEBE_JOBS_4">Плебеям потрібна робота!</String>
 <String id="WMG_PLEBE_WORKERS_PLEBE_JOBS_5">Плебеям потрібна робота!</String>
-<String id="WMG_PLEBE_WORKERS_PLEBE_JOBS_6">Місто потрібно більше плебеїв</String>
-<String id="WMG_PLEBE_WORKERS_PLEBE_JOBS_7">Місто потрібно більше плебеїв</String>
-<String id="WMG_PLEBE_WORKERS_PLEBE_JOBS_8">Місто потрібно більше плебеїв</String>
-<String id="WMG_PLEBE_WORKERS_PLEBE_JOBS_9">Місто потрібно більше плебеїв</String>
+<String id="WMG_PLEBE_WORKERS_PLEBE_JOBS_6">Місту потрібно більше плебеїв</String>
+<String id="WMG_PLEBE_WORKERS_PLEBE_JOBS_7">Місту потрібно більше плебеїв</String>
+<String id="WMG_PLEBE_WORKERS_PLEBE_JOBS_8">Місту потрібно більше плебеїв</String>
+<String id="WMG_PLEBE_WORKERS_PLEBE_JOBS_9">Місту потрібно більше плебеїв</String>
 <String id="WMG_EQUITE_WORKERS_EQUITE_JOBS_1">Вершникам потрібна робота!</String>
 <String id="WMG_EQUITE_WORKERS_EQUITE_JOBS_2">Вершникам потрібна робота!</String>
 <String id="WMG_EQUITE_WORKERS_EQUITE_JOBS_3">Вершникам потрібна робота!</String>
 <String id="WMG_EQUITE_WORKERS_EQUITE_JOBS_4">Вершникам потрібна робота!</String>
 <String id="WMG_EQUITE_WORKERS_EQUITE_JOBS_5">Вершникам потрібна робота!</String>
-<String id="WMG_EQUITE_WORKERS_EQUITE_JOBS_6">Місто потрібно більше вершників</String>
-<String id="WMG_EQUITE_WORKERS_EQUITE_JOBS_7">Місто потрібно більше вершників</String>
-<String id="WMG_EQUITE_WORKERS_EQUITE_JOBS_8">Місто потрібно більше вершників</String>
-<String id="WMG_EQUITE_WORKERS_EQUITE_JOBS_9">Місто потрібно більше вершників</String>
+<String id="WMG_EQUITE_WORKERS_EQUITE_JOBS_6">Місту потрібно більше вершників</String>
+<String id="WMG_EQUITE_WORKERS_EQUITE_JOBS_7">Місту потрібно більше вершників</String>
+<String id="WMG_EQUITE_WORKERS_EQUITE_JOBS_8">Місту потрібно більше вершників</String>
+<String id="WMG_EQUITE_WORKERS_EQUITE_JOBS_9">Місту потрібно більше вершників</String>
 <String id="WMG_PLEBE_HAPPINESS_1">Рівень щастя плебеїв: 40-50</String>
 <String id="WMG_PLEBE_HAPPINESS_2">Рівень щастя плебеїв: 30-40</String>
 <String id="WMG_PLEBE_HAPPINESS_3">Рівень щастя плебеїв: 20-30</String>
@@ -7712,7 +7712,7 @@
 <!-- Edited 8 20 -->
 <String id="WMG_PLEBS_IMMIGRATION_1">Кількість плебеїв у місті стрімко зменшується.</String>
 <!-- Added 8 20 -->
-<String id="WMG_PLEBS_IMMIGRATION_2">Плебеї прагнуть у місто</String>
+<String id="WMG_PLEBS_IMMIGRATION_2">Плебеї біжуть у місто</String>
 <!-- Edited 8 20 -->
 <String id="WMG_EQUITES_IMMIGRATION_1">Кількість вершників у місті стрімко зменшується.</String>
 <!-- Added 8 20 -->
@@ -7740,7 +7740,7 @@
 <!-- Changed Aug 27 -->
 <String id="WMG_FOOD_PRODUCTION_FOOD_CONSUMPTION">Не вистачає їжі</String>
 <!-- Edited 8 20 -->
-<String id="WMG_PROPERTY_TAX_COVERAGE">Багато віллів не сплачують податки</String>
+<String id="WMG_PROPERTY_TAX_COVERAGE">Багато вілл не сплачують податки</String>
 <!-- Added 8 20 -->
 <String id="WMG_SALES_TAX_COVERAGE">До скарбниці не надходять податки з продажу</String>
 <!-- Edited 8 20 -->
@@ -7836,16 +7836,16 @@
 <String id="UI_SF_CRIME_ROBBING">Грабує будинок</String>
 <String id="UI_SF_CRIME_ROBBING_WORK">Вибирає будинок для пограбування</String>
 <String id="UI_SF_CRIME_MUGGING">Грабує</String>
-<String id="UI_SF_CRIME_LOITERING">Слонеться</String>
+<String id="UI_SF_CRIME_LOITERING">Тиняється без діла</String>
 <String id="UI_SF_DEAD">Вбитий</String>
 <String id="UI_SF_VICTIMIZED">Закликання на допомогу</String>
 <String id="UI_SF_EMIGRATING">Залишає місто</String>
-<String id="UI_SF_FIREFIGHTING">Гушить пожежу</String>
+<String id="UI_SF_FIREFIGHTING">Тушить пожежу</String>
 <String id="UI_SF_FLEEING">Тікає</String>
 <String id="UI_SF_FLEEING_ONFIRE">Втеча від пожежі</String>
 <String id="UI_SF_FLEEING_PRAEFECT">Утікає від правосуддя</String>
-<String id="UI_SF_GATHERING_CLAY">Здобуває глину</String>
-<String id="UI_SF_GATHERING_GOLD">Здобуває золото</String>
+<String id="UI_SF_GATHERING_CLAY">Видобуває глину</String>
+<String id="UI_SF_GATHERING_GOLD">Видобуває золото</String>
 <String id="UI_SF_GATHERING_GRAIN">Збирає зерно</String>
 <String id="UI_SF_GATHERING_GRAPES">Збирає виноград</String>
 <String id="UI_SF_GATHERING_IRON">Здобуває залізо</String>
@@ -7853,7 +7853,7 @@
 <String id="UI_SF_GATHERING_MEAT">Пасе худобу</String>
 <String id="UI_SF_GATHERING_OLIVES">Збирає оливки</String>
 <String id="UI_SF_GATHERING_SAND">Копає пісок</String>
-<String id="UI_SF_GATHERING_TIMBER">Рубить дерева</String>
+<String id="UI_SF_GATHERING_TIMBER">Рубає дерева</String>
 <String id="UI_SF_GATHERING_VEGETABLES">Збирає овочі</String>
 <String id="UI_SF_GATHERING_WOOL">Пасе овець</String>
 <String id="UI_SF_WORKING_GRAIN">Обробляє поле</String>
@@ -7936,7 +7936,7 @@
 <String id="UI_SF_NOTHING_RESTING">Відпочиває</String>
 <String id="UI_SF_NOTHING_SLACKING">Б'є байдики</String>
 <String id="UI_SF_NOTHING_STANDING">Вартий на посаді</String>
-<String id="UI_SF_NOTHING_IDLE">Лодирує</String>
+<String id="UI_SF_NOTHING_IDLE">Очікує</String>
 <String id="UI_SF_LOOKING">Оглядається навколо</String>
 <String id="UI_SF_LOOKING_HOME">Шукає притулок</String>
 <String id="UI_SF_LOOKING_MARK">Шукає знак</String>
@@ -7949,10 +7949,10 @@
 <String id="UI_SF_DEFENDING_GUARD">Захищає стіни</String>
 <String id="UI_SF_PROTESTING">Протестує</String>
 <String id="UI_SF_RECRUIT_ARMORY">Йде на призовний пункт за вантажем</String>
-<String id="UI_SF_RECRUIT_FORT_AUX">Спрямовується у форт</String>
-<String id="UI_SF_RECRUIT_FORT_AUX_CAV">Спрямовується у форт</String>
-<String id="UI_SF_RECRUIT_FORT_INF_HVY">Спрямовується до форту важкої піхоти</String>
-<String id="UI_SF_RECRUIT_FORT_INF_LT">Спрямовується до форту легкої піхоти</String>
+<String id="UI_SF_RECRUIT_FORT_AUX">Йде у форт</String>
+<String id="UI_SF_RECRUIT_FORT_AUX_CAV">Йде у форт</String>
+<String id="UI_SF_RECRUIT_FORT_INF_HVY">Йде до форту важкої піхоти</String>
+<String id="UI_SF_RECRUIT_FORT_INF_LT">Йде до форту легкої піхоти</String>
 <String id="UI_SF_REPAIRING">Ремонтує будівлю</String>
 <String id="UI_SF_RETRIEVING_ARMOR">Йде за обладунками</String>
 <String id="UI_SF_RETRIEVING_CLAY">Іде за глиною</String>
@@ -7983,7 +7983,7 @@
 <String id="UI_SF_RETRIEVING_WEAPONS">Іде за зброєю</String>
 <String id="UI_SF_RETRIEVING_WINE">Іде за вином</String>
 <String id="UI_SF_RETRIEVING_WOOL">Йде за вовною</String>
-<String id="UI_SF_SHOPPING_MARKET_BASIC">Купує домашнє начиння</String>
+<String id="UI_SF_SHOPPING_MARKET_BASIC">Купує товари для дому</String>
 <String id="UI_SF_SHOPPING_MARKET_EXOTIC">Купує екзотичні товари</String>
 <String id="UI_SF_SHOPPING_MARKET_FOOD">Купує їжу</String>
 <String id="UI_SF_SHOPPING_MARKET_LUXURY">Купує предмети розкоші</String>
@@ -7993,7 +7993,7 @@
 <String id="UI_SF_TRADER_GATHERING">Торгує на складі</String>
 <String id="UI_SF_TRADE_BOAT_HOME">Пливе морем</String>
 <String id="UI_SF_TRADE_BOAT_GATHERING">Торгує на пристані</String>
-<String id="UI_SF_VISITING_ARENA">Спрямовується на арену</String>
+<String id="UI_SF_VISITING_ARENA">Йде на арену</String>
 <String id="UI_SF_VISITING_BARBER">Направляється до цирульника</String>
 <String id="UI_SF_VISITING_BASILICA">Направляється в базиліку</String>
 <String id="UI_SF_VISITING_BATHHOUSE">Спрямовується до терм</String>
@@ -8014,7 +8014,7 @@
 <String id="UI_SF_VISITING_PRIEST">Благословляє будинок та його мешканців</String>
 <!-- added 08 26 -->
 <String id="UI_SF_VISITING_SCHOLAR">Дає уроки</String>
-<String id="UI_SF_VISITING_SCHOOL">Направляється до школи</String>
+<String id="UI_SF_VISITING_SCHOOL">Прямує до школи</String>
 <String id="UI_SF_VISITING_SHRINE_BACCHUS">Напрямує до святилища Бахуса</String>
 <String id="UI_SF_VISITING_SHRINE_CERES">Направляється до святилища Церери</String>
 <String id="UI_SF_VISITING_SHRINE_JUPITER">Направляється в святилище Юпітера</String>
@@ -8024,11 +8024,11 @@
 <String id="UI_SF_VISITING_TEMPLE_CERES">Направляється до храму Церери</String>
 <String id="UI_SF_VISITING_TEMPLE_JUPITER">Направляється до храму Юпітера</String>
 <String id="UI_SF_VISITING_TEMPLE_MARS">Направляється до храму Марса</String>
-<String id="UI_SF_VISITING_TEMPLE_MERCURY">Напрямує до храму Меркурія</String>
-<String id="UI_SF_VISITING_THEATER">Направляється до театру</String>
-<String id="UI_SF_VISITING_VILLA_1">Спрямовується на віллу</String>
-<String id="UI_SF_VISITING_VILLA_2">Напрямує в маєток</String>
-<String id="UI_SF_VISITING_VILLA_3">Напрямує до палацу</String>
+<String id="UI_SF_VISITING_TEMPLE_MERCURY">Прямує до храму Меркурія</String>
+<String id="UI_SF_VISITING_THEATER">Прямує до театру</String>
+<String id="UI_SF_VISITING_VILLA_1">Прямує на віллу</String>
+<String id="UI_SF_VISITING_VILLA_2">Прямує в маєток</String>
+<String id="UI_SF_VISITING_VILLA_3">Прямує до палацу</String>
 
 <!--*******************-->
 <!--*** Cheat codes ***-->
@@ -8108,7 +8108,7 @@
 <String id="ENT_SHOW_ARENA_NOT_ACTIVE">Для вистави потрібні гладіатори</String>
 <String id="ENT_SHOW_COLISEUM_NOT_ACTIVE">Для вистави потрібні гладіатори або дресировані тварини</String>
 <String id="ENT_SHOW_CIRCUS_NOT_ACTIVE">Для вистави потрібні колісничі</String>
-<String id="BASILICA_NOT_ACTIVE">Щоб базиліка відкрилася, потрібний суддя</String>
+<String id="BASILICA_NOT_ACTIVE">Щоб базиліка відкрилася, потрібний суддя з палацу правителя</String>
 <String id="BASILICA_ACTIVE">Вершиться правосуддя</String>
 
 <!-- JIM - Added this so that the null string wouldn't come up in the game as $$$$-->
