@@ -201,7 +201,7 @@
 
 <String id="ONE_DECO_BUSH_SMALL">Кущ</String>
 <String id="ONE_DECO_BUSH_LARGE">Великий кущ</String>
-<String id="ONE_DECO_TREE_SMALL">Мало дерево</String>
+<String id="ONE_DECO_TREE_SMALL">Мале дерево</String>
 <String id="ONE_DECO_TREE_MEDIUM">Середнє дерево</String>
 <String id="ONE_DECO_TREE_LARGE">Велике дерево</String>
 <String id="EDIT_DECO_HEDGE_SMALL">огорожа мала</String>
@@ -263,7 +263,7 @@
 <String id="ONE_DEPOT">Торговий склад</String>
 <String id="ONE_DEPOT_WITH_DOCK">Пристань</String>
 <String id="ONE_FOUNTAIN">Фонтан</String>
-<String id="ONE_GATE">Застава</String>
+<String id="ONE_GATE">Ворота</String>
 <String id="ONE_GRANARY">Житниця</String>
 <String id="MANY_PUMPHOUSE">Водокачки</String>
 <String id="ONE_WALL">Стіна</String>
@@ -1498,14 +1498,14 @@
 <String id="TT_BUILD_HEDGE_ROW">Натисніть на ліву кнопку і переміщуйте мишу, щоб розмістити огорожу</String>
 <String id="TT_BUILD_BUSH_SMALL">Кущ</String>
 <String id="TT_BUILD_BUSH_LARGE">Великий кущ</String>
-<String id="TT_BUILD_TREE_SMALL">Мало дерево</String>
+<String id="TT_BUILD_TREE_SMALL">Мале дерево</String>
 <String id="TT_BUILD_TREE_MEDIUM">Середнє дерево</String>
 <String id="TT_BUILD_TREE_LARGE">Велике дерево</String>
 <String id="UI_BUILD_HEDGE_SMALL">Огорожа мала (блок)</String>
 <String id="UI_BUILD_HEDGE_LARGE">Загорож великий (блок)</String>
 <String id="UI_BUILD_BUSH_SMALL">Кущ</String>
 <String id="UI_BUILD_BUSH_LARGE">Великий кущ</String>
-<String id="UI_BUILD_TREE_SMALL">Мало дерево</String>
+<String id="UI_BUILD_TREE_SMALL">Мале дерево</String>
 <String id="UI_BUILD_TREE_MEDIUM">Середнє дерево</String>
 <String id="UI_BUILD_TREE_LARGE">Велике дерево</String>
 <!--***** Figure Feedback *-->
@@ -1586,8 +1586,8 @@
 <String id="C4_COHORT_MISSED_UPKEEP">Якщо в когорту вчасно не постачається їжа, бойовий дух солдат падає, і набір новобранців припиняється.</String>
 <String id="C4_COHORT_MORALE_LABEL">Бойовий дух:</String>
 <String id="C4_COHORT_MORALE_FEEDBACK"></String>
-<String id="C4_COHORT_MORALE_FEEDBACK_1">Вірогідно втеча</String>
-<String id="C4_COHORT_MORALE_FEEDBACK_2">Можливо втеча</String>
+<String id="C4_COHORT_MORALE_FEEDBACK_1">Вірогідна втеча</String>
+<String id="C4_COHORT_MORALE_FEEDBACK_2">Можлива втеча</String>
 <String id="C4_COHORT_MORALE_FEEDBACK_3">Низький</String>
 <String id="C4_COHORT_MORALE_FEEDBACK_4">Невисокий</String>
 <String id="C4_COHORT_MORALE_FEEDBACK_5">Високий</String>
@@ -3939,7 +3939,7 @@
 <String id="ORD_GOTO_LEGION">Армія</String>
 <String id="ORD_GOTO_IMPERIAL">Імперія!</String>
 <String id="ORD_ACKNOLWEDGE">Пауза</String>
-<String id="ORD_DISPATCH">Надсилання</String>
+<String id="ORD_DISPATCH">Відправка</String>
 <String id="ORD_FEEDBACK" >Недостатньо потрібних ресурсів</String>
 <!-- Aug 22 : Shortened, removed 'all' -->
 <String id="ORD_FEEDBACK_2" >У тебе є необхідна кількість ресурсів для виконання запиту</String>
@@ -3981,7 +3981,7 @@
 <String id="ORD_WORLDMAP_GENERIC_BATTLE_LOCATION">битва за межами міста</String>
 <String id="UI_SHIP_IT">У Рим</String>
 <!-- 8/15 Changed placeholder text -->
-<String id="TT_SHIP_IT">Надсилання необхідних ресурсів до Риму</String>
+<String id="TT_SHIP_IT">Відправка необхідних ресурсів до Риму</String>
 
 <String id="UI_SELECT_TROOPS">Вибрати війська</String>
 <!-- 8/21 Changed placeholder text -->
@@ -4053,7 +4053,7 @@
 <String id="ORD_ED_BATTLE">Битва</String>
 <String id="ORD_ED_CONSTRUCTION">Будівництво</String>
 <String id="ORD_ED_SUPPLY">Поповнення</String>
-<String id="SINGLE_YEAR">м.</String>
+<String id="SINGLE_YEAR">р.</String>
 <String id="MANY_YEAR">рр.</String>
 <String id="SINGLE_MONTH">Місяць</String>
 <String id="MANY_MONTH">Місяці</String>
@@ -8202,7 +8202,7 @@
 <String id="MESSAGE_TO_CONTINUE">Щоб продовжити кампанію, перейдіть до екрану "Опис сценарію"</String>
 <String id="CHIEF_ADVISOR_NO_ONE_IN_CITY">У місті немає мешканців</String>
 <String id="TT_SELECT_TROOPS_CHECKBOX">Вибери когорти для відправки</String>
-<String id="TT_SELECT_TROOPS_DISPATCH">Надсилання вибраних когорт</String>
+<String id="TT_SELECT_TROOPS_DISPATCH">Відправка вибраних когорт</String>
 
 <!-- Added Aug 22 -->
 <String id="WM_ANOTHER_FIRE">Ще одна будівля згоріла вщент!</String>

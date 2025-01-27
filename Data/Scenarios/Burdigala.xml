@@ -21,9 +21,9 @@
     <String id="REQUEST_0_HEADING">Запит на зброю</String>
     <String id="REQUEST_0_BODY">Римським легіонам потрібно зброю. Відправ зброю до Рима.</String>
     <String id="REQUEST_0_FAILURE">Тобі не вдалося влаштувати Рим і досягти його благовоління.</String>
-    <String id="REQUEST_1_TITLE">REQ_M доспехи</String>
-    <String id="REQUEST_1_HEADING">Запит на доспехи</String>
-    <String id="REQUEST_1_BODY">Римським легіонам потрібно зброю. Відправ доспехи до Рима.</String>
+    <String id="REQUEST_1_TITLE">REQ_M обладунки</String>
+    <String id="REQUEST_1_HEADING">Запит на обладунки</String>
+    <String id="REQUEST_1_BODY">Римським легіонам потрібно зброю. Відправ обладунки до Рима.</String>
     <String id="REQUEST_1_FAILURE">Тобі не вдалося влаштувати Рим і досягти його благовоління.</String>
 
     <String id="REQUEST_2_TITLE">ORD_MIL</String>
