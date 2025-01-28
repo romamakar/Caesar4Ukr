@@ -81,7 +81,7 @@
     <String id="SITE_4_LABEL"> Нарона </String>
     <String id="SITE_4_FULLNAME"> Нарона </String>
     <String id="SITE_4_SITETYPE"> Місто гравця </String>
-    <String id="SITE_4_OPEN"> Нарона \n Твій місто </String>
+    <String id="SITE_4_OPEN"> Нарона \n Твоє місто </String>
     <String id="SITE_4_CLOSED">!</String>
     <String id="SITE_4_HISTORY">!</String>
     <String id="SITE_4_DEACTIVE">!</String>

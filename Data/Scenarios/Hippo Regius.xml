@@ -45,14 +45,14 @@
     <String id="INVASION_0_TITLE"> Повстання </String>
     <String id="INVASION_0_YEAR"></String>
     <String id="INVASION_0_THREE_MONTH"></String>
-    <String id="INVASION_0_ONE_MONTH"> Вороги обложили наш Місто . Щодня ми чекаємо на атаки.</String>
-    <String id="INVASION_0_ARRIVAL">Настав час взятися за мечі і дати відсіч ворогам! Захистимо наш місто !</String>
+    <String id="INVASION_0_ONE_MONTH"> Вороги оточили наше місто . Щодня ми чекаємо на атаки.</String>
+    <String id="INVASION_0_ARRIVAL">Настав час взятися за мечі і дати відсіч ворогам! Захистимо наше місто !</String>
 
     <String id="INVASION_1_TITLE"> Вторгнення карфагенян </String>
     <String id="INVASION_1_YEAR">Ворог збирає війська на кордоні нашої провінції.</String>
     <String id="INVASION_1_THREE_MONTH">Вороги перетнули кордон і наближаються до нашого міста.</String>
     <String id="INVASION_1_ONE_MONTH">Вороги розташувалися прямо за стінами нашого міста. Вони готуються до нападу.</String>
-    <String id="INVASION_1_ARRIVAL">Ворог настає! Настав час піднятися на захист міста.</String>
+    <String id="INVASION_1_ARRIVAL">Ворог наступає! Настав час піднятися на захист міста.</String>
 
 
     <String id="SITE_0_LABEL"> Лацій </String>
@@ -107,7 +107,7 @@
     <String id="SITE_7_LABEL"> Гіппон </String>
     <String id="SITE_7_FULLNAME"> Гіппон </String>
     <String id="SITE_7_SITETYPE"> Місто гравця </String>
-    <String id="SITE_7_OPEN"> Гіппон \n Твій місто </String>
+    <String id="SITE_7_OPEN"> Гіппон \n Твоє місто </String>
     <String id="SITE_7_CLOSED">!</String>
     <String id="SITE_7_HISTORY">!</String>
     <String id="SITE_7_DEACTIVE">!</String>

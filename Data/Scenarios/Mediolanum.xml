@@ -38,33 +38,33 @@
     <!---->
     <String id="INVASION_0_TITLE"> Галльські загарбники </String>
     <String id="INVASION_0_YEAR"></String>
-    <String id="INVASION_0_THREE_MONTH">Останнім часом нальоти на мирних жителів почастішали. Розбійники наближаються до нашого міста.</String>
+    <String id="INVASION_0_THREE_MONTH">Останнім часом набіги на мирних жителів почастішали. Розбійники наближаються до нашого міста.</String>
     <String id="INVASION_0_ONE_MONTH">Вороги взяли в облогу наше місто. Щодня ми чекаємо на атаки.</String>
-    <String id="INVASION_0_ARRIVAL">Настав час взятися за мечі і дати відсіч ворогам! Захистимо наш місто !</String>
+    <String id="INVASION_0_ARRIVAL">Настав час взятися за мечі і дати відсіч ворогам! Захистимо наше місто !</String>
 
     <String id="INVASION_1_TITLE"> Місцева банда </String>
     <String id="INVASION_1_YEAR"></String>
     <String id="INVASION_1_THREE_MONTH"></String>
-    <String id="INVASION_1_ONE_MONTH"> Вороги обложили наш Місто . Щодня ми чекаємо на атаки.</String>
-    <String id="INVASION_1_ARRIVAL">Настав час взятися за мечі і дати відсіч ворогам! Захистимо наш місто !</String>
+    <String id="INVASION_1_ONE_MONTH"> Вороги оточили наше місто . Щодня ми чекаємо на атаки.</String>
+    <String id="INVASION_1_ARRIVAL">Настав час взятися за мечі і дати відсіч ворогам! Захистимо наше місто !</String>
 
     <String id="INVASION_2_TITLE"> Місцева банда </String>
     <String id="INVASION_2_YEAR"></String>
     <String id="INVASION_2_THREE_MONTH"></String>
-    <String id="INVASION_2_ONE_MONTH"> Вороги обложили наш Місто . Щодня ми чекаємо на атаки.</String>
-    <String id="INVASION_2_ARRIVAL">Настав час взятися за мечі і дати відсіч ворогам! Захистимо наш місто !</String>
+    <String id="INVASION_2_ONE_MONTH"> Вороги оточили наше місто . Щодня ми чекаємо на атаки.</String>
+    <String id="INVASION_2_ARRIVAL">Настав час взятися за мечі і дати відсіч ворогам! Захистимо наше місто !</String>
 
     <String id="INVASION_3_TITLE"> Розбійники з Галлії </String>
     <String id="INVASION_3_YEAR"></String>
     <String id="INVASION_3_THREE_MONTH"></String>
-    <String id="INVASION_3_ONE_MONTH"> Вороги обложили наш Місто . Щодня ми чекаємо на атаки.</String>
-    <String id="INVASION_3_ARRIVAL">Настав час взятися за мечі і дати відсіч ворогам! Захистимо наш місто !</String>
+    <String id="INVASION_3_ONE_MONTH"> Вороги оточили наше місто . Щодня ми чекаємо на атаки.</String>
+    <String id="INVASION_3_ARRIVAL">Настав час взятися за мечі і дати відсіч ворогам! Захистимо наше місто !</String>
 
     <String id="INVASION_4_TITLE"> Розбійники з Галлії </String>
     <String id="INVASION_4_YEAR"></String>
     <String id="INVASION_4_THREE_MONTH"></String>
-    <String id="INVASION_4_ONE_MONTH"> Вороги обложили наш Місто . Щодня ми чекаємо на атаки.</String>
-    <String id="INVASION_4_ARRIVAL">Настав час взятися за мечі і дати відсіч ворогам! Захистимо наш місто !</String>
+    <String id="INVASION_4_ONE_MONTH"> Вороги оточили наше місто . Щодня ми чекаємо на атаки.</String>
+    <String id="INVASION_4_ARRIVAL">Настав час взятися за мечі і дати відсіч ворогам! Захистимо наше місто !</String>
 
     <String id="SITE_1_LABEL"> Лацій </String>
     <String id="SITE_1_FULLNAME"> Лацій </String>
@@ -111,7 +111,7 @@
     <String id="SITE_5_LABEL"> Медіолан </String>
     <String id="SITE_5_FULLNAME"> Медіолан </String>
     <String id="SITE_5_SITETYPE"> Місто гравця </String>
-    <String id="SITE_5_OPEN"> Медіолан \n Твій місто </String>
+    <String id="SITE_5_OPEN"> Медіолан \n Твоє місто </String>
     <String id="SITE_5_CLOSED">!</String>
     <String id="SITE_5_HISTORY">!</String>
     <String id="SITE_5_DEACTIVE">!</String>

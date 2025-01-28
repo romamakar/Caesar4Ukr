@@ -30,7 +30,7 @@
     <String id="SITE_1_LABEL"> Генуя </String>
     <String id="SITE_1_FULLNAME"> Генуя </String>
     <String id="SITE_1_SITETYPE"> Місто гравця </String>
-    <String id="SITE_1_OPEN"> Генуя \n Твій місто </String>
+    <String id="SITE_1_OPEN"> Генуя \n Твоє місто </String>
     <String id="SITE_1_CLOSED">!</String>
     <String id="SITE_1_HISTORY">!</String>
     <String id="SITE_1_DEACTIVE">!</String>

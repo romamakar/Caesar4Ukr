@@ -38,13 +38,13 @@
     <String id="INVASION_0_YEAR">Ворог збирає війська на кордоні нашої провінції.</String>
     <String id="INVASION_0_THREE_MONTH">Вороги перетнули кордон і наближаються до нашого міста.</String>
     <String id="INVASION_0_ONE_MONTH">Вороги розташувалися прямо за стінами нашого міста. Вони готуються до нападу.</String>
-    <String id="INVASION_0_ARRIVAL">Ворог настає! Настав час піднятися на захист міста.</String>
+    <String id="INVASION_0_ARRIVAL">Ворог наступає! Настав час піднятися на захист міста.</String>
 
     <String id="INVASION_1_TITLE"> Вторгнення германців </String>
     <String id="INVASION_1_YEAR">Ворог збирає війська на кордоні нашої провінції.</String>
     <String id="INVASION_1_THREE_MONTH">Вороги перетнули кордон і наближаються до нашого міста.</String>
     <String id="INVASION_1_ONE_MONTH">Вороги розташувалися прямо за стінами нашого міста. Вони готуються до нападу.</String>
-    <String id="INVASION_1_ARRIVAL">Ворог настає! Настав час піднятися на захист міста.</String>
+    <String id="INVASION_1_ARRIVAL">Ворог наступає! Настав час піднятися на захист міста.</String>
 
 
     <String id="SITE_0_LABEL"> Лацій </String>
@@ -78,7 +78,7 @@
     <String id="SITE_4_LABEL"> Могонтіак </String>
     <String id="SITE_4_FULLNAME"> Могонтіак </String>
     <String id="SITE_4_SITETYPE"> Місто гравця </String>
-    <String id="SITE_4_OPEN"> Могонтіак \n Твій місто </String>
+    <String id="SITE_4_OPEN"> Могонтіак \n Твоє місто </String>
     <String id="SITE_4_CLOSED">!</String>
     <String id="SITE_4_HISTORY">!</String>
     <String id="SITE_4_DEACTIVE">!</String>

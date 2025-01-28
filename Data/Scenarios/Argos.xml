@@ -50,13 +50,13 @@
     <String id="INVASION_0_TITLE">Вторгнення з Еліди</String>
     <String id="INVASION_0_YEAR"></String>
     <String id="INVASION_0_THREE_MONTH">Останнім часом набіги на мирних жителів почастішали. Розбійники наближаються до нашого міста.</String>
-    <String id="INVASION_0_ONE_MONTH">Вороги обложили наше місто. Щодня ми чекаємо на атаку.</String>
+    <String id="INVASION_0_ONE_MONTH">Вороги оточили наше місто. Щодня ми чекаємо на атаку.</String>
     <String id="INVASION_0_ARRIVAL">Час взятися за мечі та дати відсіч ворогам! Захистимо наше місто!</String>
 
     <String id="INVASION_1_TITLE">Вторгнення з Дельф</String>
     <String id="INVASION_1_YEAR"></String>
     <String id="INVASION_1_THREE_MONTH"></String>
-    <String id="INVASION_1_ONE_MONTH">Вороги обложили наше місто. Щодня ми чекаємо на атаку.</String>
+    <String id="INVASION_1_ONE_MONTH">Вороги оточили наше місто. Щодня ми чекаємо на атаку.</String>
     <String id="INVASION_1_ARRIVAL">Час взятися за мечі та дати відсіч ворогам! Захистимо наше місто!</String>
 
     <String id="INVASION_2_TITLE">Нашестя з Патри</String>

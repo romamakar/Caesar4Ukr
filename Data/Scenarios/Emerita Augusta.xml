@@ -5,8 +5,8 @@
     <String id="HISTORY"></String>
     <String id="HINTS"></String>
     <String id="AFTERMATH"></String>
-    <String id="SCENARIONAME"> Емеріта Серпня </String>
-    <String id="WIN">Вести про твій успіх дійшли і до Сенату! Він винагородить тебе за заслуги і дасть тобі ще складніший наказ.</String>
+    <String id="SCENARIONAME"> Емеріта Августа </String>
+    <String id="WIN">Новини про твій успіх дійшли і до Сенату! Він винагородить тебе за заслуги і дасть тобі ще складніший наказ.</String>
     <String id="LOSE">Всі римляни дивуються, що такий досвідчений намісник, як ти, не зумів впоратися з грубими та необтесаними мужланами.</String>
     <String id="POPULATION">1,200</String>
     <String id="FAVOR">40</String>
@@ -41,21 +41,21 @@
     <!---->
     <String id="INVASION_0_TITLE"> Галльські грабіжники </String>
     <String id="INVASION_0_YEAR"></String>
-    <String id="INVASION_0_THREE_MONTH">Останнім часом нальоти на мирних жителів почастішали. Розбійники наближаються до нашого міста.</String>
+    <String id="INVASION_0_THREE_MONTH">Останнім часом набіги на мирних жителів почастішали. Розбійники наближаються до нашого міста.</String>
     <String id="INVASION_0_ONE_MONTH">Вороги взяли в облогу наше місто. Щодня ми чекаємо на атаки.</String>
-    <String id="INVASION_0_ARRIVAL">Настав час взятися за мечі і дати відсіч ворогам! Захистимо наш місто !</String>
+    <String id="INVASION_0_ARRIVAL">Настав час взятися за мечі і дати відсіч ворогам! Захистимо наше місто !</String>
 
     <String id="INVASION_1_TITLE"> Галльські грабіжники </String>
     <String id="INVASION_1_YEAR"></String>
-    <String id="INVASION_1_THREE_MONTH">Останнім часом нальоти на мирних жителів почастішали. Розбійники наближаються до нашого міста.</String>
+    <String id="INVASION_1_THREE_MONTH">Останнім часом набіги на мирних жителів почастішали. Розбійники наближаються до нашого міста.</String>
     <String id="INVASION_1_ONE_MONTH">Вороги взяли в облогу наше місто. Щодня ми чекаємо на атаки.</String>
-    <String id="INVASION_1_ARRIVAL">Настав час взятися за мечі і дати відсіч ворогам! Захистимо наш місто !</String>
+    <String id="INVASION_1_ARRIVAL">Настав час взятися за мечі і дати відсіч ворогам! Захистимо наше місто !</String>
 
     <String id="INVASION_2_TITLE"> Вторгнення кельтів </String>
     <String id="INVASION_2_YEAR">Ворог збирає війська на кордоні нашої провінції.</String>
     <String id="INVASION_2_THREE_MONTH">Вороги перетнули кордон і наближаються до нашого міста.</String>
     <String id="INVASION_2_ONE_MONTH">Вороги розташувалися прямо за стінами нашого міста. Вони готуються до нападу.</String>
-    <String id="INVASION_2_ARRIVAL">Ворог настає! Настав час піднятися на захист міста.</String>
+    <String id="INVASION_2_ARRIVAL">Ворог наступає! Настав час піднятися на захист міста.</String>
 
 
     <String id="SITE_0_LABEL"> Лацій </String>
@@ -93,10 +93,10 @@
     <String id="SITE_4_CLOSED">!</String>
     <String id="SITE_4_HISTORY">!</String>
     <String id="SITE_4_DEACTIVE">!</String>
-    <String id="SITE_5_LABEL"> Емеріта Серпня </String>
-    <String id="SITE_5_FULLNAME"> Емеріта Серпня </String>
+    <String id="SITE_5_LABEL"> Емеріта Августа </String>
+    <String id="SITE_5_FULLNAME"> Емеріта Августа </String>
     <String id="SITE_5_SITETYPE"> Місто гравця </String>
-    <String id="SITE_5_OPEN"> Емеріта Серпня Твій місто </String>
+    <String id="SITE_5_OPEN"> Емеріта Августа Твоє місто </String>
     <String id="SITE_5_CLOSED">!</String>
     <String id="SITE_5_HISTORY">!</String>
     <String id="SITE_5_DEACTIVE">!</String>

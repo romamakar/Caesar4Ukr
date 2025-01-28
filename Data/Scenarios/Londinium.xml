@@ -57,13 +57,13 @@
     <String id="INVASION_0_YEAR">Ворог збирає війська на кордоні нашої провінції.</String>
     <String id="INVASION_0_THREE_MONTH">Вороги перетнули кордон і наближаються до нашого міста.</String>
     <String id="INVASION_0_ONE_MONTH">Вороги розташувалися прямо за стінами нашого міста. Вони готуються до нападу.</String>
-    <String id="INVASION_0_ARRIVAL">Ворог настає! Настав час піднятися на захист міста.</String>
+    <String id="INVASION_0_ARRIVAL">Ворог наступає! Настав час піднятися на захист міста.</String>
 
     <String id="INVASION_1_TITLE"> Навала британців </String>
     <String id="INVASION_1_YEAR">Ворог збирає війська на кордоні нашої провінції.</String>
     <String id="INVASION_1_THREE_MONTH">Вороги перетнули кордон і наближаються до нашого міста.</String>
     <String id="INVASION_1_ONE_MONTH">Вороги розташувалися прямо за стінами нашого міста. Вони готуються до нападу.</String>
-    <String id="INVASION_1_ARRIVAL">Ворог настає! Настав час піднятися на захист міста.</String>
+    <String id="INVASION_1_ARRIVAL">Ворог наступає! Настав час піднятися на захист міста.</String>
 
     <String id="SITE_0_LABEL"> Лугдунська Галія </String>
     <String id="SITE_0_FULLNAME"> Лугдунська Галія </String>
@@ -131,7 +131,7 @@
     <String id="SITE_9_LABEL"> Лондіній </String>
     <String id="SITE_9_FULLNAME"> Лондіній </String>
     <String id="SITE_9_SITETYPE"> Місто гравця </String>
-    <String id="SITE_9_OPEN"> Лондіній \n Твій місто </String>
+    <String id="SITE_9_OPEN"> Лондіній \n Твоє місто </String>
     <String id="SITE_9_CLOSED">!</String>
     <String id="SITE_9_HISTORY">!</String>
     <String id="SITE_9_DEACTIVE">!</String>

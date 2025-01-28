@@ -58,8 +58,8 @@
     <String id="INVASION_0_TITLE"> Місцеві бандити </String>
     <String id="INVASION_0_YEAR"></String>
     <String id="INVASION_0_THREE_MONTH"></String>
-    <String id="INVASION_0_ONE_MONTH"> Вороги обложили наш Місто . Щодня ми чекаємо на атаки.</String>
-    <String id="INVASION_0_ARRIVAL">Настав час взятися за мечі і дати відсіч ворогам! Захистимо наш місто !</String>
+    <String id="INVASION_0_ONE_MONTH"> Вороги оточили наше місто . Щодня ми чекаємо на атаки.</String>
+    <String id="INVASION_0_ARRIVAL">Настав час взятися за мечі і дати відсіч ворогам! Захистимо наше місто !</String>
 
     <!---->
     <!-- Empire Level Site Labels -->
@@ -137,7 +137,7 @@
     <String id="SITE_10_LABEL"> Лугдунум </String>
     <String id="SITE_10_FULLNAME"> Лугдунум </String>
     <String id="SITE_10_SITETYPE"> Місто гравця </String>
-    <String id="SITE_10_OPEN"> Лугдунум \n Твій місто </String>
+    <String id="SITE_10_OPEN"> Лугдунум \n Твоє місто </String>
     <String id="SITE_10_CLOSED">!</String>
     <String id="SITE_10_HISTORY">!</String>
     <String id="SITE_10_DEACTIVE">!</String>

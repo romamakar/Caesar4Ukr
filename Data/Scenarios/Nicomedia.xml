@@ -49,8 +49,8 @@
     <String id="INVASION_0_TITLE"> Розбійники з сходу </String>
     <String id="INVASION_0_YEAR"></String>
     <String id="INVASION_0_THREE_MONTH"></String>
-    <String id="INVASION_0_ONE_MONTH"> Вороги обложили наш Місто . Щодня ми чекаємо на атаки.</String>
-    <String id="INVASION_0_ARRIVAL">Настав час взятися за мечі і дати відсіч ворогам! Захистимо наш місто !</String>
+    <String id="INVASION_0_ONE_MONTH"> Вороги оточили наше місто . Щодня ми чекаємо на атаки.</String>
+    <String id="INVASION_0_ARRIVAL">Настав час взятися за мечі і дати відсіч ворогам! Захистимо наше місто !</String>
 
     <String id="SITE_0_LABEL"> Лацій </String>
     <String id="SITE_0_FULLNAME"> Лацій </String>
@@ -90,7 +90,7 @@
     <String id="SITE_5_LABEL"> Нікомедія </String>
     <String id="SITE_5_FULLNAME"> Нікомедія </String>
     <String id="SITE_5_SITETYPE"> Місто гравця </String>
-    <String id="SITE_5_OPEN"> Нікомедія \n Твій місто </String>
+    <String id="SITE_5_OPEN"> Нікомедія \n Твоє місто </String>
     <String id="SITE_5_CLOSED">!</String>
     <String id="SITE_5_HISTORY">!</String>
     <String id="SITE_5_DEACTIVE">!</String>

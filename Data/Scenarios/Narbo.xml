@@ -37,14 +37,14 @@
     <String id="INVASION_0_TITLE"> Галльські розбійники </String>
     <String id="INVASION_0_YEAR"></String>
     <String id="INVASION_0_THREE_MONTH"></String>
-    <String id="INVASION_0_ONE_MONTH"> Вороги обложили наш Місто . Щодня ми чекаємо на атаки.</String>
-    <String id="INVASION_0_ARRIVAL">Настав час взятися за мечі і дати відсіч ворогам! Захистимо наш місто !</String>
+    <String id="INVASION_0_ONE_MONTH"> Вороги оточили наше місто . Щодня ми чекаємо на атаки.</String>
+    <String id="INVASION_0_ARRIVAL">Настав час взятися за мечі і дати відсіч ворогам! Захистимо наше місто !</String>
 
     <String id="INVASION_1_TITLE"> Галльські розбійники </String>
     <String id="INVASION_1_YEAR"></String>
-    <String id="INVASION_1_THREE_MONTH">Останнім часом нальоти на мирних жителів почастішали. Розбійники наближаються до нашого міста.</String>
+    <String id="INVASION_1_THREE_MONTH">Останнім часом набіги на мирних жителів почастішали. Розбійники наближаються до нашого міста.</String>
     <String id="INVASION_1_ONE_MONTH">Вороги взяли в облогу наше місто. Щодня ми чекаємо на атаки.</String>
-    <String id="INVASION_1_ARRIVAL">Настав час взятися за мечі і дати відсіч ворогам! Захистимо наш місто !</String>
+    <String id="INVASION_1_ARRIVAL">Настав час взятися за мечі і дати відсіч ворогам! Захистимо наше місто !</String>
 
 
     <String id="SITE_0_LABEL"> Лацій </String>
@@ -71,7 +71,7 @@
     <String id="SITE_3_LABEL"> Нарбон </String>
     <String id="SITE_3_FULLNAME"> Нарбон </String>
     <String id="SITE_3_SITETYPE"> Місто гравця </String>
-    <String id="SITE_3_OPEN"> Нарбон \n Твій місто </String>
+    <String id="SITE_3_OPEN"> Нарбон \n Твоє місто </String>
     <String id="SITE_3_CLOSED">!</String>
     <String id="SITE_3_HISTORY">!</String>
     <String id="SITE_3_DEACTIVE">!</String>

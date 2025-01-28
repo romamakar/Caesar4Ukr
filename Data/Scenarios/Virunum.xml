@@ -129,7 +129,7 @@
     <String id="SITE_6_LABEL"> Вірун </String>
     <String id="SITE_6_FULLNAME"> Вірун </String>
     <String id="SITE_6_SITETYPE"> Місто гравця </String>
-    <String id="SITE_6_OPEN"> Вірун \n Твій місто </String>
+    <String id="SITE_6_OPEN"> Вірун \n Твоє місто </String>
     <String id="SITE_6_CLOSED">!</String>
     <String id="SITE_6_HISTORY">!</String>
     <String id="SITE_6_DEACTIVE">!</String>
