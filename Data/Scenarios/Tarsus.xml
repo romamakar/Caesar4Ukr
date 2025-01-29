@@ -16,7 +16,7 @@
 
     <String id="REQUEST_0_TITLE">ORD_M мармур</String>
     <String id="REQUEST_0_HEADING">Рим вимагає надіслати мармур</String>
-    <String id="REQUEST_0_BODY">Рим будує нові храми. Терміново прийшли мармур.</String>
+    <String id="REQUEST_0_BODY">Рим будує нові храми. Терміново відправ мармур.</String>
     <String id="REQUEST_0_FAILURE">Тобі не вдалося виконати вимоги Риму, і його вподобання знизилося.</String>
     <String id="REQUEST_1_TITLE">REQ_L золото</String>
     <String id="REQUEST_1_HEADING">Запит на золото</String>

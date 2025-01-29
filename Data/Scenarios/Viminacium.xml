@@ -42,15 +42,15 @@
     <String id="REQUEST_2_FAILURE">Тобі не вдалося виконати вимоги Риму, і його вподобання знизилося.</String>
     <String id="REQUEST_3_TITLE">REQ_L прикраси</String>
     <String id="REQUEST_3_HEADING">Запит на прикраси</String>
-    <String id="REQUEST_3_BODY">Римляни піклуються про красу. Прийшли, будь ласка, прикраси.</String>
+    <String id="REQUEST_3_BODY">Римляни піклуються про красу. Відправ, будь ласка, прикраси.</String>
     <String id="REQUEST_3_FAILURE">Тобі не вдалося догодити Риму і домогтися його вподобання.</String>
     <String id="REQUEST_4_TITLE">REQ_L начиння</String>
     <String id="REQUEST_4_HEADING">Запит на начиння</String>
-    <String id="REQUEST_4_BODY">Римляни піклуються про красу. Прийшли, будь ласка, начиння.</String>
+    <String id="REQUEST_4_BODY">Римляни піклуються про красу. Відправ, будь ласка, начиння.</String>
     <String id="REQUEST_4_FAILURE">Тобі не вдалося догодити Риму і домогтися його вподобання.</String>
     <String id="REQUEST_5_TITLE">REQ_L меблі</String>
     <String id="REQUEST_5_HEADING">Запит на меблі</String>
-    <String id="REQUEST_5_BODY">Римляни піклуються про красу. Прийшли, будь ласка, меблі.</String>
+    <String id="REQUEST_5_BODY">Римляни піклуються про красу. Відправ, будь ласка, меблі.</String>
     <String id="REQUEST_5_FAILURE">Тобі не вдалося догодити Риму і домогтися його вподобання.</String>
     <String id="REQUEST_6_TITLE">ORD_DN</String>
     <String id="REQUEST_6_HEADING">Рим вимагає надіслати данину</String>
@@ -58,11 +58,11 @@
     <String id="REQUEST_6_FAILURE">Тобі не вдалося виконати вимоги Риму, і його вподобання знизилося.</String>
     <String id="REQUEST_7_TITLE">REQ_E бурштин</String>
     <String id="REQUEST_7_HEADING">Запит на бурштин</String>
-    <String id="REQUEST_7_BODY">Римляни ласі на екзотику. Прийшли до Риму бурштин, якщо це можливо. </String>
+    <String id="REQUEST_7_BODY">Римляни ласі на екзотику. Відправ до Риму бурштин, якщо це можливо. </String>
     <String id="REQUEST_7_FAILURE">Тобі не вдалося догодити Риму і домогтися його вподобання.</String>
     <String id="REQUEST_8_TITLE">REQ_E прянощі</String>
     <String id="REQUEST_8_HEADING">Запит на прянощі</String>
-    <String id="REQUEST_8_BODY">Римляни ласі на екзотику. Прийшли до Риму прянощі, якщо це можливо. </String>
+    <String id="REQUEST_8_BODY">Римляни ласі на екзотику. Відправ до Риму прянощі, якщо це можливо. </String>
     <String id="REQUEST_8_FAILURE">Тобі не вдалося догодити Риму і домогтися його вподобання.</String>
 
     <!---->

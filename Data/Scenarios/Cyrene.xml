@@ -27,16 +27,16 @@
     <String id="REQUEST_2_BODY">Населення Риму зростає, запити теж. Тобі наказано надіслати партію одягу.</String>
     <String id="REQUEST_2_FAILURE">Тобі не вдалося виконати вимоги Риму, і його вподобання знизилося.</String>
     <String id="REQUEST_3_TITLE">REQ_B оливкова олія </String>
-    <String id="REQUEST_3_HEADING"> Запит на оливкова олія </String>
-    <String id="REQUEST_3_BODY">Рим росте, городянам не вистачає навіть найнеобхіднішого. Прийшли, будь ласка, оливкова олія.</String>
+    <String id="REQUEST_3_HEADING"> Запит на оливкову олію </String>
+    <String id="REQUEST_3_BODY">Рим росте, містянам не вистачає навіть найнеобхіднішого. Надішли, будь ласка, оливкову олію.</String>
     <String id="REQUEST_3_FAILURE">Тобі не вдалося догодити Риму і домогтися його вподобання.</String>
     <String id="REQUEST_4_TITLE">ORD_L начиння </String>
     <String id="REQUEST_4_HEADING"> Рим вимагає надіслати начиння </String>
-    <String id="REQUEST_4_BODY">Рим висуває нові вимоги. Терміново прийшли партію начиння.</String>
+    <String id="REQUEST_4_BODY">Рим висуває нові вимоги. Терміново відправ партію начиння.</String>
     <String id="REQUEST_4_FAILURE">Тобі не вдалося виконати вимоги Риму, і його вподобання знизилося.</String>
     <String id="REQUEST_5_TITLE">REQ_L вино </String>
     <String id="REQUEST_5_HEADING"> Запит на вино </String>
-    <String id="REQUEST_5_BODY">Римляни піклуються про красу. Прийшли, будь ласка, вино.</String>
+    <String id="REQUEST_5_BODY">Римляни піклуються про красу. Відправ, будь ласка, вино.</String>
     <String id="REQUEST_5_FAILURE">Тобі не вдалося догодити Риму і домогтися його вподобання.</String>
     <String id="REQUEST_6_TITLE">ORD_B скло </String>
     <String id="REQUEST_6_HEADING"> Рим вимагає надіслати скло </String>
@@ -44,7 +44,7 @@
     <String id="REQUEST_6_FAILURE">Тобі не вдалося виконати вимоги Риму, і його вподобання знизилося.</String>
     <String id="REQUEST_7_TITLE">REQ_L меблі </String>
     <String id="REQUEST_7_HEADING"> Запит на меблі </String>
-    <String id="REQUEST_7_BODY">Римляни дбають про красу. Прийшли, будь ласка, меблі.</String>
+    <String id="REQUEST_7_BODY">Римляни дбають про красу. Відправ, будь ласка, меблі.</String>
     <String id="REQUEST_7_FAILURE">Тобі не вдалося догодити Риму і домогтися його вподобання.</String>
 
     <String id="REQUEST_8_TITLE">ORD_F зерно </String>

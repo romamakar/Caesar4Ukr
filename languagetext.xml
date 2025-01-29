@@ -458,14 +458,14 @@
   <String id="ONE_TAX_COLLECTOR">Митар</String>
   <String id="ONE_GOVERNOR">Правитель</String>
   <String id="ONE_HARVESTER_DIGGER_CLAY">Видобувач глини</String>
-  <String id="ONE_HARVESTER_MINER_GOLD">Видобувач золотв</String>
+  <String id="ONE_HARVESTER_MINER_GOLD">Видобувач золота</String>
   <String id="ONE_HARVESTER_FARMER_GRAIN">Орач</String>
   <String id="ONE_HARVESTER_FARMER_GRAPE">Виноградар</String>
   <String id="ONE_HARVESTER_MINER_IRON">Рудокоп</String>
   <String id="ONE_HARVESTER_FARMER_LIVESTOCK">Скотар</String>
   <String id="ONE_HARVESTER_FARMER_OLIVE">Збирач оливок</String>
   <String id="ONE_HARVESTER_DIGGER_SAND">Піскокоп</String>
-  <String id="ONE_HARVESTER_CUTTER_TIMBER">Дровосік</String>
+  <String id="ONE_HARVESTER_CUTTER_TIMBER">Дроворуб</String>
   <String id="ONE_HARVESTER_FARMER_VEGETABLE">Огородник</String>
   <String id="ONE_HARVESTER_FARMER_WOOL">Вівчар</String>
   <String id="ONE_HARVESTER_MARBLE">Каменяр</String>
@@ -514,7 +514,7 @@
   <String id="ONE_EQUES_RETRIEVER">xВершник</String>
   <String id="MANY_EQUES_RETRIEVER">xВершники</String>
   <String id="EDIT_EQUES_RETRIEVER">xВершник</String>
-  <String id="ONE_PLEB_SERVICE_ODEUM">Робітник одеона</String>
+  <String id="ONE_PLEB_SERVICE_ODEUM">Робітник одеону</String>
   <String id="ONE_PLEB_SERVICE_ARENA">Робітник арени</String>
   <String id="ONE_PLEB_SERVICE_BARBER">Робітник цирульні</String>
   <String id="ONE_PLEB_SERVICE_BASILICA">Робітник базилік</String>
@@ -526,9 +526,9 @@
   <String id="ONE_PLEB_SERVICE_RESERVOIR">Робітник цистерни</String>
   <String id="ONE_PLEB_SERVICE_SCHOOL">Робітники школи</String>
   <String id="ONE_PLEB_SERVICE_SHRINE">Робітник святилища</String>
-  <String id="ONE_PLEB_SERVICE_TEMPLE">Робітник храм</String>
-  <String id="ONE_PLEB_SERVICE_THEATER">Робітник театр</String>
-  <String id="ONE_PLEB_SERVICE_TOWER">Стражник</String>
+  <String id="ONE_PLEB_SERVICE_TEMPLE">Робітник храму</String>
+  <String id="ONE_PLEB_SERVICE_THEATER">Робітник театру</String>
+  <String id="ONE_PLEB_SERVICE_TOWER">Вартовий</String>
   <String id="ONE_PLEB_WORKER_CLINIC">Робітник лікарні</String>
 
   <String id="ONE_BEGGAR">Жебрак</String>
@@ -542,7 +542,7 @@
   <String id="MANY_MUGGER">Рабіжники</String>
   <String id="MANY_PROTESTER">Бунтівники</String>
   <String id="ONE_ZOO_ANIMAL">Корова-людожер</String>
-  <String id="ONE_CHARIOTEER">Колесничий</String>
+  <String id="ONE_CHARIOTEER">Колісничий</String>
   <String id="ONE_INVADER">Загарбник</String>
   <String id="MANY_INVADER">Загарбники</String>
   <String id="MANY_ACTOR">Актори</String>
@@ -1002,11 +1002,11 @@
   <String id="ONE_STANDARD_BEARER_FRIENDLY_HEAVY">Важкі піхотинці</String>
   <String id="ONE_STANDARD_BEARER_FRIENDLY_LIGHT">Легкі піхотинці</String>
   <String id="ONE_STANDARD_BEARER_FRIENDLY_CAVALRY">Кавалерія</String>
-  <String id="ONE_STANDARD_BEARER_FRIENDLY_AUXILIA">Промінь</String>
+  <String id="ONE_STANDARD_BEARER_FRIENDLY_AUXILIA">Лучники</String>
   <String id="ONE_STANDARD_BEARER_ENEMY_HEAVY">Важка піхота</String>
   <String id="ONE_STANDARD_BEARER_ENEMY_LIGHT">Легка піхота</String>
   <String id="ONE_STANDARD_BEARER_ENEMY_CAVALRY">Кавалерія</String>
-  <String id="ONE_STANDARD_BEARER_ENEMY_AUXILIA">Стрілки</String>
+  <String id="ONE_STANDARD_BEARER_ENEMY_AUXILIA">Стрільці</String>
   <String id="ONE_INFANTRY_HVY">Важкий піхотинець</String>
   <String id="ONE_INFANTRY_LT">Легкий піхотинець</String>
   <String id="ONE_AUXILIA">Лучник</String>
@@ -1377,7 +1377,7 @@
   <String id="TT_STORAGE"></String>
   <!-- 8/17 added mention of water -->
   <String id="TT_EQUITES">Будинки вершників: \nвершники - представники середнього класу. Вони працюють на водонапірих та на громадських посадах, які потребують спеціальної освіти.</String>
-  <String id="TT_HARVESTING">Сировина:\nсировина надходить на склади і в житниці міста з полів, городів, скотарів та з таборів здобувачів</String>
+  <String id="TT_HARVESTING">Сировина:\nсировина надходить на склади і в житниці міста з полів, городів, скотарів та з таборів видобувачів</String>
   <String id="TT_FACTORIES">Виробництво:\nпрацівники цієї галузі виготовляють із сировини їжу та товари</String>
   <String id="TT_WATER">Вода:\nмісто потребує свіжої води. Через вузькі канали можна перекинути мости.</String>
   <String id="TT_ADMIN">Уряд:\nпрефектури, посади інженера та митаря, будівлі суду та резиденція намісника</String>
@@ -1429,7 +1429,7 @@
   <String id="TT_BUILD_MARKET_FOOD">Тут містяни купують зерно, овочі та м'ясо</String>
   <String id="TT_BUILD_MARKET_COMMON">Тут містяни купують оливкову олію, скло, кераміку та одяг</String>
   <String id="TT_BUILD_MARKET_LUXURY">Тут містяни купують начиння, вино, меблі та прикраси</String>
-  <String id="TT_BUILD_MARKET_EXOTIC">Тут патриції набувають екзотичних товарів</String>
+  <String id="TT_BUILD_MARKET_EXOTIC">Тут патриції купують екзотичні товари</String>
   <String id="TT_BLDG_ACTORS">У школах акторів вершники навчаються акторському ремеслу</String>
   <String id="TT_BLDG_ODEUM">У одеоні виступають поети та музиканти</String>
   <String id="TT_BLDG_THEATER">У театрі виступають професійні актори</String>
@@ -1438,7 +1438,7 @@
   <String id="TT_BLDG_GLADIATORS">Тут гладіаторів готують до смертельних боїв на арені та в колізеї</String>
   <String id="TT_BLDG_ARENA">На арену виходять десятки гладіаторів. Одиниці залишають її живими.</String>
   <String id="TT_BLDG_COLISEUM">Тут на славу Риму б'ються навчені гладіатори та дресовані тварини</String>
-  <String id="TT_BLDG_CIRCUS">Тут колісницькі змагаються у швидкості на потіху публіці</String>
+  <String id="TT_BLDG_CIRCUS">Тут колісничі змагаються у швидкості на потіху публіці</String>
   <String id="TT_SHRINE_JUPITER">Святилище Юпітера</String>
   <String id="TT_TEMPLE_JUPITER">Храм Юпітера, для будівництва потрібен мармур</String>
   <String id="TT_SHRINE_MARS">Мала святиня Марса</String>
@@ -1451,7 +1451,7 @@
   <String id="TT_TEMPLE_BACCHUS">Храм Бахуса, для будівництва потрібен мармур</String>
   <String id="TT_BLDG_BATHHOUSE">Тут містяни миються. Для роботи необхідна вода із цистерни.</String>
   <String id="TT_BLDG_CLINIC">Тут лікар може приймати та лікувати хворих</String>
-  <String id="TT_BLDG_HOSPITAL">Просторий госпіталь, здатна поставити на ноги безліч хворих</String>
+  <String id="TT_BLDG_HOSPITAL">Просторий госпіталь, здатен поставити на ноги безліч хворих</String>
   <String id="TT_BLDG_BARBER_SHOP">Ця будівля робить свій скромний внесок у гігієну мешканців</String>
   <String id="TT_BLDG_TAX_COLLECTOR">Митарі збирають податки з торгівлі та майна</String>
   <!-- Aug 31, added "Потрібно magistrate від Governor's residence" -->
@@ -1932,10 +1932,10 @@
   <!--********** Entertainment shows-->
 
   <String id="UI_VENUE_FEEDBACK"></String>
-  <String id="TT_VENUE_FEEDBACK_SHOW">Дають виставу:</String>
+  <String id="TT_VENUE_FEEDBACK_SHOW">Грають виставу:</String>
   <String id="ENT_SHOW_ODEUM_POETRY">Поет читає свої вірші.</String>
   <String id="ENT_SHOW_ODEUM_MUSIC">Послухайте чудову музику!</String>
-  <String id="ENT_SHOW_THEATER_ILIAD">У театрі дають "Іліаду".</String>
+  <String id="ENT_SHOW_THEATER_ILIAD">У театрі грають "Іліаду".</String>
   <String id="ENT_SHOW_THEATER_ODYSSEY">У театрі йде "Одіссея".</String>
   <String id="ENT_SHOW_ARENA_WGE">Коринфік проти галлів!</String>
   <String id="ENT_SHOW_ARENA_TRIDENT">Битва титанів! Спішіть бачити!</String>
@@ -1960,12 +1960,12 @@
   <String id="UI_MOTHBALL_STATE_OFF">Працює</String>
   <!-- Changed 08 03 -->
   <String id="UI_PREVENT_PLEBEIANS_NO">Закрито плебеям</String>
-  <String id="UI_PREVENT_PLEBEIANS_YES">Плебеям дзволено</String>
+  <String id="UI_PREVENT_PLEBEIANS_YES">Плебеям дозволено</String>
   <!-- Changed 08 03 -->
   <String id="TT_PREVENT_PLEBEIANS_NO">Вимкніть параметр, щоб дозволити всім доступ до будівлі.\nАктивуйте параметр, щоб заборонити плебеям вхід до будівлі.</String>
   <String id="TT_PREVENT_PLEBEIANS_YES">Плебеї не можуть тут купувати. Клацніть, щоб плебеї робили тут покупки.</String>
   <String id="UI_FORT_DEPLOY">Вивести</String>
-  <String id="TT_FORT_DEPLOY">Вивести когорту на побудову</String>
+  <String id="TT_FORT_DEPLOY">Вивести когорту на стрій</String>
   <String id="UI_FORT_UNDEPLOY">Повернути</String>
   <String id="TT_FORT_UNDEPLOY">Повернути когорту до форту</String>
   <!-- Додано 8 21 -->

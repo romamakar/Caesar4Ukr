@@ -24,11 +24,11 @@
     <String id="REQUEST_0_FAILURE">Тобі не вдалося виконати вимоги Риму, і його вподобання знизилося.</String>
     <String id="REQUEST_1_TITLE">REQ_M зброя </String>
     <String id="REQUEST_1_HEADING"> Запит на зброю </String>
-    <String id="REQUEST_1_BODY">Римські легіони потрібно озброювати. Прийшли до Риму зброя.</String>
+    <String id="REQUEST_1_BODY">Римські легіони потрібно озброювати. Надішли до Риму зброю.</String>
     <String id="REQUEST_1_FAILURE">Тобі не вдалося догодити Риму і домогтися його вподобання.</String>
     <String id="REQUEST_2_TITLE">REQ_M зброя </String>
     <String id="REQUEST_2_HEADING"> Запит на зброю </String>
-    <String id="REQUEST_2_BODY">Римські легіони потрібно озброювати. Прийшли до Риму зброя.</String>
+    <String id="REQUEST_2_BODY">Римські легіони потрібно озброювати. Надішли до Риму зброю.</String>
     <String id="REQUEST_2_FAILURE">Тобі не вдалося догодити Риму і домогтися його вподобання.</String>
 
     <!---->

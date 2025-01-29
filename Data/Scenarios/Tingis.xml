@@ -16,11 +16,11 @@
 
     <String id="REQUEST_0_TITLE">ORD_M зброю</String>
     <String id="REQUEST_0_HEADING">Рим вимагає надіслати зброю</String>
-    <String id="REQUEST_0_BODY">Римські війська на марші. Негайно прийшла зброя.</String>
+    <String id="REQUEST_0_BODY">Римські війська на марші. Негайно надішли зброю.</String>
     <String id="REQUEST_0_FAILURE">Тобі не вдалося виконати вимоги Риму, і його вподобання знизилося.</String>
     <String id="REQUEST_1_TITLE">ORD_M обладунки</String>
     <String id="REQUEST_1_HEADING">Рим вимагає надіслати обладунки!</String>
-    <String id="REQUEST_1_BODY">Римські війська на марші. Негайно прийшли обладунки.</String>
+    <String id="REQUEST_1_BODY">Римські війська на марші. Негайно відправ обладунки.</String>
     <String id="REQUEST_1_FAILURE">Тобі не вдалося виконати вимоги Риму, і його вподобання знизилося.</String>
     <String id="REQUEST_2_TITLE">ORD_B оливкова олія</String>
     <String id="REQUEST_2_HEADING">Рим вимагає надіслати оливкову олію</String>
@@ -32,7 +32,7 @@
     <String id="REQUEST_3_FAILURE">Тобі не вдалося виконати вимоги Риму, і його вподобання знизилося.</String>
     <String id="REQUEST_4_TITLE">ORD_L вино</String>
     <String id="REQUEST_4_HEADING">Рим вимагає надіслати вино</String>
-    <String id="REQUEST_4_BODY">Рим висуває нові вимоги. Терміново прийшли партію вина.</String>
+    <String id="REQUEST_4_BODY">Рим висуває нові вимоги. Терміново відправ партію вина.</String>
     <String id="REQUEST_4_FAILURE">Тобі не вдалося виконати вимоги Риму, і його вподобання знизилося.</String>
     <String id="REQUEST_5_TITLE">REQ_F зерно</String>
     <String id="REQUEST_5_HEADING">Запит на їжу</String>
@@ -40,11 +40,11 @@
     <String id="REQUEST_5_FAILURE">Тобі не вдалося догодити Риму і домогтися його вподобання.</String>
     <String id="REQUEST_6_TITLE">REQ_M зброя</String>
     <String id="REQUEST_6_HEADING">Запит на зброю</String>
-    <String id="REQUEST_6_BODY">Римські легіони потрібно озброювати. Прийшли до Риму зброя.</String>
+    <String id="REQUEST_6_BODY">Римські легіони потрібно озброювати. Відправ до Риму зброю.</String>
     <String id="REQUEST_6_FAILURE">Тобі не вдалося догодити Риму і домогтися його вподобання.</String>
     <String id="REQUEST_7_TITLE">REQ_M обладунки</String>
     <String id="REQUEST_7_HEADING">Запит на обладунки</String>
-    <String id="REQUEST_7_BODY">Римські легіони потрібно озброювати. Прийшли до Риму обладунки.</String>
+    <String id="REQUEST_7_BODY">Римські легіони потрібно озброювати. Відправ до Риму обладунки.</String>
     <String id="REQUEST_7_FAILURE">Тобі не вдалося догодити Риму і домогтися його вподобання.</String>
 
     <!---->

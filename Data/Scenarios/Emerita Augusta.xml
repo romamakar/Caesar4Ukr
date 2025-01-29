@@ -20,7 +20,7 @@
     <String id="REQUEST_0_FAILURE">Тобі не вдалося виконати вимоги Риму, і його вподобання знизилося.</String>
     <String id="REQUEST_1_TITLE">REQ_B скло </String>
     <String id="REQUEST_1_HEADING"> Запит на скло </String>
-    <String id="REQUEST_1_BODY">Рим росте, городянам не вистачає навіть найнеобхіднішого. Прийшли, будь ласка, скло.</String>
+    <String id="REQUEST_1_BODY">Рим росте, містянам не вистачає навіть найнеобхіднішого. Відправ, будь ласка, скло.</String>
     <String id="REQUEST_1_FAILURE">Тобі не вдалося догодити Риму і домогтися його вподобання.</String>
 
     <String id="REQUEST_2_TITLE">REQ_MIL</String>

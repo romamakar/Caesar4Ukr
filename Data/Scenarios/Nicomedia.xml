@@ -28,19 +28,19 @@
     <String id="REQUEST_2_FAILURE">Тобі не вдалося виконати вимоги Риму, і його вподобання знизилося.</String>
     <String id="REQUEST_3_TITLE">REQ_L меблі </String>
     <String id="REQUEST_3_HEADING"> Запит на меблі </String>
-    <String id="REQUEST_3_BODY">Римляни піклуються про красу. Прийшли, будь ласка, меблі.</String>
+    <String id="REQUEST_3_BODY">Римляни піклуються про красу. Відправ, будь ласка, меблі.</String>
     <String id="REQUEST_3_FAILURE">Тобі не вдалося догодити Риму і домогтися його вподобання.</String>
     <String id="REQUEST_4_TITLE">REQ_B скло </String>
     <String id="REQUEST_4_HEADING"> Запит на скло </String>
-    <String id="REQUEST_4_BODY">Рим росте, городянам не вистачає навіть найнеобхіднішого. Прийшли, будь ласка, скло.</String>
+    <String id="REQUEST_4_BODY">Рим росте, містянам не вистачає навіть найнеобхіднішого. Відправ, будь ласка, скло.</String>
     <String id="REQUEST_4_FAILURE">Тобі не вдалося догодити Риму і домогтися його вподобання.</String>
     <String id="REQUEST_5_TITLE">REQ_L начиння </String>
     <String id="REQUEST_5_HEADING"> Запит на начиння </String>
-    <String id="REQUEST_5_BODY">Римляни піклуються про красу. Прийшли, будь ласка, начиння.</String>
+    <String id="REQUEST_5_BODY">Римляни піклуються про красу. Відправ, будь ласка, начиння.</String>
     <String id="REQUEST_5_FAILURE">Тобі не вдалося догодити Риму і домогтися його вподобання.</String>
     <String id="REQUEST_6_TITLE">REQ_M зброя </String>
     <String id="REQUEST_6_HEADING"> Запит на зброю </String>
-    <String id="REQUEST_6_BODY">Римські легіони потрібно озброювати. Прийшли до Риму зброя.</String>
+    <String id="REQUEST_6_BODY">Римські легіони потрібно озброювати. Надішли до Риму зброю.</String>
     <String id="REQUEST_6_FAILURE">Тобі не вдалося догодити Риму і домогтися його вподобання.</String>
 
     <!---->
