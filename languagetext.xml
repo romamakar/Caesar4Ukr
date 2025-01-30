@@ -1170,7 +1170,7 @@
   <String id="MONTH_02">Лютий</String>
   <String id="MONTH_03">Березень</String>
   <String id="MONTH_04">Квітень</String>
-  <String id="MONTH_05">Май</String>
+  <String id="MONTH_05">Травень</String>
   <String id="MONTH_06">Червень</String>
   <String id="MONTH_07">Липень</String>
   <String id="MONTH_08">Серпень</String>
@@ -1850,7 +1850,7 @@
   <String id="TT_SOLDIERS_POTENTIAL">Кількість місць у когорті</String>
 
   <!-- Added Aug 26 -->
-  <String id="UI_SOLDIERS_ABROAD">У військовому поході</String>
+  <String id="UI_SOLDIERS_ABROAD">У воєнному поході</String>
 
   <String id="UI_ROAD_STATUS">Потрібна дорога</String>
   <String id="TT_ROAD_STATUS">Для того, щоб будівля почала працювати, необхідно підвести до неї дорогу</String>
