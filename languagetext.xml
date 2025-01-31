@@ -1250,7 +1250,7 @@
   <String id="UI_BUILD_ARENA">Арена</String>
   <String id="UI_BUILD_ZOO">Школа дресирувальників</String>
   <String id="UI_BUILD_COLISEUM">Колізей</String>
-  <String id="UI_BUILD_CHARIOTEER">Школа візників</String>
+  <String id="UI_BUILD_CHARIOTEER">Школа колісничих</String>
   <String id="UI_BUILD_CIRCUS">Цирк</String>
   <String id="UI_HEADING_FOOD">Їжа</String>
   <String id="UI_BUILD_FARM_GRAIN">Зернова ферма</String>
@@ -1595,7 +1595,7 @@
 
   <String id="C4_COHORT_EXPERIENCE_PLACEHOLDER">***Затичка***</String>
   <String id="C4_COHORT_EXPERIENCE_TRAINING_1">Ненавчений</String>
-  <String id="C4_COHORT_EXPERIENCE_TRAINING_2">Навчених</String>
+  <String id="C4_COHORT_EXPERIENCE_TRAINING_2">Навчений</String>
   <String id="C4_COHORT_EXPERIENCE_TRAINING_3">Експерт</String>
   <String id="C4_COHORT_EXPERIENCE_BATTLE_1">Новачок</String>
   <String id="C4_COHORT_EXPERIENCE_BATTLE_2">Досвідчений воїн</String>
@@ -6975,10 +6975,10 @@
   <!-- experience-->
   <String id="LEGA_EXPERIENCE_PLACEHOLDER">Затичка</String>
   <String id="LEGA_EXPERIENCE_TRAINING_1">Ненавчений</String>
-  <String id="LEGA_EXPERIENCE_TRAINING_2">Навчених</String>
+  <String id="LEGA_EXPERIENCE_TRAINING_2">Навчений</String>
   <String id="LEGA_EXPERIENCE_TRAINING_3">Експерт</String>
   <String id="LEGA_EXPERIENCE_BATTLE_1">Новачок</String>
-  <String id="LEGA_EXPERIENCE_BATTLE_2">Дослідний воїн</String>
+  <String id="LEGA_EXPERIENCE_BATTLE_2">Досвідчений воїн</String>
   <String id="LEGA_EXPERIENCE_BATTLE_3">Ветеран</String>
   <String id="LEGA_EXPERIENCE_ELITE">Елітний воїн</String>
 
@@ -7813,7 +7813,7 @@
   <String id="TT_SF_DEFAULT_COHORT">Що робить когорта</String>
   <String id="TT_SF_DEFAULT_BOAT">Дія цього судна</String>
   <String id="UI_SF_BLANK"></String>
-  <String id="UI_SF_ACTIVATING_ACTOR">Дає виставу</String>
+  <String id="UI_SF_ACTIVATING_ACTOR">Грає виставу</String>
   <String id="UI_SF_ACTIVATING_ANIMAL">Б'ється в колізеї</String>
   <String id="UI_SF_ACTIVATING_CHARIOTEER">Бере участь у змаганнях</String>
   <String id="UI_SF_ACTIVATING_GLADIATOR">***GLADIATOR ACTIVATOR***</String>
@@ -8013,7 +8013,7 @@
   <!-- added 08 26 -->
   <String id="UI_SF_VISITING_PRIEST">Благословляє будинок та його мешканців</String>
   <!-- added 08 26 -->
-  <String id="UI_SF_VISITING_SCHOLAR">Дає уроки</String>
+  <String id="UI_SF_VISITING_SCHOLAR">Навчає учнів</String>
   <String id="UI_SF_VISITING_SCHOOL">Прямує до школи</String>
   <String id="UI_SF_VISITING_SHRINE_BACCHUS">Напрямує до святилища Бахуса</String>
   <String id="UI_SF_VISITING_SHRINE_CERES">Направляється до святилища Церери</String>
