@@ -7790,15 +7790,15 @@
   <String id="JUPITER_WRATH_GREATER">Юпітер обрушив свій гнів на місто! Потрібно скоріше умилостивити його!</String>
 
   <String id="JUPITER_BENE_LESSER_TITLE">Милість Юпітера</String>
-  <String id="JUPITER_BENE_GREATER_TITLE">Благость Юпітера</String>
+  <String id="JUPITER_BENE_GREATER_TITLE">Благословення Юпітера</String>
   <String id="MERCURY_BENE_LESSER_TITLE">Милість Меркурія</String>
-  <String id="MERCURY_BENE_GREATER_TITLE">Благость Меркурія</String>
+  <String id="MERCURY_BENE_GREATER_TITLE">Благословення Меркурія</String>
   <String id="MARS_BENE_LESSER_TITLE">Милість Марса</String>
-  <String id="MARS_BENE_GREATER_TITLE">Благость Марса</String>
+  <String id="MARS_BENE_GREATER_TITLE">Благословення Марса</String>
   <String id="CERES_BENE_LESSER_TITLE">Милість Церери</String>
-  <String id="CERES_BENE_GREATER_TITLE">Благость Церери</String>
+  <String id="CERES_BENE_GREATER_TITLE">Благословення Церери</String>
   <String id="BACCHUS_BENE_LESSER_TITLE">Милість Бахуса</String>
-  <String id="BACCHUS_BENE_GREATER_TITLE">Блага Бахуса</String>
+  <String id="BACCHUS_BENE_GREATER_TITLE">Благословення Бахуса</String>
   <String id="JUPITER_WRATH_LESSER_TITLE">Гнів Юпітера</String>
   <String id="JUPITER_WRATH_GREATER_TITLE">Лють Юпітера</String>
 
@@ -7994,39 +7994,39 @@
   <String id="UI_SF_TRADE_BOAT_HOME">Пливе морем</String>
   <String id="UI_SF_TRADE_BOAT_GATHERING">Торгує на пристані</String>
   <String id="UI_SF_VISITING_ARENA">Йде на арену</String>
-  <String id="UI_SF_VISITING_BARBER">Направляється до цирульника</String>
-  <String id="UI_SF_VISITING_BASILICA">Направляється в базиліку</String>
-  <String id="UI_SF_VISITING_BATHHOUSE">Спрямовується до терм</String>
-  <String id="UI_SF_VISITING_CIRCUS">Направляється в цирк</String>
-  <String id="UI_SF_VISITING_CLINIC">Направляється до лікарні</String>
+  <String id="UI_SF_VISITING_BARBER">Йде до цирульника</String>
+  <String id="UI_SF_VISITING_BASILICA">Йде в базиліку</String>
+  <String id="UI_SF_VISITING_BATHHOUSE">Йде до терм</String>
+  <String id="UI_SF_VISITING_CIRCUS">Йде в цирк</String>
+  <String id="UI_SF_VISITING_CLINIC">Йде до лікарні</String>
   <String id="UI_SF_VISITING_COLISEUM">Спрямовується в колізей</String>
-  <String id="UI_SF_VISITING_DOMUS">Направляється до будинку</String>
-  <String id="UI_SF_VISITING_FORUM">Направляється на форум</String>
-  <String id="UI_SF_VISITING_HOSPITAL">Направляється до лікарні</String>
+  <String id="UI_SF_VISITING_DOMUS">Йде до будинку</String>
+  <String id="UI_SF_VISITING_FORUM">Йде на форум</String>
+  <String id="UI_SF_VISITING_HOSPITAL">Йде до лікарні</String>
   <!-- added 08 26 -->
   <String id="UI_SF_VISITING_HOUSECALL">Відправляється на домашній виклик</String>
-  <String id="UI_SF_VISITING_INSULA">Направляється в квартал</String>
-  <String id="UI_SF_VISITING_LIBRARY">Направляється до бібліотеки</String>
+  <String id="UI_SF_VISITING_INSULA">Йде в квартал</String>
+  <String id="UI_SF_VISITING_LIBRARY">Йде до бібліотеки</String>
   <!-- added 08 26 -->
   <String id="UI_SF_VISITING_MAGISTRATE">П'є чай та розмовляє про справедливість</String>
-  <String id="UI_SF_VISITING_ODEUM">Направляється в одеон</String>
+  <String id="UI_SF_VISITING_ODEUM">Йде до одеону</String>
   <!-- added 08 26 -->
   <String id="UI_SF_VISITING_PRIEST">Благословляє будинок та його мешканців</String>
   <!-- added 08 26 -->
   <String id="UI_SF_VISITING_SCHOLAR">Навчає учнів</String>
   <String id="UI_SF_VISITING_SCHOOL">Прямує до школи</String>
-  <String id="UI_SF_VISITING_SHRINE_BACCHUS">Напрямує до святилища Бахуса</String>
-  <String id="UI_SF_VISITING_SHRINE_CERES">Направляється до святилища Церери</String>
-  <String id="UI_SF_VISITING_SHRINE_JUPITER">Направляється в святилище Юпітера</String>
-  <String id="UI_SF_VISITING_SHRINE_MARS">Направляється в святилище Марса</String>
-  <String id="UI_SF_VISITING_SHRINE_MERCURY">Направляється до святилища Меркурія</String>
-  <String id="UI_SF_VISITING_TEMPLE_BACCHUS">Направляється до храму Бахуса</String>
+  <String id="UI_SF_VISITING_SHRINE_BACCHUS">Йде до святилища Бахуса</String>
+  <String id="UI_SF_VISITING_SHRINE_CERES">Йде до святилища Церери</String>
+  <String id="UI_SF_VISITING_SHRINE_JUPITER">Йде до святилища Юпітера</String>
+  <String id="UI_SF_VISITING_SHRINE_MARS">Йде до святилища Марса</String>
+  <String id="UI_SF_VISITING_SHRINE_MERCURY">Йде до святилища Меркурія</String>
+  <String id="UI_SF_VISITING_TEMPLE_BACCHUS">Йде до храму Бахуса</String>
   <String id="UI_SF_VISITING_TEMPLE_CERES">Направляється до храму Церери</String>
-  <String id="UI_SF_VISITING_TEMPLE_JUPITER">Направляється до храму Юпітера</String>
-  <String id="UI_SF_VISITING_TEMPLE_MARS">Направляється до храму Марса</String>
+  <String id="UI_SF_VISITING_TEMPLE_JUPITER">Йде до храму Юпітера</String>
+  <String id="UI_SF_VISITING_TEMPLE_MARS">Йде до храму Марса</String>
   <String id="UI_SF_VISITING_TEMPLE_MERCURY">Прямує до храму Меркурія</String>
   <String id="UI_SF_VISITING_THEATER">Прямує до театру</String>
-  <String id="UI_SF_VISITING_VILLA_1">Прямує на віллу</String>
+  <String id="UI_SF_VISITING_VILLA_1">Прямує у віллу</String>
   <String id="UI_SF_VISITING_VILLA_2">Прямує в маєток</String>
   <String id="UI_SF_VISITING_VILLA_3">Прямує до палацу</String>
 
