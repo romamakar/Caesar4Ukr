@@ -3,6 +3,8 @@ Caesar 4 Ukr. v.1.2
 
 Перекладено весь текст, що використовується у грі.
 
+![example workflow](https://github.com/romamakar/Caesar4Ukr/actions/workflows/dotnet-desktop.yml/badge.svg?branch=master)
+
 Можливо переклад не ідеальний, тому кожен охочий може докластись до нього та виправляти.
 
 Для встановлення скачайте файл Caesar4_ukr.zip з https://github.com/romamakar/Caesar4Ukr/releases/download/zip/Caesar4_ukr.zip та розпакуйте в папку з грою.
