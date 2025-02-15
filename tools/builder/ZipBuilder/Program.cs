@@ -37,8 +37,8 @@ namespace ZipBuilder
                     archive.CreateEntryFromFile(file, entryScene);
                 }
 
-                string additionalFile = archiveFolder + "\\languagetext.xm";
-                archive.CreateEntryFromFile(additionalFile, "languagetext.xm");
+                string additionalFile = archiveFolder + "\\languagetext.xml";
+                archive.CreateEntryFromFile(additionalFile, "languagetext.xml");
 
             }
 
