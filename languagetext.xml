@@ -5928,8 +5928,8 @@
   <String id="CA_PLEB_LABOR_6">Необхідні робочі місця для плебеїв</String>
   <String id="CA_PLEB_LABOR_7">У місті багато безробітних плебеїв</String>
   <String id="CA_PLEB_LABOR_8">У місті надто багато безробітних плебеїв</String>
-  <String id="CA_EQUITE_LABOR_1">Місто необхідні працівники-вершники</String>
-  <String id="CA_EQUITE_LABOR_2">Місто потрібні працівники-вершники</String>
+  <String id="CA_EQUITE_LABOR_1">Місту необхідні працівники-вершники</String>
+  <String id="CA_EQUITE_LABOR_2">Місту потрібні працівники-вершники</String>
   <String id="CA_EQUITE_LABOR_3">У місті не вистачає працівників-вершників</String>
   <String id="CA_EQUITE_LABOR_4">Усім вершникам вистачає роботи</String>
   <String id="CA_EQUITE_LABOR_5">Потрібні робочі місця для вершників</String>
