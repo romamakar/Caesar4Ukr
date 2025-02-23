@@ -19,7 +19,7 @@
         <String id="REQUEST_0_TITLE">REQ_E шовк</String>
         <String id="REQUEST_0_HEADING">Запит на шовк</String>
         <String id="REQUEST_0_BODY">Римляни люблять екзотику. Якщо можливо, відправте шовк до Рима.</String>
-        <String id="REQUEST_0_FAILURE">Вам не вдалося задовольнити Рим і здобути його ласку.</String>
+        <String id="REQUEST_0_FAILURE">Тобі не вдалося задовольнити Рим і здобути його ласку.</String>
 
         <String id="REQUEST_1_TITLE">REQ_B кераміка</String>
         <String id="REQUEST_1_HEADING">Запит на кераміку</String>
