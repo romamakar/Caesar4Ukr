@@ -6463,7 +6463,7 @@
   <String id="TT_IMPA_FESTIVALS_COOLDOWN_FEEDBACK"></String>
 
   <!-- hmmmmm check if used-->
-  <String id="FD_DENARII">%d днів</String>
+  <String id="FD_DENARII">%d дн.</String>
   <String id="FD_COOLDOWN">Це свято можна знову провести через %d міс.</String>
   <String id="FD_DECLARE">Оголосити свято</String>
   <String id="FD_CANCEL">Відміна</String>
@@ -6493,7 +6493,7 @@
   <String id="RA_RADIO_CULTURE_LABEL">КУЛЬТУРА</String>
   <String id="RA_RADIO_SECURITY_LABEL">БЕЗПЕКА</String>
   <String id="RA_RADIO_PROSPERITY_LABEL">ПРОЦВІТАННЯ</String>
-  <String id="RA_RADIO_FAVOR_LABEL">БЛАГОВОЛЕННЯ</String>
+  <String id="RA_RADIO_FAVOR_LABEL">БЛАГОВОЛІННЯ</String>
   <String id="RA_RADIO_POPULATION_LABEL">НАСЕЛЕННЯ</String>
 
   <String id="RA_FEEDBACK_LINE_1">Затичка</String>
