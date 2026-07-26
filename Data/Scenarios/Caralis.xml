@@ -6,7 +6,7 @@
     <String id="HINTS"></String>
     <String id="AFTERMATH"></String>
     <String id="SCENARIONAME">Караліс</String>
-    <String id="WIN">Можливо, торгівля - не найшанованіша професія, але вона необхідна для підтримки провінції. Правь мудро, і тебе не забудуть.</String>
+    <String id="WIN">Можливо, торгівля - не найшанованіша професія, але вона необхідна для підтримки провінції. Керуй мудро, і тебе не забудуть.</String>
     <String id="LOSE">Ти привів процвітаючу раніше провінцію в занепад. Не найкращий спосіб привернути увагу імператора.</String>
     <String id="POPULATION">1,200</String>
     <String id="FAVOR">50</String>
@@ -43,7 +43,7 @@
     <String id="INVASION_0_TITLE">Місцеві бандити</String>
     <String id="INVASION_0_YEAR"></String>
     <String id="INVASION_0_THREE_MONTH"></String>
-    <String id="INVASION_0_ONE_MONTH">Вороги осадили наше місто. Кожен день ми чекаємо нападу.</String>
+    <String id="INVASION_0_ONE_MONTH">Вороги оточили наше місто. Кожен день ми чекаємо нападу.</String>
     <String id="INVASION_0_ARRIVAL">Час братися за мечі і віддати відсіч ворогам! Захистимо наше місто!</String>
 
     <String id="SITE_0_LABEL">Лацій</String>

@@ -42,13 +42,13 @@
     <String id="INVASION_0_TITLE">Місцеві бандити</String>
     <String id="INVASION_0_YEAR"></String>
     <String id="INVASION_0_THREE_MONTH"></String>
-    <String id="INVASION_0_ONE_MONTH">Вороги осадили наше місто. Щодня ми чекаємо нападу.</String>
+    <String id="INVASION_0_ONE_MONTH">Вороги оточили наше місто. Щодня ми чекаємо нападу.</String>
     <String id="INVASION_0_ARRIVAL">Час братися за мечі і дати відсіч ворогам! Захистим наше місто!</String>
 
     <String id="INVASION_1_TITLE">Розбійники-бедуїни</String>
     <String id="INVASION_1_YEAR"></String>
     <String id="INVASION_1_THREE_MONTH">Останнім часом напади на мирних жителів збільшилися. Розбійники наближаються до нашого міста.</String>
-    <String id="INVASION_1_ONE_MONTH">Вороги осадили наше місто. Щодня ми чекаємо нападу.</String>
+    <String id="INVASION_1_ONE_MONTH">Вороги оточили наше місто. Щодня ми чекаємо нападу.</String>
     <String id="INVASION_1_ARRIVAL">Час братися за мечі і дати відсіч ворогам! Захистим наше місто!</String>
 
     <String id="SITE_0_LABEL">Лацій</String>
