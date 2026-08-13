@@ -2115,7 +2115,7 @@
   <String id="TT_EL_SUSPEND_ROUTE">Тимчасово призупинити торгівлю з містом (пізніше можна безкоштовно відновити торговельні відносини)</String>
   <String id="TT_EL_RESUME_ROUTE">Відкрити торгівлю знову</String>
   <String id="TT_EL_VOLUME">Кількість угод з містом у поточному році / Очікувана кількість угод на рік</String>
-  <String id="EL_COST_TO_OPEN">%d днів</String>
+  <String id="EL_COST_TO_OPEN">%d денаріїв</String>
   <String id="EL_COST_TO_OPEN_LABEL">Ціна відкриття:</String>
   <String id="EL_TRADE_ROUTE_TYPE">%s</String>
   <String id="EL_TRADE_ROUTE_TYPE_LABEL">Тип шляху:</String>
@@ -4266,7 +4266,7 @@
   <String id="INVASION_OVER_MESSAGE">Вороги залишили місто.</String>
   <String id="INVASION_BOUGHT_OFF_TITLE">Відкуп</String>
   <String id="INVASION_BOUGHT_OFF_TEXT">Місто відкупилося від ворога.</String>
-  <String id="INVASION_BUY_OFF_PROMPT">%s\nВідкупитися від загарбників за %d днів?</String>
+  <String id="INVASION_BUY_OFF_PROMPT">%s\nВідкупитися від загарбників за %d денаріїв?</String>
   <!-- Rome's invasion messages -->
   <!-- Revised 8 17 -->
   <String id="ROME_INVASION_TITLE">Римська армія</String>
@@ -4324,7 +4324,7 @@
   <String id="PROVINCE_023">Месопотамія</String>
   <String id="PROVINCE_024">Мезія</String>
   <String id="PROVINCE_025">Нарбонська Галія</String>
-  <String id="PROVINCE_026">Норік</String>
+  <String id="PROVINCE_026">Норик</String>
   <String id="PROVINCE_027">Нумідія</String>
   <String id="PROVINCE_028">Самнія</String>
   <String id="PROVINCE_029">Сардинія</String>
@@ -6330,7 +6330,7 @@
   <String id="IA_GIFT_17_TEXT">Трупа талановитих танцюристів.</String>
   <String id="IA_GIFT_17_SENT">Твій дар був прийнятий з радістю.</String>
   <String id="IA_GIFT_18_HEADER">Намисто (середній)</String>
-  <String id="IA_GIFT_18_TEXT">Великі, золоті намисто з Німеччини.</String>
+  <String id="IA_GIFT_18_TEXT">Великі, золоті намиста з Німеччини.</String>
   <String id="IA_GIFT_18_SENT">Твій дар був прийнятий з радістю.</String>
   <String id="IA_GIFT_19_HEADER">Кільця (середній)</String>
   <String id="IA_GIFT_19_TEXT">Набір срібних каблучок по одному на палець.</String>
@@ -7063,7 +7063,7 @@
 
   <String id="MAP_ILLYRICUM">Іллірія</String>
   <String id="MAP_ITALIA">Італія</String>
-  <String id="MAP_NORICUM">Норік</String>
+  <String id="MAP_NORICUM">Норик</String>
   <String id="MAP_PANNONIA">Паннонія</String>
   <String id="MAP_REATIA">Реція</String>
   <String id="MAP_CURRENT">Поточна місія</String>
