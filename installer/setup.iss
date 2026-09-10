@@ -24,6 +24,7 @@ OutputDir=Output
 SetupIconFile=D:\a\Caesar4Ukr\Caesar4Ukr\installer\installer.ico
 SolidCompression=yes
 WizardStyle=modern dynamic
+AppendDefaultDirName=no
 
 [Languages]
 Name: "english"; MessagesFile: "compiler:Default.isl"
